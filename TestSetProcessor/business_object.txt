@@ -1,0 +1,1204 @@
+LNdwp-9Isnd6xmBKUz4K_A	[Burgers, Fast Food, Restaurants]	Ahwatukee	AZ	33.34856	-111.975006	2.0	0
+-ZUEwUytc63ZWvgXJz7gHQ	[Women's Clothing, Men's Clothing, Fashion, Shopping, Accessories]	Anthem	AZ	33.87387	-112.15023	3.5	0
+NHBfYwGcQk5RUVCbnpWRsg	[Web Design, Professional Services]	Anthem	AZ	33.86722	-112.14199	3.5	0
+zvFhC2Lywo6e8UaRTVj7sw	[Restaurants]	Apache Junction	AZ	33.435696	-111.548805	3.5	0
+tgFTrk5o3_TxwokIlLxOKQ	[Professional Services, Electronics, Shopping, Home Services, Internet Service Providers]	Apache Junction	AZ	33.42315	-111.54941	1.0	0
+zOayTVSvtaWDt8pWH1N6OQ	[Pizza, Restaurants]	Apache Junction	AZ	33.41535	-111.56898	3.5	0
+yfjnV2wQb5oK9k0xBZZ06w	[Pet Services, Veterinarians, Pet Boarding/Pet Sitting, Pets]	Apache Junction	AZ	33.41588	-111.58887	2.5	0
+6q1-3EtHXk2bFyANIxA11g	[Food, Food Delivery Services, Delis, Sandwiches, Restaurants]	Avondale	AZ	33.465256	-112.27729	3.5	0
+RPgsrBEcc4NWlvnaW4Hwxg	[Home Services, Real Estate, Apartments]	Avondale	AZ	33.463398	-112.31404	3.5	0
+qYO1UwChd4EKLtGGR7BquA	[Cafes, Asian Fusion, Restaurants]	Avondale	AZ	33.482388	-112.34085	2.5	0
+FosnBEgugCZfnvBwQbZPSA	[Restaurants]	Avondale	AZ	33.461224	-112.34044	3.0	0
+jli7Qqj43zUnmt622tMHYg	[Food, Grocery, Shopping, Electronics]	Avondale	AZ	33.45245	-112.33902	3.0	0
+oeGNIi1XEjpEXb8D5HdEFA	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	Avondale	AZ	33.49301	-112.29101	2.5	0
+VFi-N5ySGpId7-ie85rSHQ	[Restaurants]	Avondale	AZ	33.45635	-112.34033	3.0	0
+Ap8cykRoMrYRTBbX02aVYw	[Active Life, Amusement Parks]	Avondale	AZ	33.445568	-112.30504	4.0	0
+z5UrjCSsJL625QLJFyrbeA	[Local Services, Carpet Cleaning]	Avondale	AZ	33.446552	-112.29099	5.0	0
+CckmnbRINaLB4Aaq1dAFCQ	[Greek, Restaurants]	Avondale	AZ	33.430534	-112.34536	4.0	0
+ONpk2xjLHnIVJksYzOEReQ	[Tanning, Beauty & Spas]	Buckeye	AZ	33.43401	-112.55637	5.0	0
+oZmGpuygmViMCc27CerS7Q	[Active Life, Golf]	Buckeye	AZ	33.665882	-112.623	3.0	0
+sPXs-DYlqf4DdRdIF0N9WA	[Beauty & Spas, Nail Salons]	Buckeye	AZ	33.355015	-112.59076	1.5	0
+i34vkqUPB6dJHj4tEvXTmQ	[Food, Automotive, Convenience Stores, Internet Cafes, Gas & Service Stations]	Buckeye	AZ	33.4309	-112.59094	3.5	0
+QTBUIAFtdUx-YMcWaI3GiQ	[Fast Food, Restaurants]	Buckeye	AZ	33.439987	-112.55632	1.5	0
+zFj1CrziorMtpE6JM6jSHw	[Health & Medical, Dentists]	Casa Grande	AZ	32.909927	-111.73985	3.5	0
+VF0tTQAgrWVNWXoDhUnWzw	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels]	Casa Grande	AZ	32.881245	-111.69749	5.0	0
+ewwDY8vD3K6tbtulRGz8Nw	[Doctors, Health & Medical]	Casa Grande	AZ	32.880173	-111.71172	3.5	0
+1lS4-F785wYGn6u2dzUgow	[French, Restaurants]	Cave Creek	AZ	33.82847	-111.92892	4.0	0
+Je0PhDi5yk4aG6jNaG7nDg	[Food, Ice Cream & Frozen Yogurt]	Cave Creek	AZ	33.751686	-111.99131	1.5	0
+yYo3Y4J1Lq33Goif_Dl20Q	[Fast Food, Restaurants]	Cave Creek	AZ	33.770664	-111.982155	3.0	0
+-TcEs-q39n1LC3kJBXZp0w	[Restaurants]	Cave Creek	AZ	33.756924	-111.990814	2.5	0
+GpyD4xNC_brDF4lcphgozg	[Shopping, Drugstores]	Cave Creek	AZ	33.7421	-111.97984	3.5	0
+RPLVzsdj1znGdivDSWNYTg	[Shopping, Personal Shopping]	Cave Creek	AZ	33.795578	-111.965904	4.0	0
+Xl-iiIZM0RVtwARlAL7cPQ	[Veterinarians, Pets]	Cave Creek	AZ	33.79753	-111.97665	4.5	0
+wL1JUkHy306MfRHptxZbvQ	[Skin Care, Hair Salons, Nail Salons, Beauty & Spas]	Cave Creek	AZ	33.8321	-111.94094	5.0	0
+j0yrLV3oSceCd9FYqB9Q0Q	[Department Stores, Grocery, Fashion, Shopping, Food, Mobile Phones]	Chandler	AZ	33.2475	-111.87918	2.5	0
+e6-EY1yKzgnwYmRtvS69Fw	[Barbers, Beauty & Spas]	Chandler	AZ	33.233017	-111.85791	4.5	0
+1GGDWcH7hrr9wo7SPtEl_A	[Hardware Stores, Shopping, Home & Garden]	Chandler	AZ	33.33668	-111.858986	4.0	0
+wf5Wc1RXkxlCfAUhwkUCow	[Active Life, Skating Rinks]	Chandler	AZ	33.314957	-111.96738	4.0	0
+e6Mpww7fKEmnfB4AaCAAyg	[Chinese, Restaurants]	Chandler	AZ	33.244884	-111.78946	4.0	0
+sVuRBLX9nFG4UOhpeYTSiw	[Churches, Religious Organizations]	Chandler	AZ	33.28284	-111.85652	4.5	0
+itD_VnpNJnfua6dCPp7EFA	[Japanese, Restaurants]	Chandler	AZ	33.274822	-111.860214	3.5	0
+xvqyyJEPPV1zKhKWqJ0Kgw	[Active Life, Gyms, Trainers, Fitness & Instruction]	Chandler	AZ	33.277893	-111.859116	3.0	0
+eiiu_OFYH2st6_y50sJ6kA	[Active Life, Skating Rinks]	Chandler	AZ	33.319798	-111.86167	3.5	0
+4M1fVHmnSyNg-fNW247-QA	[Mexican, Restaurants]	Chandler	AZ	33.349136	-111.87562	3.5	0
+N8VigpcX5SkxJJ1LFdt93w	[Food, Grocery]	Chandler	AZ	33.31934	-111.9416	4.5	0
+ZqX6rvRAxlCG4Refniq_BA	[Active Life, Yoga, Fitness & Instruction]	Chandler	AZ	33.319393	-111.87496	4.5	0
+soH8ekCER45AjfMaM6cJ2A	[Mexican, Restaurants]	Chandler	AZ	33.23635	-111.7899	4.0	0
+JBNLnJyrJkhWfFNb3bNr0A	[Arts & Entertainment, American (Traditional), Music Venues, Bars, Nightlife, Restaurants]	Chandler	AZ	33.301643	-111.84158	3.5	0
+PiA6iGArMkzNGxpqu48NTQ	[Arts & Entertainment, Cinema]	Chandler	AZ	33.30537	-111.90065	4.0	0
+90upndp71FwHEET43vx80Q	[Caribbean, Restaurants]	Chandler	AZ	33.30594	-111.94718	3.0	0
+nVHwkGqR8ykPdVzUQYgFXA	[Optometrists, Health & Medical]	Chandler	AZ	33.320526	-111.90848	3.0	0
+_SZA99JumR-IBmdnkjQxJg	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians]	Chandler	AZ	33.220295	-111.86751	3.5	0
+JldeckM7eWBHCTE1qFAS4Q	[Shopping, Home & Garden, Furniture Stores]	Chandler	AZ	33.33304	-111.86047	2.0	0
+8U0yP_1MwOM3uYS1vCD5aA	[Banks & Credit Unions, Financial Services]	Chandler	AZ	33.305813	-111.87406	3.0	0
+vO37WFLmYZDB8FeaNZuJwQ	[Massage Therapy, Health & Medical, Chiropractors]	Chandler	AZ	33.246475	-111.842834	5.0	0
+ELmeO2guUY0NV99puvgc1A	[Automotive, Auto Parts & Supplies]	Chandler	AZ	33.276943	-111.86005	3.0	0
+aI9jpMHlifqBGwca2pK20Q	[Hotels & Travel, Event Planning & Services, Hotels]	Chandler	AZ	33.319992	-111.841774	3.5	0
+6meyy0ehAixbjFxsbVeXoQ	[Shopping, Jewelry]	Chandler	AZ	33.245235	-111.83904	2.5	0
+egrJySThsPAhJUcxQ4MZoQ	[Hair Salons, Beauty & Spas]	Chandler	AZ	33.317905	-111.964134	4.0	0
+7Z-PesxN_Ifb7rozrQqP-Q	[Shopping, Drugstores]	Chandler	AZ	33.29186	-111.82554	2.5	0
+CrwzX70X2XV1hlGhk30nYQ	[Pizza, Restaurants]	Chandler	AZ	33.261387	-111.85724	2.5	0
+WpYASEVTh9leHYfk_CLZzQ	[Plumbing, Home Services]	Chandler	AZ	33.334564	-111.83663	2.0	0
+1D9wTe9u0anBT6vrNL7HnQ	[Local Services, Shopping, Jewelry, Watches, Watch Repair]	Chandler	AZ	33.30568	-111.89755	4.5	0
+4BQnhh9HDTurHZWO4vBnHw	[Doctors, Beauty & Spas, Hair Removal, Skin Care, Health & Medical, Family Practice, Laser Hair Removal]	Chandler	AZ	33.248993	-111.86573	4.5	0
+93GZbJx3LXiBfCqEKNdjdg	[Food, Grocery]	Chandler	AZ	33.348907	-111.874794	3.5	0
+IjHrazhr8AA3rayVL0FNYQ	[Home Services, Heating & Air Conditioning/HVAC]	Chandler	AZ	33.29841	-111.95295	5.0	0
+eA-28amj1V01aSY_PHnWvQ	[Home Services, Flooring, Contractors]	Chandler	AZ	33.220306	-111.829834	5.0	0
+najn_Sy-_IzMvq5q4n6p8w	[Restaurants]	Chandler	AZ	33.30645	-111.87453	1.5	0
+nEsrTWfitsmPWdrESYXS8Q	[Plumbing, Home Services]	Chandler	AZ	33.326332	-111.82519	4.5	0
+wxvOv5ERgY2SPp1OyIdLEQ	[]	Chandler	AZ	33.29223	-111.8217	1.0	0
+PX17QrZWrtolkzY7zHUyrw	[Men's Clothing, Fashion, Shopping]	Chandler	AZ	33.305794	-111.89807	3.5	0
+J8aCApsR5aAZxXpPYk0vZw	[Handyman, Home Services]	Chandler	AZ	33.299747	-111.8061	5.0	0
+1zIOF6DwEqZx-tBI35UXDw	[Beauty & Spas, Nail Salons]	Chandler	AZ	33.32149	-111.82143	2.5	0
+dmyUJC3P9-rY16HLd26e6Q	[Shopping, Office Equipment]	Chandler	AZ	33.26243	-111.85797	4.0	0
+1XdgclHxKMXHFz6J2LKucQ	[Active Life, Weight Loss Centers, Health & Medical, Trainers, Fitness & Instruction]	Chandler	AZ	33.32163	-111.83285	5.0	0
+HLbtxdO4NjwrByexahGKbA	[Day Spas, Massage, Beauty & Spas]	Chandler	AZ	33.35107	-111.857925	4.5	0
+03CbXZiV5s840DdwX2PX8Q	[]	Chandler	AZ	33.32603	-111.87475	5.0	0
+BnnYVXm9oP2ZhkWfkgC7dA	[Food, Ice Cream & Frozen Yogurt]	Chandler	AZ	33.32176	-111.876366	3.5	0
+0SkiN-iSb68lMN6CfZI5-A	[Veterinarians, Pets]	Chandler	AZ	33.348778	-111.87727	4.5	0
+diuqytl33lepoXpJz0pzQw	[]	Chandler	AZ	33.30568	-111.89755	4.5	0
+QALbv4Qju9yirW3bU4QtLw	[Mexican, Restaurants]	Chandler	AZ	33.302246	-111.897964	2.5	0
+V5cVA6KYpC6Gox4KTKQq1g	[Hair Salons, Beauty & Spas]	Chandler	AZ	33.3223	-111.8767	5.0	0
+ydGYlkBoUETFpqFAvI_i0w	[Women's Clothing, Fashion, Shopping]	Chandler	AZ	33.276276	-111.87512	4.0	0
+E1O-aQeH6taHMAOjqoC_FQ	[Food, Coffee & Tea]	Chandler	AZ	33.305424	-111.94823	3.5	0
+PY-j9OG_jIvC1o-rIy4jxw	[Shopping, Jewelry, Pawn Shops]	Chandler	AZ	33.322483	-111.84183	2.5	0
+hGSEOl61hSjKJZNZJ8uFUg	[Home Services, Real Estate, Apartments]	Chandler	AZ	33.29561	-111.87979	2.5	0
+lRpke2ux5ywaiQ8phFA4Lg	[Szechuan, Chinese, Restaurants]	Chandler	AZ	33.3402	-111.85969	4.5	0
+-MFnc3jvLEduvqkOlaylHQ	[Burgers, Salad, Restaurants]	Chandler	AZ	33.24919	-111.84084	4.5	0
+yn0xOJzErpI0LGkfKxiNfg	[Health & Medical, Physical Therapy, Chiropractors]	Chandler	AZ	33.26126	-111.8766	4.0	0
+vFJRQYC1NYl9Xt5KLbeNXQ	[Beauty & Spas, Nail Salons]	Chandler	AZ	33.22605	-111.83121	4.5	0
+ci0-eHLA7C-7DLNW6VJ9Ng	[Landscaping, Home Services]	Chandler	AZ	33.293842	-111.96886	4.0	0
+ItbsW1AD8bRMRFr4eOIHvw	[Sandwiches, Restaurants]	Chandler	AZ	33.30606	-111.87817	3.5	0
+AV5UNITA65DSNqYr_mhtbw	[Doctors, Health & Medical, Urgent Care]	Chandler	AZ	33.320305	-111.89058	3.5	0
+XEdBJi1WZzvatmkxFEIlOw	[Thrift Stores, Shopping]	Chandler	AZ	33.290577	-111.83813	5.0	0
+s9RTYq3RCfOYFv2JIzs2vg	[Property Management, Home Services, Real Estate]	Chandler	AZ	33.298153	-111.913826	1.0	0
+BNww37a5p5aYE1i0_BYJxQ	[Computers, Shopping]	Chandler	AZ	33.305813	-111.87439	5.0	0
+fB1cVRRGTauOJktErb-PHA	[Doctors, Health & Medical]	Chandler	AZ	33.335903	-111.85114	2.0	0
+3lzvwV2W1KCUoxXC4d2ljg	[Local Services, Pest Control]	Chandler	AZ	33.350124	-111.84436	5.0	0
+6nfTUgP3UvQ_jhnT8kCpew	[Sushi Bars, Japanese, Restaurants]	Chandler	AZ	33.262707	-111.857704	3.5	0
+YsDzq6tWtVZS10WyXDn_mA	[Plumbing, Handyman, Home Services]	Chandler	AZ	33.351078	-111.8716	4.0	0
+XOOlEuIOo0wPjYOjbXGecg	[Restaurants, Pizza, Italian]	Chandler	AZ	33.276264	-111.87572	4.0	0
+SyuPSTbf2mtUcT68DHoETw	[Shopping, Jewelry, Home & Garden, Gift Shops, Flowers & Gifts, Home Decor]	Chandler	AZ	33.30264	-111.842545	4.0	0
+whQtEKAAwtP7HAbsgYLn3w	[Doctors, Health & Medical]	Chandler	AZ	33.3223	-111.8767	3.5	0
+KpCKaIDZ1m4bQj2ur3olfg	[Buffets, Restaurants]	Chandler	AZ	33.35159	-111.84214	3.5	0
+Q2u3sUNNDHfPSgoj_V4uIw	[Bars, American (Traditional), Nightlife, Restaurants]	Chandler	AZ	33.320232	-111.926575	4.5	0
+Rny7GQ3cnkjZYb78n3EEiA	[Steakhouses, American (Traditional), Restaurants]	Desert Ridge	AZ	33.678616	-111.97461	3.5	0
+K_X9x7S4Ym_alw6-5pNh0g	[Active Life, Parks]	El Mirage	AZ	33.57489	-112.326096	4.0	0
+6-Sfpp5zNTXpQNW-UioUKw	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	El Mirage	AZ	33.594685	-112.3239	3.5	0
+S3Cb9vzzWGM8AGkiIbwLaA	[]	Florence	AZ	33.06293	-111.48443	2.5	0
+UtbvcvXWLCZX75g_KtMW2A	[Bars, American (New), Nightlife, Restaurants]	Fountain Hills	AZ	33.58793	-111.70818	4.0	0
+iJDzwfZ7qwRMQq4YIm6ERQ	[Burgers, Fast Food, Restaurants]	Fountain Hills	AZ	33.609646	-111.72933	2.5	0
+c6TDEKlOKyi9a80l895bVg	[Arts & Entertainment, Performing Arts]	Fountain Hills	AZ	33.590878	-111.70671	4.5	0
+hE5SwhlMN1_oJoNpnwrYqQ	[Tires, Automotive]	Fountain Hills	AZ	33.57667	-111.72123	4.5	0
+AFcuYBQaZh8GpRjx_ynmnw	[Chinese, Restaurants]	Fountain Hills	AZ	33.608982	-111.718796	3.5	0
+iLqohXWXZEmT4GXLyoRtAQ	[Beauty & Spas, Nail Salons]	Fountain Hls	AZ	33.57957	-111.76141	2.0	0
+QcNC8YJCKIg8vFUPWcPQog	[Burgers, Restaurants]	Gila Bend	AZ	32.945885	-112.72411	1.5	0
+bElcA8EVG74VKKmAm2QLeg	[Food, Coffee & Tea]	Gilbert	AZ	33.340397	-111.79096	3.5	0
+sMU8K-iUc9VewvH91Ep9_A	[Breakfast & Brunch, Restaurants]	Gilbert	AZ	33.37288	-111.78964	4.5	0
+xu4zDdi46zaJ_pvDtruiaw	[Active Life, Tennis, Playgrounds, Parks]	Gilbert	AZ	33.36091	-111.76723	5.0	0
+C-T5_akTxG_1dR6i3xcSVw	[Food, Breweries]	Gilbert	AZ	33.305367	-111.75866	2.5	0
+5fRoYdCOYdPMIUyJXNYd8A	[Pizza, Restaurants]	Gilbert	AZ	33.37752	-111.78897	3.5	0
+oGLGmDK56HDJJ3-yvTruEA	[Steakhouses, Restaurants]	Gilbert	AZ	33.301247	-111.74254	3.5	0
+Rp-pHBLMp3wXrWTJe687hw	[Food, Burgers, Cheesesteaks, Ice Cream & Frozen Yogurt, Restaurants]	Gilbert	AZ	33.32906	-111.79083	4.5	0
+ei4HCXLk2Qomrk7Mif9ffA	[Local Services, Appliances & Repair]	Gilbert	AZ	33.335293	-111.80814	3.0	0
+TxINKtNdsrZw69eQduXErQ	[Pediatric Dentists, Health & Medical, Dentists, Oral Surgeons]	Gilbert	AZ	33.37864	-111.78027	4.5	0
+GCBV_UUm5F1pCelChP5xIw	[Tires, Automotive, Auto Repair]	Gilbert	AZ	33.37941	-111.69076	3.0	0
+8wCLymWiCce8uZ1116ouVA	[Plumbing, Home Services]	Gilbert	AZ	33.345997	-111.75561	1.0	0
+A1HFHiRzhuItPEaKZqPpbQ	[Home Services, Real Estate, Apartments]	Gilbert	AZ	33.2973	-111.74964	2.5	0
+h3suimHlSVRu9V_AJxbbGw	[Kitchen & Bath, Shopping, Home Decor, Home & Garden]	Gilbert	AZ	33.30013	-111.74398	4.5	0
+DmnaDUZryaeXXz8uLTCBPg	[Home Services, Pool Cleaners]	Gilbert	AZ	33.27748	-111.73166	5.0	0
+zLo_Sph7HkrR8i02MjtoTA	[Bakeries, Food, Desserts]	Gilbert	AZ	33.321865	-111.72624	3.5	0
+cZhMLtlo1nVT_zSmRp3Jew	[Auto Repair, Automotive]	Gilbert	AZ	33.353153	-111.795265	4.0	0
+lTOjdsZobo4Cbo3vagpEcQ	[Department Stores, Fashion, Shopping]	Gilbert	AZ	33.311165	-111.74488	3.0	0
+zkX2vj-8wyvcj2GGosrs_A	[Children's Clothing, Fashion, Shopping]	Gilbert	AZ	33.30664	-111.77353	4.5	0
+ELs6WFzaQVeTWhltdUFb7w	[Optometrists, Health & Medical]	Gilbert	AZ	33.2899	-111.77327	3.5	0
+2v5mSHPShgNrI2Ab4DTK0A	[Beauty & Spas, Nail Salons]	Gilbert	AZ	33.30735	-111.75829	4.0	0
+XQ3q2t9srCVX_qLe0JUlNQ	[Children's Clothing, Fashion, Shopping]	Gilbert	AZ	33.306835	-111.75264	4.5	0
+F2hgsXKWRR5rPib1EHGoXA	[Doctors, Nail Salons, Health & Medical, Beauty & Spas, Podiatrists]	Gilbert	AZ	33.313877	-111.68959	3.5	0
+kRyqChj9YtLIzYJ2iA_YXw	[Beauty & Spas, Nail Salons]	Gilbert	AZ	33.26514	-111.72249	5.0	0
+lFmGKgiUQhbB0-JZ_IM1vQ	[Landscaping, Home Services]	Gilbert	AZ	33.27748	-111.73166	3.5	0
+B4Lp0ssysY5ulJjwgP3EFg	[Hardware Stores, Shopping, Home & Garden]	Gilbert	AZ	33.30538	-111.72109	3.0	0
+xfJwsT6Zj5mUJp7050kALQ	[Local Services, Home Cleaning, Home Services, Carpet Cleaning]	Gilbert	AZ	33.373154	-111.79501	5.0	0
+8lbH-2LuzdPcww2sr5qUXA	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians]	Gilbert	AZ	33.36472	-111.75402	1.0	0
+iZeKyLePikyyzGmbfJW5_g	[Beauty & Spas, Nail Salons]	Gilbert	AZ	33.333652	-111.77279	3.5	0
+nBTqfVeFPy8XYIvEssOhDA	[Food, Specialty Food]	Gilbert	AZ	33.354485	-111.791534	5.0	0
+QNVqru4AcpjYdJsVwxx0gg	[Health & Medical, Periodontists, Dentists, General Dentistry, Cosmetic Dentists]	Gilbert	AZ	33.300957	-111.75603	5.0	0
+O6qz8lLgqsD8sKTatGDxpg	[]	Gilbert	AZ	33.378757	-111.81206	2.5	0
+Cjd2GNKYqdmYnMTTgLKNcg	[Oral Surgeons, Health & Medical, Dentists, Orthodontists]	Gilbert	AZ	33.262253	-111.71755	3.5	0
+-Rb9vXZjET2PfWMjLzZgvg	[American (Traditional), Fast Food, Restaurants]	Gilbert	AZ	33.335426	-111.80447	2.5	0
+JlmjC6KzisAqoFsjwjVUfw	[Fashion, Shopping, Shoe Stores]	Gilbert	AZ	33.309467	-111.74347	4.5	0
+0t-JNOI0knLQyR30ZeMC0A	[Pediatric Dentists, Health & Medical, Dentists]	Gilbert	AZ	33.32238	-111.75718	5.0	0
+nUwNTOosEuWUpClMcPJDEg	[Health & Medical, Urgent Care]	Gilbert	AZ	33.31081	-111.77201	3.5	0
+OfoG4gnacvSo2vG9285njQ	[Chinese, Restaurants]	Gilbert	AZ	33.30478	-111.78913	4.0	0
+-iPg17VM6DUsip5oTTpkYg	[Local Services, Dry Cleaning & Laundry]	Gilbert	AZ	33.364536	-111.78762	4.0	0
+tUWhNal-M1J1wdQDZ_9eXA	[Professional Services]	Gilbert	AZ	33.35193	-111.78952	5.0	0
+ex1ZcTMvn-awg90TpUWNYA	[Breakfast & Brunch, American (Traditional), Restaurants]	Gilbert	AZ	33.332867	-111.79086	2.5	0
+eo1KkTAZecBniTAptL7xgQ	[Fashion, Shopping]	Gilbert	AZ	33.30075	-111.74113	3.5	0
+2BQwRuhhyCuNXI-kM0owYg	[Active Life, Yoga, Health & Medical, Fitness & Instruction]	Gilbert	AZ	33.3518	-111.8036	5.0	0
+fhhe2udVfL0V_9_ocPHWKg	[Sushi Bars, Restaurants]	Gilbert	AZ	33.36602	-111.722534	3.5	0
+9TI5pdTg5zmhY03fwvySrQ	[Auto Repair, Automotive, Windshield Installation & Repair, Auto Glass Services]	Gilbert	AZ	33.3333	-111.75546	3.5	0
+8kAfWzylnqtpDu_RWp-VKg	[Shopping, Home & Garden, Appliances]	Gilbert	AZ	33.2575	-111.69973	2.5	0
+70p94Ejeu1v5XlIkbKORYQ	[Hair Salons, Beauty & Spas]	Gilbert	AZ	33.379066	-111.7556	5.0	0
+7H0nbExftMZlpZDXm0QrBw	[Buffets, Mediterranean, Halal, Restaurants]	Gilbert	AZ	33.32906	-111.79083	4.0	0
+K0WmtU749lBMwZItDbWcwQ	[Home Cleaning, Window Washing, Home Services]	Gilbert	AZ	33.358326	-111.75918	4.5	0
+paF7fjuCWbqg7pjwSWnMkA	[Mexican, Restaurants]	Gilbert	AZ	33.3781	-111.755424	3.5	0
+heyprN6HwLYVWINXd2z3OQ	[Breakfast & Brunch, American (New), Restaurants]	Glendale	AZ	33.66167	-112.187	2.5	0
+3o5HRJ62sx2D2CmTSjVELw	[Department Stores, Grocery, Fashion, Shopping, Drugstores, Food]	Glendale	AZ	33.650837	-112.23456	2.0	0
+CvufqyRBbS2Ed2wQlAXCMw	[Vietnamese, Restaurants]	Glendale	AZ	33.64014	-112.17458	3.5	0
+H5tAXc4Zk9CRfwgRXCIukQ	[Bakeries, Food, American (Traditional), Restaurants]	Glendale	AZ	33.670437	-112.18793	3.5	0
+Em7XOiLO6PjsRB6uH36ktA	[Breakfast & Brunch, Restaurants]	Glendale	AZ	33.713978	-112.139854	3.5	0
+apGVTRZRCQ9-89hu2qW-vw	[Thai, Restaurants]	Glendale	AZ	33.610973	-112.16802	4.0	0
+Hv1BxPv9w9pUine-ILiYxw	[Active Life, Nightlife, Bowling]	Glendale	AZ	33.565235	-112.15168	3.5	0
+kuKKpwHqXC5u8r6gR40MHQ	[Food, Beer, Wine & Spirits]	Glendale	AZ	33.638706	-112.19589	4.5	0
+J2ETnCWtFqlOoyQUWGQp7Q	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping]	Glendale	AZ	33.670654	-112.20292	3.5	0
+yAPqBS4RQC1VObnzCBx-CQ	[Local Services, Home Cleaning, Home Services, Carpet Cleaning]	Glendale	AZ	33.571594	-112.1838	5.0	0
+FBNxmgHqP9ksk-56XLJ1eg	[Restaurants]	Glendale	AZ	33.682125	-112.20526	3.0	0
+EWVK-jKIG36xKFaqmXzdjg	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas]	Glendale	AZ	33.64086	-112.13483	3.5	0
+_CblT1wpw8bbZISdOy9lkQ	[Tires, Automotive]	Glendale	AZ	33.539658	-112.152016	4.5	0
+yf3USwx0Pxw-x-neCgySdQ	[Beauty & Spas, Nail Salons]	Glendale	AZ	33.60928	-112.185844	4.5	0
+PnUN5SZ4x0vQ89RQHS-GsA	[Mexican, Restaurants]	Glendale	AZ	33.52709	-112.25044	4.0	0
+Q2hw3QSJzHdjdNqv4vO-Fg	[]	Glendale	AZ	33.65515	-112.14645	4.5	0
+l1rCTDlsG7xpchqLLGIOhQ	[Active Life, Gyms, Trainers, Fitness & Instruction]	Glendale	AZ	33.64326	-112.21232	5.0	0
+QOiFpTHabEJM0rRRwvbOyA	[Hair Salons, Hair Extensions, Eyelash Service, Beauty & Spas]	Glendale	AZ	33.638866	-112.18309	5.0	0
+K160bk_-xYfXu8PjiWaFqw	[Flowers & Gifts, Shopping, Florists]	Glendale	AZ	33.541504	-112.18459	5.0	0
+m4Z2t4MmqIZzcKp1UBAf4Q	[Women's Clothing, Men's Clothing, Fashion, Shopping, Accessories]	Glendale	AZ	33.63979	-112.224556	3.0	0
+69il2O11WbxwzIpCmeAQAg	[Pizza, Restaurants]	Glendale	AZ	33.653687	-112.13562	3.5	0
+VL0D6MWt5UXBC2Ue-TpcKg	[Local Services, Child Care & Day Care, Education, Preschools]	Glendale	AZ	33.698246	-112.151115	5.0	0
+VfYgB0LE44-qdCDpneXq2g	[Men's Clothing, Fashion, Shopping]	Glendale	AZ	33.63979	-112.224556	3.5	0
+GPmV6e8A1gpfrCCrbe3Pkg	[Restaurants]	Glendale	AZ	33.509033	-112.26466	4.0	0
+Kps_LrBPKa2NgYtoPYvvaQ	[Food, Convenience Stores]	Glendale	AZ	33.65403	-112.15128	4.0	0
+ALNOvr6W33iDnZJkvdKWRw	[Skin Care, Day Spas, Beauty & Spas]	Glendale	AZ	33.642014	-112.21428	5.0	0
+4BIDvQ35S5ULCD2R1UWOdg	[Automotive, Body Shops]	Glendale	AZ	33.532505	-112.17564	5.0	0
+z8L736ztKKPZn9zu-kpTVw	[Beauty & Spas]	Glendale	AZ	33.64325	-112.22048	3.5	0
+KbtJpgcjM8U6NGdAxgrkOg	[Auto Repair, Automotive, Body Shops]	Glendale	AZ	33.53846	-112.16575	1.0	0
+Mm9iEj7471cR8FDpfXIwiw	[Beauty & Spas, Nail Salons]	Glendale	AZ	33.670437	-112.187935	4.5	0
+3nrFAMk1Vqp02fcUh03V0Q	[Cards & Stationery, Arts & Crafts, Flowers & Gifts, Shopping, Event Planning & Services]	Glendale	AZ	33.66911	-112.202934	4.5	0
+MhvT7kwSYnleQwRYJP2syQ	[American (Traditional), Fast Food, Restaurants]	Glendale	AZ	33.61184	-112.20279	4.5	0
+m4NzyiOp9Kqoy-5IchrLhg	[Local Services, Printing Services, Shopping, Office Equipment]	Glendale	AZ	33.50949	-112.15278	3.5	0
+e0WrzhGf9XXS_3Aapiv2sg	[Pet Groomers, Pet Services, Pet Boarding/Pet Sitting, Pets]	Glendale	AZ	33.62495	-112.164314	3.5	0
+8c9RFT_Yk4_JsmzxQ3cZhg	[Local Services, Shopping, Jewelry, Watch Repair]	Glendale	AZ	33.670437	-112.18793	5.0	0
+5xbbUdXvBle2TrqLqDnIlA	[Arts & Entertainment, Nightlife, Music Venues]	Glendale	AZ	33.531483	-112.26167	5.0	0
+O__Awt0ojS_9ySFJw2gQxg	[Automotive, Windows Installation, Home Services, Auto Glass Services]	Glendale	AZ	33.518856	-112.16937	5.0	0
+QPiK5rGTeNti8WoBJiIlYQ	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	Glendale	AZ	33.63896	-112.1679	3.0	0
+MrpFw4ymdQvhTGt1eUJbIQ	[Auto Repair, Automotive]	Glendale	AZ	33.62584	-112.18663	5.0	0
+BYE4PlESuRjIX-eBfvl3YA	[Hair Salons, Beauty & Spas]	Glendale	AZ	33.64014	-112.17458	4.0	0
+6fs8iKRPOHrJ9xeAOIgyzQ	[Women's Clothing, Men's Clothing, Fashion, Shopping, Shoe Stores]	Glendale	AZ	33.551746	-112.25727	3.0	0
+XJggsZ3qvfmnG9GPh9kezQ	[Active Life, Martial Arts, Fitness & Instruction]	Glendale	AZ	33.64115	-112.21937	5.0	0
+XA8wOAILPBs1EsGL7hbLGw	[Beauty & Spas, Hair Removal, Laser Hair Removal]	Glendale	AZ	33.61089	-112.174	2.5	0
+vcfQI3Tq8c5_nBimuwdNtg	[Mexican, Restaurants]	Glendale	AZ	33.637093	-112.20145	3.5	0
+L7xHcco1yNpWkVlsv4lODQ	[Nightlife, Irish, Bars, Sports Bars, Restaurants]	Glendale	AZ	33.63907	-112.185165	3.5	0
+8vS-dsL-ifZ6iVvKWxancg	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals]	Glendale	AZ	33.527058	-112.15202	4.0	0
+2K658suRNthBm-IP8SjMuQ	[Shopping, Outlet Stores]	Glendale	AZ	33.534443	-112.26626	4.5	0
+Gav4F_oz_Z7YpFm8tmqAAA	[Thrift Stores, Shopping]	Glendale	AZ	33.638054	-112.19244	3.0	0
+czqHyYZuxqPtEEDGclPRHA	[Restaurants]	Glendale	AZ	33.569885	-112.18629	2.0	0
+leNXRAC6fpsE3MiKcDM4qw	[Shades & Blinds, Home Services]	Glendale	AZ	33.52	-112.17086	5.0	0
+2PUcP4-H4zQfbf3I6PNB5g	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians]	Glendale	AZ	33.713135	-112.14195	3.0	0
+PJ5p1Fs_cOORU0xO5kZI5w	[Food, Food Delivery Services, Delis, Sandwiches, Restaurants]	Glendale	AZ	33.61096	-112.18461	3.5	0
+ql-xDV6UNEF1Wpf3NDXoxQ	[Bakeries, Food]	Glendale	AZ	33.610764	-112.185646	4.5	0
+Tlp5G-slaW4XKRxhgjaCpA	[American (New), Restaurants]	Goodyear	AZ	33.463936	-112.35775	2.5	0
+Nh9BjVPHdrZMn2naUxO6hg	[Tex-Mex, Restaurants]	Goodyear	AZ	33.46392	-112.35869	3.0	0
+AzDfm1RUDMrKIsBeDv04nQ	[Bakeries, Food, Coffee & Tea]	Goodyear	AZ	33.492737	-112.38005	4.0	0
+IQeaBecgtJ8nuv7X0mQuzw	[Barbeque, Restaurants]	Goodyear	AZ	33.45773	-112.39382	4.0	0
+DWxZhDdqGjJbLVJBMGsWZQ	[Food, Breakfast & Brunch, Bagels, Coffee & Tea, Restaurants]	Goodyear	AZ	33.46536	-112.35646	4.5	0
+wA8nbauGH7NdfiSCUgz9MA	[Shopping]	Goodyear	AZ	33.450848	-112.35092	3.0	0
+6EOw7_gL30rQ0SQbX9m3lw	[Food, Grocery]	Goodyear	AZ	33.468815	-112.39202	4.5	0
+LuzhCFxjl4Iay301C13GJA	[Hair Salons, Beauty & Spas]	Goodyear	AZ	33.457226	-112.39523	4.0	0
+3DIG0gD6rL7AmukW3cdeKg	[Auto Repair, Automotive]	Goodyear	AZ	33.453133	-112.34152	3.5	0
+rRym8PUMN_dN4EXM54nOsQ	[Arts & Entertainment, Cinema]	Goodyear	AZ	33.460983	-112.355965	1.5	0
+A9DZjctmZyH7Wwl_pODL1g	[Hotels & Travel, Car Rental]	Goodyear	AZ	33.438763	-112.358406	1.0	0
+-R2_pheIa-K4DMzf67Zl-A	[Active Life, Golf]	Goodyear	AZ	33.386993	-112.38148	3.0	0
+mI83TzzmAaewYuYz7yNUYg	[Health & Medical, Urgent Care]	Goodyear	AZ	33.463062	-112.35768	4.0	0
+XYhjyY2mFI1Sn8NHZMfWfQ	[Auto Repair, Automotive]	Goodyear	AZ	33.467014	-112.39253	2.5	0
+AeWB8JIeE4BxfDiDvAlQHQ	[Tires, Automotive, Auto Repair]	Goodyear	AZ	33.435043	-112.357796	3.0	0
+MnDgPRcPvIGissn3pKOa_Q	[Hotels & Travel, Event Planning & Services, Hotels]	Goodyear	AZ	33.467678	-112.35913	3.5	0
+tl9XIP5trlkcuSfTQqe5jg	[Fast Food, Restaurants]	Goodyear	AZ	33.453888	-112.393196	2.5	0
+3rTS_sopbW1pgj2DRav1ww	[Arts & Crafts, Shopping]	Goodyear	AZ	33.462845	-112.357994	1.5	0
+mcYkS0t4IHpXM1e2NI2jcg	[Elementary Schools, Local Services, Child Care & Day Care, Education, Preschools]	Goodyear	AZ	33.48628	-112.372154	5.0	0
+XYGOb3f0Tb2KjdVP3km9vQ	[Food, Grocery, Flowers & Gifts, Shopping, Florists]	Goodyear	AZ	33.484444	-112.364204	2.5	0
+j5m8WlTe9NyoEjd3CR4nMg	[Local Services, Sewing & Alterations]	Goodyear	AZ	33.469414	-112.39002	3.5	0
+K8D2oaHXRgoaxmeUF1CiAw	[Beauty & Spas, Nail Salons]	Goodyear	AZ	33.43729	-112.38181	4.5	0
+miUjtW5ZOc4WN0pB53VokA	[Restaurants, Italian]	Goodyear	AZ	33.467056	-112.35892	2.5	0
+FTfVZsKt5bWO2bRnjoBn_g	[Local Services, Dry Cleaning & Laundry]	Goodyear	AZ	33.45948	-112.39259	2.0	0
+cjS2Ug0F7aXvcS0zEFlkBQ	[Pizza, Restaurants]	Goodyear	AZ	33.461697	-112.3582	4.0	0
+JdTCJkk2iM2hI-sY0i5Jag	[Thai, Asian Fusion, Japanese, Restaurants]	Goodyear	AZ	33.450146	-112.34261	4.0	0
+y_7nSJ1aaXtwRP-fQdL-yg	[Doctors, Health & Medical, Family Practice]	Goodyear	AZ	33.463886	-112.3513	2.5	0
+yCfKwbNIRp4LeVJQBaYhQA	[Plumbing, Home Services]	Goodyear	AZ	33.47965	-112.35348	5.0	0
+dVBQHpOvBlgpbb2HkFSEFg	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	Goodyear	AZ	33.485184	-112.36207	4.0	0
+lC-pXfTSiCGVQvaFlLn3iQ	[Sandwiches, Restaurants]	Goodyear	AZ	33.465748	-112.35663	4.0	0
+9trY5loETyvMD8zoS5sDSg	[Beauty & Spas, Nail Salons]	Laveen	AZ	33.375984	-112.16711	5.0	0
+noOxyjorOyYQpWNwL-3-FQ	[Skin Care, Massage Therapy, Eyelash Service, Health & Medical, Beauty & Spas]	Litchfield Park	AZ	33.506294	-112.35866	5.0	0
+wU1dsWiCpxbWaJkB4KxU5Q	[Chinese, Restaurants]	Litchfield Park	AZ	33.50898	-112.34147	3.5	0
+_fmMzXSxtD996PgEUsJ3Sw	[Veterinarians, Pets]	Litchfield Park	AZ	33.513187	-112.329765	4.0	0
+d06ZIF5TeK5j_Pii7_LmXA	[Nightlife, Bars, American (Traditional), Sports Bars, Restaurants]	Maricopa	AZ	33.071186	-112.04497	3.5	0
+-ajcZd13z04CV7Z0xpUknA	[Hair Salons, Day Spas, Beauty & Spas]	Maricopa	AZ	33.068256	-112.047295	5.0	0
+HV-0vQADkXSKqFCz9HH7vQ	[Bars, American (New), Nightlife, Lounges, Restaurants]	Maricopa	AZ	33.024113	-112.050545	4.0	0
+T2EpEvR7dWH4FKLUpHy8cw	[Active Life, Golf]	Maricopa	AZ	33.079655	-112.08529	4.5	0
+MKZm3GOSGla2n8LKn7zs1g	[Sporting Goods, Shopping, Outdoor Gear]	Maricopa	AZ	33.071648	-112.0483	5.0	0
+4aByVufbbuolH5QdidimSQ	[Steakhouses, Restaurants]	Maricopa	AZ	33.024033	-112.05086	3.5	0
+SnCi3edMieuYMOa8BJXMKg	[Health & Medical, Dentists]	Maricopa	AZ	33.07386	-112.04557	5.0	0
+kqiJfRLTaDMv5KIdgnwTMQ	[Hair Salons, Beauty & Spas]	Maricopa	AZ	33.054405	-112.04365	4.0	0
+0cYQCqowcrW8-olV2C7ZiA	[Chinese, Restaurants]	Mesa	AZ	33.363945	-111.861404	3.5	0
+V8kqWlhtJg3Uhio-KSeq0A	[Food, Ethnic Food, Specialty Food, Chinese, Restaurants]	Mesa	AZ	33.385014	-111.68737	3.5	0
+-F3sTUxyHpSwWeMiV0RaPQ	[Veterinarians, Pets]	Mesa	AZ	33.445896	-111.83998	4.5	0
+b6_B8K71BsKC4cew9JFIJg	[Shopping, Automotive, Sporting Goods, Motorcycle Repair, Motorcycle Dealers]	Mesa	AZ	33.39606	-111.84009	4.0	0
+VtpnMevn_oAxXGaM9JDrSQ	[Mexican, Restaurants]	Mesa	AZ	33.363457	-111.87614	3.5	0
+AC1xogsITgaae5ic8B9Ryw	[Mexican, Restaurants]	Mesa	AZ	33.45083	-111.76328	4.0	0
+aPdDcFXPsWVxBhaXuZcDpw	[Indian, Buffets, Restaurants]	Mesa	AZ	33.391182	-111.78822	4.5	0
+UHkRFDFze9tYfYT_xjn0bQ	[Mexican, Restaurants]	Mesa	AZ	33.38061	-111.75376	3.0	0
+j5X95__LDR1IgdWYvcjzAA	[Japanese, Restaurants]	Mesa	AZ	33.377384	-111.63583	3.5	0
+exODno12y5GRj0DRzob2Eg	[Mexican, Restaurants]	Mesa	AZ	33.407288	-111.78776	4.0	0
+b5vZfkfrfNOrDgxNxFCliw	[Local Services, Heating & Air Conditioning/HVAC, Home Services, Appliances & Repair]	Mesa	AZ	33.456387	-111.7758	5.0	0
+9HA1pB2y-pK4QtGdngBqhw	[Peruvian, Cuban, Caribbean, Restaurants]	Mesa	AZ	33.415325	-111.7964	4.5	0
+XwGhWd29eEkfrGcb8GYKBQ	[Animal Shelters, Public Services & Government, Pets]	Mesa	AZ	33.430065	-111.88922	3.5	0
+tk9eG67j-pv6cwucIAYCuA	[Soup, Vegetarian, Buffets, Restaurants]	Mesa	AZ	33.32723	-111.687355	3.5	0
+9SCct-UP3b44Zz28H2EB6w	[Pet Services, Dog Walkers, Pet Training, Pet Boarding/Pet Sitting, Pets]	Mesa	AZ	33.4178	-111.86135	5.0	0
+j-bJhtWp5R7LpvANmckr8g	[Hobby Shops, Sporting Goods, Shopping]	Mesa	AZ	33.410194	-111.870865	4.5	0
+LtdT6G0qnGvNnKMKZSi9Xg	[Shopping, Drugstores]	Mesa	AZ	33.4238	-111.75218	1.5	0
+NHVfmBrpj5FuzSzJrCtm7g	[Fast Food, Restaurants]	Mesa	AZ	33.395416	-111.840225	3.5	0
+mj6gUOf8WaCUaQdIz_jJaQ	[Barbers, Beauty & Spas]	Mesa	AZ	33.415726	-111.73569	5.0	0
+zFy7LXep1-IP2FcljtBObw	[Department Stores, Fashion, Shopping]	Mesa	AZ	33.415516	-111.68362	4.0	0
+7Jut4P7kkrxDHDHC2hS4Ng	[Active Life, Yoga, Fitness & Instruction]	Mesa	AZ	33.429993	-111.873	5.0	0
+8rLDOix4gg-zABMHZsYsKA	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping]	Mesa	AZ	33.39414	-111.755554	3.5	0
+i9BG3-NXHHfoRaSM-sG3uw	[Food, Donuts]	Mesa	AZ	33.394142	-111.84055	4.0	0
+2OVyzv2RFtk6QQmhFpGj1g	[Local Services, Pest Control]	Mesa	AZ	33.39035	-111.78984	5.0	0
+qsDwZeOLHuiIxOoGdIGYjg	[Local Services, Dry Cleaning & Laundry]	Mesa	AZ	33.38038	-111.66618	4.0	0
+4QS_4SFaZr-6s1iG6sUrbA	[Shopping, Drugstores]	Mesa	AZ	33.43461	-111.82453	2.5	0
+2ihIfB4EVH6XOqqjPk5euA	[Health & Medical, Dentists, General Dentistry]	Mesa	AZ	33.378654	-111.873604	5.0	0
+8tx1C_5ZBOBySrWNOsVb6w	[]	Mesa	AZ	33.392086	-111.67501	4.5	0
+CxvpOBZECd6nfaRUvKkEEw	[Pizza, Restaurants]	Mesa	AZ	33.405415	-111.87496	3.0	0
+Xqh9wCLzlt7ChkrV9BdR2Q	[Restaurants]	Mesa	AZ	33.408325	-111.788734	1.5	0
+Ji5lMcNXaqPZgx_7swG9pg	[Food, Coffee & Tea]	Mesa	AZ	33.39528	-111.73705	4.5	0
+y57fGaa2bsZo9Tb3-oFTpQ	[Chinese, Restaurants]	Mesa	AZ	33.364445	-111.6692	4.5	0
+i_fvhgCa9m4wltLrSYQvxQ	[Hotels & Travel, Travel Services]	Mesa	AZ	33.33123	-111.64223	5.0	0
+J_T2FwQ9GDKMSslcdZk4fg	[Shopping, Jewelry]	Mesa	AZ	33.3892	-111.86058	3.5	0
+Fau7RSuoSDerpSS-7dWn3g	[Doctors, Health & Medical, Urgent Care]	Mesa	AZ	33.379566	-111.60076	1.5	0
+tONuJUMGL394lS3MM0UmzQ	[Delis, Fast Food, Sandwiches, Restaurants]	Mesa	AZ	33.38081	-111.63461	4.0	0
+Np09awPGr7LFUve8QFtqZA	[Shopping, Nurseries & Gardening, Home & Garden]	Mesa	AZ	33.452797	-111.791	4.5	0
+mFCBZ5Uz1PCe6rIKggGQjw	[Hobby Shops, Shopping]	Mesa	AZ	33.378548	-111.78887	3.5	0
+8TvqDIdrFy8gojAa2e5tpA	[Building Supplies, Home Services]	Mesa	AZ	33.45186	-111.686005	4.5	0
+J_p0dlThNK9wf2cwzV1Kbw	[]	Mesa	AZ	33.388664	-111.833534	2.0	0
+8GdqVk-R-D9hpq7AO7cvdQ	[]	Mesa	AZ	33.41316	-111.87578	4.0	0
+ok0Vdd2d-VurGc5fde7qQA	[Bars, Sports Bars, Nightlife]	Mesa	AZ	33.468716	-111.68296	4.0	0
+LZUNpdZUkkYwZ4OVQeog6g	[Food, Food Delivery Services, Delis, Sandwiches, Restaurants]	Mesa	AZ	33.415234	-111.829285	1.0	0
+AxKZO4n8eK7ZRDLZbaM6jQ	[Men's Clothing, Fashion, Shopping]	Mesa	AZ	33.385864	-111.75402	2.5	0
+aXvxxzGCXorHp0pAny-XYw	[Comfort Food, Southern, Restaurants]	Mesa	AZ	33.3892	-111.86058	4.5	0
+JIDt48_tPee4BYoMc-zucA	[Shopping, Home & Garden, Furniture Stores]	Mesa	AZ	33.381428	-111.75687	3.5	0
+57PLTXWFJux4pYGnSQisvA	[Cafes, Restaurants]	Mesa	AZ	33.415615	-111.84229	3.5	0
+nOvSwYv_VqMJvJ6RIauVHQ	[Auto Repair, Automotive, Auto Parts & Supplies]	Mesa	AZ	33.390965	-111.67302	5.0	0
+_CVcmMqTUequ2u6fbJ48vQ	[Shopping, Eyewear & Opticians]	Mesa	AZ	33.3892	-111.86058	3.0	0
+2cUtHjzt7UveeVqf_r9k4w	[Hair Salons, Beauty & Spas]	Mesa	AZ	33.37903	-111.876884	5.0	0
+fEUpGQlSGesquq7Xh-ZswQ	[]	Mesa	AZ	33.388	-111.72059	2.5	0
+x5T4eluE2Ma5DqqqlLOfoQ	[Health & Medical, Dentists, General Dentistry]	Mesa	AZ	33.436275	-111.84032	4.5	0
+U-KWQ98Y8Y2_QLoTCzHUrg	[Barbers, Beauty & Spas]	Mesa	AZ	33.422043	-111.82435	3.5	0
+lxGB8R6yS8eF0wDKwbS1yQ	[Burgers, Fast Food, Restaurants]	Mesa	AZ	33.366253	-111.85873	1.5	0
+4QPJpaNl_iu8Hiycre7hQQ	[Breakfast & Brunch, American (Traditional), Restaurants]	Mesa	AZ	33.425343	-111.83986	3.5	0
+UdiM_geZR_dDNktgIMbgWA	[Professional Services]	Mesa	AZ	33.415394	-111.83377	5.0	0
+ZGAovdjHkEFvqF2LNzbtvQ	[Musical Instruments & Teachers, Shopping]	Mesa	AZ	33.39488	-111.792015	4.0	0
+EjrAm7qeA-kyTDZk7cku-A	[Photographers, Event Planning & Services]	Mesa	AZ	33.38095	-111.790535	5.0	0
+-dlVtdzpjjc4o-OJ4S6xtg	[Food, Specialty Food, Fruits & Veggies]	Mesa	AZ	33.475227	-111.77254	5.0	0
+TBqAOlyaTRaFd5sYLAVoQQ	[Pizza, Restaurants]	Mesa	AZ	33.393063	-111.68421	4.5	0
+8-TbEcCkKAAstTgCSPUlGQ	[Health & Medical, Dentists, General Dentistry]	Mesa	AZ	33.437336	-111.68299	5.0	0
+lNr0Vb_7BGpV6TVmZgujOA	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas]	Mesa	AZ	33.38487	-111.75691	3.5	0
+8Z9DUMuWUFlA6cmY67mQ7Q	[Pizza, Restaurants]	Mesa	AZ	33.38015	-111.75404	4.5	0
+z1pBJd2b3bAAAySYUV_QwA	[Shopping, Guns & Ammo]	Mesa	AZ	33.41547	-111.81171	1.0	0
+SOIlaZXA-yBf7lBYaQGbew	[Local Services, Dry Cleaning & Laundry]	Mesa	AZ	33.38048	-111.75386	4.0	0
+tw3BuKW0j2-qRF8w3ecaww	[Property Management, Home Services, Real Estate]	Mesa	AZ	33.341118	-111.68703	3.5	0
+LA-t4rk16cXk-tzrgkT-rw	[Doctors, Health & Medical]	Mesa	AZ	33.380386	-111.84038	4.5	0
+y350lBxlPGNbrhdOOCyQeA	[Medical Centers, Health & Medical]	Mesa	AZ	33.436176	-111.8224	2.5	0
+ChX5Rf__-eKHM5RPx4ad-w	[Carpet Installation, Home Services, Flooring]	Mesa	AZ	33.41216	-111.87017	5.0	0
+kG_-Ce7HH_RH2Rmcp3GMvw	[Food, Specialty Food, Seafood, Seafood Markets, Restaurants]	Mesa	AZ	33.380516	-111.78896	3.0	0
+_o5LfJnrz3E7ketkzbPLcg	[Active Life, Trainers, Fitness & Instruction]	Mesa	AZ	33.32842	-111.63551	4.5	0
+1dDeTZyftyjjE7IkxGuftg	[Local Services, Pest Control]	Mesa	AZ	33.279373	-111.64679	5.0	0
+Kpec6-CEmPYXhba-UmyWDw	[Restaurants]	Mesa	AZ	33.451355	-111.70202	3.5	0
+A7Ql7MGd3PeUvQx-knr9HQ	[Chinese, Buffets, Japanese, Asian Fusion, Szechuan, Restaurants]	Mesa	AZ	33.393303	-111.8537	3.0	0
+Ncb_n30Bn-gfl7WeYPXq2w	[Chinese, Restaurants]	Mesa	AZ	33.365944	-111.85875	3.5	0
+De7XFhoUwOuAsc0lxN0VyA	[Mexican, Tex-Mex, Restaurants]	Mesa	AZ	33.38456	-111.684975	3.0	0
+FX7YsjrfxXkat82yoj9Aeg	[Steakhouses, Sushi Bars, Japanese, Restaurants]	Mesa	AZ	33.38549	-111.686035	4.0	0
+zJ-vTnhw7i3s7fbrhoksDA	[Local Services, Pest Control]	Mesa	AZ	33.391148	-111.627266	4.5	0
+OKqaTW_f3xBjCyOPfbzI9g	[Veterinarians, Pets]	Mesa	AZ	33.378845	-111.80865	5.0	0
+fr53GRdLI8iuO-qzzK9cew	[Auto Repair, Automotive, Car Dealers]	Mesa	AZ	33.415386	-111.79128	4.0	0
+hH0koTbh7THGgMrYFVBh3A	[Barbeque, Restaurants]	Mesa	AZ	33.45888	-112.06626	4.5	0
+mf8eUp0hq99ryu8Gu_oFeA	[Plumbing, Home Services]	Mesa	AZ	33.39301	-111.79179	3.0	0
+J_b1GS2A4deFJaAzu6NySQ	[Shopping, Home & Garden, Furniture Stores]	Mesa	AZ	33.4224	-111.79998	4.0	0
+pICBt9GH_4YwJldOioKOFQ	[Fast Food, Restaurants]	Mesa	AZ	33.424442	-111.805	3.0	0
+cKfUjBh8mL1wWLpDYgWuXg	[]	Mesa	AZ	33.437332	-111.75477	3.0	0
+opbdRmcHKOBrZdylhJiftQ	[Garage Door Services, Home Services, Contractors]	Mesa	AZ	33.389355	-111.76855	5.0	0
+5EU6mQd_ckD73FZ16_Q9Xg	[Automotive, RV Dealers, Car Dealers, Auto Parts & Supplies]	Mesa	AZ	33.416264	-111.78111	1.5	0
+2tqzvL7OPWsHkaN3GHNeIQ	[Beauty & Spas, Nail Salons]	Mesa	AZ	33.364044	-111.877495	3.0	0
+sV45cJCODWCefNdu6k4u5g	[Wedding Planning, Bridal, Shopping, Event Planning & Services, Party & Event Planning]	Mesa	AZ	33.37831	-111.86142	4.0	0
+H4x9KzX43ACuPetGfl0F5A	[Day Spas, Massage, Beauty & Spas]	Mesa	AZ	33.37648	-111.6884	5.0	0
+cR3iHjc05AHfiTxgFfepKQ	[Shopping, Home Decor, Home & Garden]	Mesa	AZ	33.388687	-111.61348	4.5	0
+MKiOSSn8lONiMgZednCfXw	[Buffets, Chinese, Restaurants]	Mesa	AZ	33.39064	-111.788155	4.0	0
+PTQMTAUeI3L1jzO8dqf4CQ	[Arts & Entertainment, Performing Arts, Event Planning & Services, Party & Event Planning]	Mesa	AZ	33.44893	-111.80706	4.5	0
+pLCRUdm0YGfRL3lR9PSkcA	[Pizza, Sandwiches, Restaurants]	Mesa	AZ	33.450123	-111.71935	4.0	0
+sllZXXYijYUs-n80uSa96w	[Restaurants, Italian]	Mesa	AZ	33.38353	-111.75453	3.0	0
+w3auuIZmKCdk2UvQbonyMQ	[Bakeries, Food, Specialty Food, Meat Shops, American (New), Restaurants]	Mesa	AZ	33.41594	-111.73821	4.0	0
+i52eORoeWujZ9y_w3Dos5Q	[Shopping Centers, Grocery, Shopping, Food, Ethnic Food, Specialty Food]	Mesa	AZ	33.41316	-111.87578	4.0	0
+oMg5Z7YXGBmu05rHUL7RsA	[Local Services, Pest Control]	Mesa	AZ	33.40753	-111.8201	3.0	0
+2D7amHyeakOVlsSywblMkw	[Diners, Restaurants]	Mesa	AZ	33.391388	-111.68509	3.0	0
+fKbrvaKXlTKf8mWinKj_TQ	[Chinese, Restaurants]	Mesa	AZ	33.364445	-111.6692	4.0	0
+t259KzpmEzYRJ1bx4RO9sA	[Breakfast & Brunch, American (Traditional), Restaurants]	Mesa	AZ	33.39339	-111.69228	3.5	0
+LEHLUGVprLltl9lhQpxczQ	[Pizza, Restaurants]	Mesa	AZ	33.384163	-111.803116	3.0	0
+IJa6BWOQYvxE5PuaAYe3GQ	[Auto Repair, Automotive]	Mesa	AZ	33.393322	-111.63404	3.5	0
+2lGaj8WVLetIWsK8B729mw	[Peruvian, Latin American, Restaurants]	Mesa	AZ	33.363255	-111.86058	4.0	0
+MiVcQsXp3TYUmeD7FSa-hA	[Bakeries, Food, Sandwiches, Restaurants]	Mesa	AZ	33.41484	-111.832184	3.5	0
+o2oHkZ6LM4d5CSWwf9yRng	[Seafood, Fish & Chips, Southern, Restaurants]	Mesa	AZ	33.39202	-111.84018	4.0	0
+UO_4j9fGCLflN4wtusPkQQ	[Burgers, Fast Food, Restaurants]	Mesa	AZ	33.392345	-111.84065	2.5	0
+nCa9q1zGE8y-lNPHfMZTNw	[Barbeque, Hawaiian, Restaurants]	Mesa	AZ	33.393803	-111.868805	4.0	0
+zARGEdB0JyPCPR0f3FKGxQ	[Restaurants]	Mesa	AZ	33.38393	-111.805244	3.0	0
+lcVlSi_bCAmiSuJx61BSAQ	[Thai, Vietnamese, Restaurants]	Mesa	AZ	33.381287	-111.86657	3.5	0
+PX3e3qtBx_5VC3vqq47jpQ	[Korean, Restaurants]	Mesa	AZ	33.394432	-111.87558	4.0	0
+wRbe_df-GrKdAsMjco2ZEw	[Hair Salons, Hair Stylists, Beauty & Spas]	Paradise Valley	AZ	33.542168	-111.925064	5.0	0
+D-S5owhWXACD_9S9rRDxWg	[Car Wash, Automotive, Gas & Service Stations]	Paradise Valley	AZ	33.546	-111.96828	1.5	0
+POLbHvD9CEwVjQ1LfzpnBA	[Bars, Nightlife]	Paradise Valley	AZ	33.518368	-112.00475	4.5	0
+gVduP3XZDpcn73kXxZxhyg	[Shopping, Home Decor, Arts & Crafts, Home & Garden, Kitchen & Bath, Event Planning & Services, Cards & Stationery, Flowers & Gifts, Furniture Stores]	Paradise Valley	AZ	33.527824	-111.92706	3.5	0
+TBfOrA3_4u38rFrF7LwU0A	[Food, Wine Bars, Bars, Nightlife, Grocery]	Paradise Valley	AZ	33.567383	-111.92593	3.5	0
+OUY_d0snAofztUIwz9VUJw	[Local Flavor]	Paradise Valley	AZ	33.52883	-111.97308	5.0	0
+MInF3XOx1qu8YNPhlUO7Sg	[Discount Store, Fashion, Shopping, Accessories]	Paradise Valley	AZ	33.59848	-111.98369	4.5	0
+AjVRPatAHLNwbnx3GWk5Gg	[Italian, Pizza, Restaurants]	Paradise Valley	AZ	33.539463	-111.924164	4.0	0
+kkW8Vi7ht4Btj2SdVdBPkw	[Pizza, Restaurants]	Peoria	AZ	33.59746	-112.21934	4.0	0
+SkcccvAydbt5zlQI0EUL2g	[Greek, Mediterranean, Restaurants]	Peoria	AZ	33.63713	-112.21815	4.0	0
+dUbYfSq6InzzAEjvlu9p6A	[Food, Ice Cream & Frozen Yogurt, Desserts]	Peoria	AZ	33.636528	-112.23077	3.0	0
+ta5o3_sT1o2AcP0imkjYjA	[Mexican, Restaurants]	Peoria	AZ	33.581253	-112.240715	4.0	0
+dGjOCZsRnjdTlcIBDmAJjA	[Mexican, Tex-Mex, Restaurants]	Peoria	AZ	33.741814	-112.32226	3.0	0
+Le8tQrEaHodCXUGJld-rSQ	[Arts & Entertainment, Performing Arts]	Peoria	AZ	33.63508	-112.224464	4.0	0
+BCzitE7ShK0qjGbbisjKSA	[Hardware Stores, Shopping, Home & Garden]	Peoria	AZ	33.595795	-112.2231	4.5	0
+782gZiEOJdexc2NEba7KtA	[Burgers, Fast Food, Restaurants]	Peoria	AZ	33.594967	-112.22077	2.5	0
+m1ulEXktflaiA0UcuYuMHg	[Banks & Credit Unions, Financial Services]	Peoria	AZ	33.565277	-112.28839	1.5	0
+5CJgNC7fMSmKlQVwhDsAKw	[Department Stores, Fashion, Shopping]	Peoria	AZ	33.57604	-112.2552	5.0	0
+aivAWjCF-2Y3WJfswiJmqg	[Veterinarians, Pets]	Peoria	AZ	33.683064	-112.2355	4.5	0
+mpkg-R_kjw72UKDOlKNruw	[Tires, Automotive]	Peoria	AZ	33.681694	-112.235245	1.0	0
+I9ps7hpdYQwK_xt4yCVucQ	[Shopping, Jewelry, Watches]	Peoria	AZ	33.681225	-112.223976	5.0	0
+GqtuHKzQ1ceOHj2wUKBByg	[Shopping, Antiques]	Peoria	AZ	33.58021	-112.23785	4.5	0
+D0g9DqQ0y_oa2qHbqRAD0Q	[Food, Convenience Stores, Interior Design, Home Services]	Peoria	AZ	33.638042	-112.226006	4.5	0
+rjJ2JE5UNPE5JQhPmo1vHw	[Restaurants]	Peoria	AZ	33.681965	-112.23634	2.5	0
+oEOPHxpg5qcvkOyHVxXOgQ	[Restaurants]	Peoria	AZ	33.60998	-112.22118	2.5	0
+WSAPYcZxXRcEyG-OaWAs5g	[Photographers, Event Planning & Services]	Peoria	AZ	33.553104	-112.269135	3.5	0
+m8LIOPXPMZVCpvtK8QjPqQ	[]	Peoria	AZ	33.63598	-112.2253	3.5	0
+4_KSU-kAmt2O-dcO8DFW3A	[Used, Vintage & Consignment, Fashion, Shopping]	Peoria	AZ	33.672253	-112.23741	4.5	0
+wj6w3nw22fHttzQG3vFVCQ	[Beauty & Spas, Nail Salons]	Peoria	AZ	33.71062	-112.2683	5.0	0
+59kTtQDwjH-z01r1KixdKQ	[Mexican, Restaurants]	Peoria	AZ	33.583378	-112.22074	4.5	0
+OswHQvQBpL6hHrSoqruEEQ	[Restaurants]	Peoria	AZ	33.58204	-112.20599	3.5	0
+e4j6aoy1eCjqiK7av1kkzw	[Active Life, Sports Clubs]	Peoria	AZ	33.626225	-112.23625	3.5	0
+DAIBZ-I6i5wEUsxEolzXBA	[Fast Food, American (New), Restaurants]	Peoria	AZ	33.6359	-112.23267	4.5	0
+-uGyt_hSdjy4obBZRhOmRQ	[Mexican, Nightlife, Dance Clubs, Restaurants]	Peoria	AZ	33.551357	-112.2727	3.5	0
+shvwb7FSRbG8KQvIj4FIQQ	[American (New), Sandwiches, Restaurants]	Peoria	AZ	33.637447	-112.2228	4.5	0
+4hlwqOX5K83-d8K3_IYzrQ	[American (New), Restaurants]	Peoria	AZ	33.63726	-112.2234	4.0	0
+BpWeAIGCrl5jxt-sMJgDsg	[Mexican, Restaurants]	Peoria	AZ	33.633236	-112.23757	3.5	0
+v9_MNjWori0tLWErWP7y2g	[Food, Bubble Tea, Ice Cream & Frozen Yogurt]	Peoria	AZ	33.570576	-112.24766	4.0	0
+RGFKaBRV_HO-ZJb_euKdhQ	[Mexican, Restaurants]	Phoenix	AZ	33.395645	-112.07375	4.5	0
+GVUtuBmDdvXxXtjrvHHJnQ	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife]	Phoenix	AZ	33.686718	-112.10016	3.5	0
+EIsnOjy7bpvnZMDaMjnr3g	[Food, Specialty Food]	Phoenix	AZ	33.712986	-112.11141	5.0	0
+rtzWtF_2D73oHP1WoqGaAg	[Tires, Automotive, Auto Parts & Supplies]	Phoenix	AZ	33.64062	-112.0233	2.0	0
+hTO9jfSkgXTcVmstUc8tMw	[Food, Coffee & Tea]	Phoenix	AZ	33.66863	-112.12307	2.5	0
+LYQRClvTvZuXqwVZuuOR7Q	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.70654	-112.11554	4.5	0
+SRaXY_h-PnoVkNamuGzAdQ	[Bars, American (Traditional), Sports Bars, Nightlife, Chicken Wings, Restaurants]	Phoenix	AZ	33.63998	-112.12057	3.0	0
+FG7Js2aMD6NtMMRI0C8Arw	[Mexican, Restaurants]	Phoenix	AZ	33.666702	-112.12331	3.5	0
+knPzRilWa5fUlqAjMo1hRQ	[Mattresses, Shopping, Home Decor, Home & Garden, Furniture Stores]	Phoenix	AZ	33.319736	-111.9824	2.5	0
+IGOhT0MTOaoD1L9F2N_l8Q	[Shopping, Home & Garden, Furniture Stores]	Phoenix	AZ	33.64025	-112.02168	3.5	0
+RkSU74wqRh0GdMYObcxTxQ	[Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.416725	-112.14948	4.0	0
+bewtZL-VV1oeGUdAhHVz6Q	[Steakhouses, Restaurants]	Phoenix	AZ	33.51113	-112.02476	4.0	0
+KqHEp8K8jIKapJIQNA7QTg	[Department Stores, Grocery, Fashion, Shopping, Food, Mobile Phones]	Phoenix	AZ	33.390682	-112.13617	2.0	0
+m9haUi2_1lHR2eAKBhKwDg	[Italian, Pizza, Restaurants]	Phoenix	AZ	33.51354	-112.074196	4.5	0
+qea7N8VfC9bLaC4BcnQ7Qg	[Plumbing, Home Services]	Phoenix	AZ	33.568314	-112.11318	5.0	0
+Yj5CBsJCkUGkLtYRbtfKLg	[Active Life, Amusement Parks]	Phoenix	AZ	33.472664	-112.08867	3.5	0
+-dunP-FvJHpQmx5qt5Qoqg	[Mexican, Restaurants]	Phoenix	AZ	33.494843	-112.20065	5.0	0
+AYAb0qJX5wuT2sRtz4CjpA	[Chinese, Restaurants]	Phoenix	AZ	33.62601	-111.9775	4.0	0
+qy7NtAyd7SXXPM0H44XVAg	[Food, Restaurants]	Phoenix	AZ	33.37827	-112.033035	2.5	0
+60gOpHLWIPKPzMGUfvM9mw	[Animal Shelters, Veterinarians, Pets]	Phoenix	AZ	33.513844	-112.1342	5.0	0
+4X_XAOeMw7AFkYhg3NINJA	[Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.457657	-112.07232	4.5	0
+rRe-c9IX_o3OUuqkC_exDQ	[Bars, Sports Bars, Nightlife]	Phoenix	AZ	33.30672	-111.99822	3.5	0
+b5QNpgeJNmbgFI-ztsrs3Q	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.513405	-111.99336	1.5	0
+fE0zuDxZrJlQ7H91eY6UYA	[Mexican, Restaurants]	Phoenix	AZ	33.44819	-112.07395	4.0	0
+2zDDuUfMYrT-NV_Sk_qNCA	[Barbers, Beauty & Spas]	Phoenix	AZ	33.60274	-111.97842	4.5	0
+VWcaFOSFcDwmFquycBzFyQ	[Pizza, Restaurants]	Phoenix	AZ	33.495224	-112.013245	3.5	0
+EQZD0I7OjbHtO7UxjaUOjQ	[Women's Clothing, Fashion, Shopping]	Phoenix	AZ	33.678616	-111.97461	3.5	0
+VDUwU8bHmeGgtJpe-rz3bQ	[Chinese, Restaurants]	Phoenix	AZ	33.640636	-112.01909	2.0	0
+PejTHpMkh8sJZGdGaZuPpw	[American (Traditional), Restaurants]	Phoenix	AZ	33.639767	-112.1189	2.5	0
+_HAYDjkPJVabBXyvx-u9YQ	[Greek, Fast Food, Mediterranean, Restaurants]	Phoenix	AZ	33.65568	-111.930016	4.0	0
+qYhIIWxvLQWghKQMv6m5Dg	[American (Traditional), Restaurants]	Phoenix	AZ	33.831352	-112.122	3.0	0
+TkblQqWa4XhAc8ljKql1-Q	[Professional Services, Videographers, Video/Film Production, Event Planning & Services]	Phoenix	AZ	33.40444	-111.97827	5.0	0
+HPQ9AnscJUPT_wvHOc5Itw	[Food, Coffee & Tea]	Phoenix	AZ	33.63236	-112.13216	3.0	0
+IURIbkgQgHXAgwX6hAgiNQ	[American (Traditional), Restaurants]	Phoenix	AZ	33.460804	-111.94777	4.5	0
+-j3BF7gOIi-1tAHoFA3WIw	[Mexican, Food Stands, Restaurants]	Phoenix	AZ	33.508835	-112.08399	5.0	0
+fmpEjlZhFlMHaGmsKJlUTg	[Seafood, American (Traditional), Restaurants]	Phoenix	AZ	33.675453	-112.09991	3.0	0
+MBEopVoQnXzWoRcDskHfYw	[Electronics, Shopping]	Phoenix	AZ	33.60984	-112.11813	3.0	0
+WTXcqahrnnII_j23tJJ3TQ	[Hotels & Travel, Event Planning & Services, Venues & Event Spaces, Hotels]	Phoenix	AZ	33.58212	-112.11375	3.0	0
+P5S53mTS907bkym4kd7qFQ	[Active Life, Gyms, Dance Studios, Fitness & Instruction]	Phoenix	AZ	33.49498	-111.990486	5.0	0
+N0_UiTesa8O4WQSvIMARGw	[Food, Arts & Entertainment, Wineries]	Phoenix	AZ	33.764954	-111.984856	4.5	0
+mMTlibtg6lZ0FomMqiNcWA	[Arts & Entertainment, Performing Arts]	Phoenix	AZ	33.63993	-112.119804	3.5	0
+LqfCXOcyNPzDtBgy5M9VFA	[Chinese, Restaurants]	Phoenix	AZ	33.610874	-112.098274	4.0	0
+e6i8v7VkD8yJk02PH4d9VA	[Adult Entertainment, Nightlife]	Phoenix	AZ	33.655216	-112.03038	4.0	0
+LErnyw7uzbwxyfF6It4chw	[Food, Coffee & Tea]	Phoenix	AZ	33.670742	-112.03079	3.5	0
+HrSowDDXw71VD_d-4g7I5g	[Food, Beer, Wine & Spirits, American (New), Food Court, Restaurants]	Phoenix	AZ	33.519577	-112.06535	3.5	0
+DfLML2IlhUqztTBURxOAxg	[Diners, Restaurants]	Phoenix	AZ	33.604046	-111.978065	4.0	0
+GBN0-wo_cHLnC_pwoOTIFQ	[Asian Fusion, Restaurants]	Phoenix	AZ	33.319378	-111.977875	3.0	0
+5D1DG-EUUO3pMvMOuY6U9Q	[Food, Juice Bars & Smoothies]	Phoenix	AZ	33.584625	-111.977715	4.5	0
+HgoYXFi_R2LbzYUDsa79Sw	[Shopping, Books, Mags, Music & Video, Music & DVDs, Hobby Shops, Toy Stores, Comic Books]	Phoenix	AZ	33.50895	-112.058655	4.5	0
+wccFOUVaqeNBRaY27wOCyg	[Chinese, Restaurants]	Phoenix	AZ	33.797142	-112.118065	3.5	0
+ZOROJ4IV6V2sEAmh0v-w2A	[Mexican, Restaurants]	Phoenix	AZ	33.46553	-112.02646	4.0	0
+xAWJunZXC52816iWyDLbNw	[Active Life, Gyms, Fitness & Instruction]	Phoenix	AZ	33.5237	-112.04824	3.0	0
+1OO3fy6z5lxlRuHnnhPStg	[Delis, Sandwiches, Restaurants]	Phoenix	AZ	33.62723	-112.012115	5.0	0
+Kx6vAKUcy3wPhw3K0W9LKQ	[Barbeque, Restaurants]	Phoenix	AZ	33.43653	-112.00727	2.0	0
+k2VWmgtAOT1kMHUWrYhrAw	[Bakeries, Food, Gluten-Free, Restaurants]	Phoenix	AZ	33.48059	-112.01782	4.5	0
+azpyEjBfx32kl4MMuxrmpw	[Arts & Entertainment, Art Galleries, Shopping, Nightlife, Music Venues]	Phoenix	AZ	33.459198	-112.091675	4.0	0
+Oe0cxmz0lD9z4FXGWJ1ZZQ	[Asian Fusion, Sushi Bars, Restaurants]	Phoenix	AZ	33.452717	-112.06918	3.0	0
+MvQWtqT6jXjaSW9qgDQBqQ	[Hotels & Travel, Travel Services, Tours]	Phoenix	AZ	33.68396	-112.082954	4.0	0
+eX_f1ZzrpejCp6xJpfLmDQ	[Greek, Mediterranean, Middle Eastern, Restaurants]	Phoenix	AZ	33.49475	-112.06327	4.5	0
+k9Z5mscursMlg827JGwRZA	[Shopping, Antiques]	Phoenix	AZ	33.59828	-112.11843	4.0	0
+4zitC1IPRLvHfQVinRSKew	[Pizza, Restaurants]	Phoenix	AZ	33.627922	-112.0301	4.0	0
+7srDFwPPnzBaQoPW55Dc8Q	[Bars, Gay Bars, Nightlife, Sports Bars]	Phoenix	AZ	33.502785	-112.064926	3.5	0
+4NPD3ecBbUdfcS9FAuwJIA	[Thai, Restaurants]	Phoenix	AZ	33.40667	-112.02249	4.5	0
+cAvK9H4BKPLSkdW9O3WQpA	[Massage, Beauty & Spas]	Phoenix	AZ	33.45378	-112.078865	5.0	0
+w40XDJySDLTaY6DI54FS-Q	[Food, Grocery, Convenience Stores]	Phoenix	AZ	33.667217	-112.117424	3.0	0
+UipLpm9rdqAN8TC0BMVW4A	[Sushi Bars, Restaurants]	Phoenix	AZ	33.600037	-112.1196	3.0	0
+Jjw6kVbkcbPjlGMA1iY2Tw	[Home Services, Pool Cleaners]	Phoenix	AZ	33.62121	-112.00303	3.5	0
+SaStkl2wAsvwzT1AjjG4tQ	[]	Phoenix	AZ	33.494766	-112.02633	3.5	0
+6q5NoEodl-hELFLMW7oc-g	[Thrift Stores, Shopping]	Phoenix	AZ	33.593132	-112.04121	4.5	0
+lAfk-yCZF1LDL14CRsVq2Q	[Massage, Beauty & Spas]	Phoenix	AZ	33.49717	-112.01239	5.0	0
+Z_QsNnSvKLcDpa-FbD8tQA	[Libraries, Public Services & Government]	Phoenix	AZ	33.565952	-112.064095	4.0	0
+zHqWEbhPOLpJ36IaKf80cw	[Home Services, Contractors]	Phoenix	AZ	33.40865	-112.00309	2.5	0
+H5Z1LXj6pietGhd3jnrjHQ	[Doctors, Health & Medical, Podiatrists]	Phoenix	AZ	33.303608	-111.98738	5.0	0
+F5eGTF-3hTGPIHHFFpKy1A	[Health & Medical, Dentists, Cosmetic Dentists]	Phoenix	AZ	33.62499	-112.09954	3.5	0
+1pfpNNcX0W8PXTUUHjD-1g	[Automotive, Towing]	Phoenix	AZ	33.68587	-112.041	5.0	0
+s0G-WZcLkXeORKNxb-hwLg	[Hotels & Travel, Travel Services, Tours]	Phoenix	AZ	33.626274	-112.01982	5.0	0
+VbzywKVY96Ho_hwGtnlXVQ	[Optometrists, Health & Medical, Shopping, Eyewear & Opticians]	Phoenix	AZ	33.522373	-112.09641	2.0	0
+8_kUzw2usJ8LTlHsNlVUOQ	[Event Planning & Services, Venues & Event Spaces]	Phoenix	AZ	33.4077	-112.0463	4.5	0
+H15t0KJV63hI8gf84j1KMQ	[Veterinarians, Pets]	Phoenix	AZ	33.625973	-112.134315	5.0	0
+tWcEK9ps2VoFAdjlNE86Lw	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.303482	-111.980255	3.5	0
+Pg0sE-DrHp48Quj_uju19Q	[Arts & Entertainment, Performing Arts]	Phoenix	AZ	33.46575	-112.0759	5.0	0
+Zpc6vt3w078dWG6NaP2xwg	[Electronics, Shopping]	Phoenix	AZ	33.509655	-112.07454	3.5	0
+Z5WJ8gYXST8Op143PR4vzw	[Automotive]	Phoenix	AZ	33.44968	-112.0703	4.5	0
+z3cvGSfHereAsnSrHctzTg	[Officiants, Event Planning & Services]	Phoenix	AZ	33.658897	-112.01334	5.0	0
+4sfZgMtbhKtvSgTCcK8tFQ	[]	Phoenix	AZ	33.465942	-112.09567	3.5	0
+h0FWO1IPWDXyIzKipLsF5A	[Plumbing, Home Services]	Phoenix	AZ	33.57198	-112.08655	1.5	0
+i02E9ld0t9c1OmceG1rBzQ	[Food Stands, Restaurants]	Phoenix	AZ	33.599045	-111.98121	4.5	0
+tVC8ziMEqktxZkIOvpDAHQ	[Local Services, Appliances & Repair]	Phoenix	AZ	33.681385	-112.07866	2.0	0
+7XMbAOQ637yWuR_JXjBkKw	[]	Phoenix	AZ	33.511627	-112.04671	3.5	0
+Z1DY41NfnMO7DUgc9CVRIw	[Local Services]	Phoenix	AZ	33.445374	-112.13163	5.0	0
+eyHjc5AhDp5mZWGA0QKgAg	[Pizza, Restaurants]	Phoenix	AZ	33.31959	-111.98323	4.5	0
+pHVCw1mHUDVYST8CkePHFA	[Food, Used, Vintage & Consignment, Fashion, Shopping, Ice Cream & Frozen Yogurt]	Phoenix	AZ	33.47985	-111.99404	5.0	0
+F5vKD7ajS69CwuFyBVxA_g	[American (Traditional), Restaurants]	Phoenix	AZ	33.61188	-111.99548	3.0	0
+1hSfmvi1Q9leNc8N6NhfAA	[Pet Services, Pet Boarding/Pet Sitting, Pets]	Phoenix	AZ	33.688427	-112.04748	4.5	0
+rZgr27FG3Q6Zkg0A7CDodw	[Shopping, Jewelry]	Phoenix	AZ	33.843197	-112.134766	3.5	0
+1IYHp-9jQH5kf-Bnvh9wNg	[Auto Repair, Automotive]	Phoenix	AZ	33.58081	-112.120346	3.5	0
+6LkWmZxRzt92OqhLf-XzLQ	[Auto Repair, Automotive, Oil Change Stations]	Phoenix	AZ	33.64417	-111.976776	4.5	0
+7EcOg3VFdOT2xKgRoX8yCw	[]	Phoenix	AZ	33.372322	-111.97581	2.0	0
+Rh0XSzng7etwA6Dh27oExg	[Tobacco Shops, Shopping]	Phoenix	AZ	33.45947	-112.07253	4.5	0
+iSr13ZE7NKFvwfhbMzgK3g	[]	Phoenix	AZ	33.494713	-112.02683	3.5	0
+BPbZht9FtT_2LV-4sNM0sg	[Hotels & Travel, Car Rental]	Phoenix	AZ	33.44919	-112.0772	2.5	0
+qoYajiFGFPqIl9KXu-bkGg	[Car Wash, Automotive]	Phoenix	AZ	33.384686	-112.07331	4.5	0
+Y2nuyOKrr8Kg9omMghnHWA	[Restaurants]	Phoenix	AZ	33.639988	-112.13393	1.5	0
+oMmTeuxyY-wFEstvXCOKaQ	[Health & Medical, Chiropractors]	Phoenix	AZ	33.504227	-112.03001	4.5	0
+9FY4DYK2RK2hyJG4_d4ZzQ	[Professional Services, Television Service Providers, Home Services, Internet Service Providers]	Phoenix	AZ	33.48069	-112.07146	2.5	0
+WQ4_ujnGqWeCDoTQDq8XWw	[Professional Services, Home Services, Internet Service Providers]	Phoenix	AZ	33.601116	-111.98344	2.0	0
+r6p1cjusR1_B_zDtvfirJQ	[Local Services, Appliances & Repair]	Phoenix	AZ	33.448376	-112.074036	1.0	0
+gSo21xuAwTn4h6Ru9x7kVA	[Food, Herbs & Spices, Tea Rooms, Specialty Food]	Phoenix	AZ	33.506516	-112.03884	5.0	0
+CLHfRm6biuH-l6r86qMLJw	[Banks & Credit Unions, Financial Services]	Phoenix	AZ	33.509052	-112.06519	4.5	0
+o25Fc5AVqfDVKygs7r6EZg	[Auto Repair, Automotive]	Phoenix	AZ	33.490723	-112.122154	5.0	0
+Mfa0aFvpjQ5llU3dq71i6Q	[Chicken Wings, Restaurants]	Phoenix	AZ	33.582405	-112.09925	3.5	0
+AzYy17rSt1tNtyGhGumkHw	[Food, Grocery]	Phoenix	AZ	33.611885	-111.977425	3.5	0
+C83oJwZAO3DP2RQ2Labi_g	[Food, Grocery]	Phoenix	AZ	33.538258	-112.05693	4.0	0
+2li2XlPfSi5zgfCE77uNeg	[Automotive, Gas & Service Stations]	Phoenix	AZ	33.451374	-112.05927	3.5	0
+bCkHAoryCDSDFbOeihkgUQ	[Food, Automotive, Convenience Stores, Gas & Service Stations]	Phoenix	AZ	33.487236	-112.0691	3.0	0
+tWUgitDQdBnnT4u_oO05Pg	[Automotive, Gas & Service Stations]	Phoenix	AZ	33.712982	-112.111694	3.5	0
+2mMsEANGjWcBhFQ5MmaQug	[Party Supplies, Wedding Planning, Event Planning & Services, Party & Event Planning]	Phoenix	AZ	33.40702	-112.01448	5.0	0
+Jttx8Knp-sk2QnLyuCGa8w	[Pet Services, Pets]	Phoenix	AZ	33.5169	-112.0821	4.0	0
+LX5jdU9ZOZISB8pD3ZHXdQ	[Hair Salons, Beauty & Spas]	Phoenix	AZ	33.550842	-112.05654	4.5	0
+-Lsdg-qZl_Lj3dj6VQI_Dg	[Food, Desserts]	Phoenix	AZ	33.678616	-111.97461	4.0	0
+CZofi8w4uAmfbXpmWfK5Qg	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.4608	-112.17113	3.5	0
+UiJajPGYV0CMI_2rV0WSRA	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.5787	-112.11583	2.0	0
+kYCtBgWQm_Mp3YzhPdlDyA	[Local Services, Furniture Reupholstery]	Phoenix	AZ	33.590855	-112.09904	2.5	0
+TG43zoUOuWqNXDCUDshsvQ	[]	Phoenix	AZ	33.47754	-112.04072	3.0	0
+BuvAdSaEqgMDk8zJvG06Gg	[Home Services, Flooring]	Phoenix	AZ	33.426205	-112.077385	3.5	0
+TblwQntr5UvVJbzdliREOQ	[Landscaping, Home Services]	Phoenix	AZ	33.583214	-112.10886	3.0	0
+fyTVrU5R4cis-MAbkj-V1Q	[Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants]	Phoenix	AZ	33.552986	-112.116295	2.5	0
+MnhW9oyIol5lEb7f5Y1hIw	[Auto Repair, Automotive]	Phoenix	AZ	33.516712	-112.08186	4.5	0
+LEPSr0mXqWocCtKyHrKRMw	[Movers, Shopping, Home Services, Home & Garden, Home Decor]	Phoenix	AZ	33.61117	-112.02524	1.0	0
+U76V0ei_t4dr8WQ-4OOhHA	[Beauty & Spas, Nail Salons]	Phoenix	AZ	33.306488	-112.05288	4.0	0
+dKezWbuwb6O2em-hYehrRg	[Health & Medical, Dentists, General Dentistry]	Phoenix	AZ	33.305798	-111.992256	5.0	0
+oW-CYIEOgy3VHbcGs4-YAQ	[Banks & Credit Unions, Financial Services]	Phoenix	AZ	33.598892	-111.98133	3.0	0
+8gwpcfNmyWauK4rU8YG7rg	[Sandwiches, Salad, Restaurants]	Phoenix	AZ	33.437145	-111.999626	4.0	0
+Oi-69K5O6EkBAQGAjU-gsg	[Tires, Automotive]	Phoenix	AZ	33.597626	-112.01119	3.5	0
+WJC8HctIbxatLbcuez1UOQ	[Pizza, Restaurants]	Phoenix	AZ	33.304333	-112.05477	2.5	0
+Dn-k5fRMiR7XAg4b67b2nQ	[Active Life, Golf]	Phoenix	AZ	33.789707	-111.992195	3.5	0
+dUTQIs1SMymII0-frGSZdw	[Music & DVDs, Books, Mags, Music & Video, Shopping]	Phoenix	AZ	33.496258	-112.0476	4.5	0
+J5zOI9JM0A-iYo5U1TOvdA	[Food, Donuts, Coffee & Tea]	Phoenix	AZ	33.60799	-112.06575	4.5	0
+vurk3jST-KeVPcK5tl6YGA	[Fish & Chips, Restaurants]	Phoenix	AZ	33.465977	-112.1698	2.5	0
+DarcQlLpQOqMxi3tsdffNw	[Food, Street Vendors, Mexican, Food Stands, Restaurants]	Phoenix	AZ	33.582386	-112.09969	4.5	0
+90GJDqPDCOO6FBcnYXEQJg	[Mexican, Restaurants]	Phoenix	AZ	33.46531	-112.09131	2.5	0
+shGQ1-I_eVcid-jrQIhbfA	[Auto Repair, Automotive]	Phoenix	AZ	33.590523	-112.04453	2.5	0
+do6_0IpW4VJ65KIfVNKz7Q	[Marketing, Professional Services]	Phoenix	AZ	33.507885	-112.04574	5.0	0
+Ae3iqemToxFcCC2h_qDooA	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.588474	-112.11569	4.0	0
+ZI38b-iM_kHrOyjI5Pgrzw	[Fast Food, Mexican, Restaurants]	Phoenix	AZ	33.495155	-112.108284	5.0	0
+ty6rVmtZKLc4okSYY7jYmQ	[Pets]	Phoenix	AZ	33.448376	-112.074036	3.5	0
+swBQU5039wQntoFcaDXRtA	[Local Services, Dry Cleaning & Laundry]	Phoenix	AZ	33.79827	-112.12769	3.5	0
+KtqqxQ1gFelzgWm1mVtvEw	[Health & Medical, Physical Therapy]	Phoenix	AZ	33.642097	-111.98261	5.0	0
+2LdgdJawc1aXj-eQ_BZZ6g	[Car Wash, Automotive]	Phoenix	AZ	33.572647	-112.1001	2.0	0
+xokzlWntsJ3HvLnm-zDejA	[Plumbing, Home Services]	Phoenix	AZ	33.532097	-112.17735	5.0	0
+6i-sOdjZ_qEWX-3OI_9Zcg	[Hair Salons, Hair Stylists, Beauty & Spas]	Phoenix	AZ	33.494556	-112.02845	5.0	0
+cjMwkkdthmSRP4tN5VNB1Q	[Shopping, Drugstores]	Phoenix	AZ	33.60981	-112.13209	3.0	0
+0OPIZYPi3qmFvt_5RYN8LA	[Flowers & Gifts, Shopping, Florists]	Phoenix	AZ	33.44919	-112.0772	1.5	0
+gVdnShwyas8aGTHLsgNwHg	[Doctors, Health & Medical]	Phoenix	AZ	33.640594	-111.99912	5.0	0
+WerVnis_FH0eUgv_tyCgvw	[Health & Medical, Urgent Care]	Phoenix	AZ	33.377735	-112.069954	3.5	0
+JZcTWcAZLZSJ-QMwAJM_Hw	[Thrift Stores, Shopping]	Phoenix	AZ	33.595974	-112.013306	4.0	0
+_jgTXxLb-EdoDGx7NIt-LA	[Hair Salons, Beauty & Spas]	Phoenix	AZ	33.319584	-111.982376	3.5	0
+c9HQA7fmLKpjqk7WbIjNOg	[Arts & Crafts, Shopping, Fabric Stores]	Phoenix	AZ	33.460007	-112.13461	5.0	0
+ErOlkm9n0Ao8QPFotzHXiQ	[Health Markets, Food, Specialty Food]	Phoenix	AZ	33.715096	-112.1137	3.0	0
+ZnIQBIa4A1oKb8qmQIIBrA	[Hobby Shops, Shopping, Toy Stores]	Phoenix	AZ	33.477406	-112.219345	1.0	0
+8IATTxhp1X_PzVT10RDl6Q	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.595894	-112.11859	4.5	0
+aZFihxH7QGWeIXw8uw_xDg	[Bars, American (Traditional), Sports Bars, Nightlife, Chicken Wings, Restaurants]	Phoenix	AZ	33.479324	-112.22135	2.5	0
+wxASKUPgbPsNLA9ZQFAn3A	[Women's Clothing, Men's Clothing, Fashion, Shopping, Accessories]	Phoenix	AZ	33.678616	-111.97461	4.5	0
+L5y1-4eAftz5ucUGya2rbw	[Home Services, Contractors]	Phoenix	AZ	33.55924	-112.064804	2.5	0
+N10oOIPgzzOpNlBsI8FyaA	[Local Services, Carpet Cleaning]	Phoenix	AZ	33.43828	-112.01783	5.0	0
+R2HLYDDjLfBDdkyKVtofBQ	[Diners, Restaurants]	Phoenix	AZ	33.46171	-112.169716	4.5	0
+u9EPDmSSsunfo5ZZALW7Tg	[]	Phoenix	AZ	33.435528	-112.00859	3.0	0
+zWT1gFeZ9BT-NmV2UA7BEg	[Financial Services, Financial Advising]	Phoenix	AZ	33.487713	-112.07889	5.0	0
+lxloQZzZjX6ftk-SipI1wA	[Auto Repair, Automotive]	Phoenix	AZ	33.57124	-112.07355	3.5	0
+VQmgq4Dwwej5AwnHBmDIAg	[Mexican, Chinese, Restaurants]	Phoenix	AZ	33.451614	-112.085556	4.5	0
+WAKmarYTwK2AJIFbxJqnBA	[Automotive, Auto Glass Services]	Phoenix	AZ	33.466602	-112.130325	3.5	0
+ThceQHR0yiCx5J1hbphF9g	[Restaurants]	Phoenix	AZ	33.480175	-112.004486	3.0	0
+1CfO4SjPnui5dmdbY6b14Q	[Restaurants]	Phoenix	AZ	33.573803	-112.124504	5.0	0
+FVpeXmiI8sa86fw63E0_0A	[Adult Entertainment, Nightlife]	Phoenix	AZ	33.468365	-112.11216	2.5	0
+XpplgIJWMzWxsRkrLVqHkA	[Food, Juice Bars & Smoothies]	Phoenix	AZ	33.666702	-112.12331	3.5	0
+Va7n0gVYBkvknicsS3K3_g	[Oral Surgeons, Health & Medical, Dentists]	Phoenix	AZ	33.640366	-112.06533	4.0	0
+fNEwA3uXDjCWq686qQbXuQ	[Auto Repair, Automotive]	Phoenix	AZ	33.553036	-112.05644	4.5	0
+ddbDLzrMZxfKLjxtKOhWTA	[Burgers, Fast Food, Restaurants]	Phoenix	AZ	33.451225	-112.122765	3.5	0
+2BcNZqbEY9x3F2hcs5GUhg	[Health & Medical, Dentists, General Dentistry]	Phoenix	AZ	33.485245	-112.070435	5.0	0
+6jsv1cp0Gd26X0BiE2tmTw	[Auto Repair, Automotive]	Phoenix	AZ	33.512104	-112.06534	2.5	0
+vtWBg6BzW61vjkkWSmgO4g	[Professional Services, Lawyers, Personal Injury Law, Bankruptcy Law]	Phoenix	AZ	33.508686	-112.07334	4.5	0
+hKtz953v5UyXViPZOneptw	[Post Offices, Shopping, Arts & Crafts, Event Planning & Services, Cards & Stationery, Flowers & Gifts, Public Services & Government]	Phoenix	AZ	33.58372	-112.01308	5.0	0
+vKSyuGH08YJuJYbP3o_PXw	[Restaurants]	Phoenix	AZ	33.61116	-112.135544	1.5	0
+TZhv0cOt0UHoORlG0I5JHg	[Afghan, Indian, Pakistani, Restaurants]	Phoenix	AZ	33.467014	-111.995926	5.0	0
+6r3IKtsmMexNfsZK6bxvLQ	[Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.56691	-112.070335	1.5	0
+UdKQ2CISIcqBBvmgpUum1A	[Divorce & Family Law, Lawyers, Professional Services]	Phoenix	AZ	33.51067	-112.029755	3.5	0
+8NoAiZz7Cv0NO57pbpT05w	[Pizza, Restaurants]	Phoenix	AZ	33.48144	-112.01291	3.5	0
+R72PRg4ZKOjstjUiTCUWTw	[Auto Repair, Automotive, Auto Parts & Supplies]	Phoenix	AZ	33.494736	-112.06276	3.5	0
+i4X_iu_29PkhL2zsIRpueQ	[Mexican, Restaurants]	Phoenix	AZ	33.46539	-112.11735	2.5	0
+4pBklPWQZSeuj5xynAEOYg	[Mexican, Restaurants]	Phoenix	AZ	33.479305	-112.13467	3.5	0
+Opc3htnZCvEMA1piSbnIJw	[Skin Care, Shopping, Cosmetics & Beauty Supply, Beauty & Spas]	Phoenix	AZ	33.55967	-112.132195	3.5	0
+DyTRTqPuT6ylVMw4rbCUuQ	[Auto Repair, Automotive]	Phoenix	AZ	33.57796	-112.10148	5.0	0
+0gjMWaSear0ueoX8NQk09g	[]	Phoenix	AZ	33.655254	-112.13262	3.5	0
+CR9XJppkJFhxCENxj-ILnA	[Medical Centers, Health & Medical]	Phoenix	AZ	33.48	-112.06972	3.5	0
+c3BCBElZ1C1gIJFQg6Hu1w	[Flowers & Gifts, Shopping, Florists]	Phoenix	AZ	33.4805	-112.06922	3.0	0
+g2PqgHDyjj8X8v-gZA7Yhg	[Fast Food, Restaurants]	Phoenix	AZ	33.59949	-111.98437	2.5	0
+YLyEGXEgh1qh8y4kWEsddw	[Shopping, Jewelry]	Phoenix	AZ	33.4502	-112.07382	4.5	0
+BgN7BIa627qnlJB63SrVNg	[Nightlife]	Phoenix	AZ	33.451412	-112.150795	3.5	0
+3I4ryDSxPDxnxNbDWx0f2Q	[Auto Repair, Automotive]	Phoenix	AZ	33.56481	-112.117165	3.0	0
+VrloBN-l9VOqdUagy0MIEQ	[Property Management, Home Services, Real Estate, Apartments]	Phoenix	AZ	33.448376	-112.074036	1.5	0
+5iU--vkLMyELXkPMbZWdXg	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.640053	-112.1108	2.5	0
+LrtIhFqOy0JP3CxCbUdGiA	[Party Supplies, Event Planning & Services]	Phoenix	AZ	33.389812	-111.991455	5.0	0
+3oB0QqVVU1iQgPqfk3shZQ	[Men's Clothing, Fashion, Shopping]	Phoenix	AZ	33.582207	-112.13327	2.5	0
+LINlXPAeUagT_UL2lCcH0A	[Do-It-Yourself Food, Health Markets, Specialty Food, Food, Gluten-Free, Restaurants]	Phoenix	AZ	33.448376	-112.074036	3.5	0
+xadpCbvnjwmaCLZ8hQo5gw	[Beauty & Spas, Health & Medical, Medical Spas]	Phoenix	AZ	33.65568	-111.930016	3.5	0
+UpajH9p8st28ZIaRfIhwbQ	[Buffets, Chinese, Restaurants]	Phoenix	AZ	33.640064	-112.08092	3.5	0
+nEsXVcO_a1k2OJQol6iA0w	[Doctors, Medical Centers, Health & Medical, Obstetricians & Gynecologists]	Phoenix	AZ	33.305145	-111.98729	4.5	0
+Rd-6cfiVMVFMlwDxA4LWqQ	[Doctors, Health & Medical]	Phoenix	AZ	33.709927	-112.10814	4.5	0
+D-pqRUo_W-usuD6V-xBVlQ	[Health & Medical, Dentists]	Phoenix	AZ	33.552982	-112.05396	4.0	0
+nckQIGiiUxztAQ2Boo6Tlw	[Bars, American (Traditional), Nightlife, Restaurants]	Phoenix	AZ	33.435917	-112.01359	1.5	0
+PwvtgDYl8YaiGvCJJ1nvOA	[Shopping, Office Equipment]	Phoenix	AZ	33.5694	-112.12042	2.0	0
+1TZ3B22tC1oPEVztCYZhCQ	[Arts & Crafts, Shopping, Costumes]	Phoenix	AZ	33.582157	-112.120316	5.0	0
+Lbhy8kkystMdiQPNMSwcLA	[Auto Repair, Automotive, Tires, Auto Parts & Supplies]	Phoenix	AZ	33.45167	-112.11374	4.5	0
+0YB3QjUCaWlWUkc1Wtd-sg	[Arts & Entertainment, Specialty Schools, Performing Arts, Dance Schools, Education]	Phoenix	AZ	33.675095	-112.10128	4.0	0
+EbpER1LNaQFYxx22WBDRIg	[Public Services & Government]	Phoenix	AZ	33.448307	-112.078606	3.0	0
+gYIOMFDd432rI9p4qQt-UA	[Shopping, Home & Garden, Furniture Stores]	Phoenix	AZ	33.678616	-111.97461	4.0	0
+_MnWsMbyPc7eMPb4UYu_yA	[Hair Salons, Beauty & Spas]	Phoenix	AZ	33.609867	-112.0138	3.5	0
+6L90QJuEsne3gSEJj1I6Jw	[Fashion, Shopping]	Phoenix	AZ	33.510815	-112.027916	3.5	0
+lAt6k3yOqpVD5flEK5xq7w	[Auto Repair, Automotive, Car Dealers]	Phoenix	AZ	33.639793	-112.115776	2.0	0
+kYf8DzsYS8wQoiGioZqyRQ	[Plumbing, Home Services]	Phoenix	AZ	33.585575	-112.10988	2.5	0
+So-ZYKPIAmQiQoLPIX8tDw	[Coffee & Tea, Gas & Service Stations, Food, Automotive, Sandwiches, Restaurants]	Phoenix	AZ	33.377705	-111.97917	3.0	0
+cqSToj5ZoNO0A5FH2Ajygg	[]	Phoenix	AZ	33.538605	-112.10246	5.0	0
+5kA00AnMdSjiwjowEIR9Qw	[Food, Convenience Stores]	Phoenix	AZ	33.596603	-112.035484	4.5	0
+qpsej-hIcCcRR8nLbBDI4g	[Food, Convenience Stores]	Phoenix	AZ	33.68821	-112.03197	4.5	0
+K-VestRPCsguRnPMtKDEsA	[Flooring, Home Services, Carpeting]	Phoenix	AZ	33.556976	-112.059235	4.5	0
+t0kdEzNPPrrXroMTiakszA	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.59557	-112.12	1.5	0
+CCCu9d1Nl-zY85u2NwlEuQ	[Employment Agencies, Professional Services]	Phoenix	AZ	33.49113	-112.07391	5.0	0
+HCPCq7q3iiYkQb5tDLfCig	[]	Phoenix	AZ	33.527157	-112.065384	4.5	0
+-mLTcXdlrrhirZTYgWrZqA	[Plumbing, Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.448376	-112.074036	3.5	0
+fe-xalZHOXQ6gs0mALZIwg	[Massage Therapy, Health & Medical]	Phoenix	AZ	33.62561	-112.10824	3.5	0
+mBCVSoOlTZp-VfI3jkCSCw	[Shopping, Guns & Ammo]	Phoenix	AZ	33.49456	-112.04178	2.0	0
+PsO7ilfx0aA9SgcAqA4New	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.450066	-111.965904	4.5	0
+vFtMSgQsd3Fwt3U7UJf5dQ	[Italian, Pizza, Restaurants]	Phoenix	AZ	33.538517	-112.13206	4.5	0
+GF95bWp-19I5YbNtr9VluQ	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.450554	-112.005066	1.5	0
+VDMLwxsKoS_5JpsJIrMYvw	[Local Services, Community Service/Non-Profit]	Phoenix	AZ	33.47891	-112.066956	5.0	0
+aUMWTSIpHjbFB5uHOHu7ig	[Active Life, Parks]	Phoenix	AZ	33.558426	-112.09032	3.5	0
+0NlqDFEOct5LQs8kBmQO-A	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.642616	-111.9786	1.0	0
+-mQ8to8Y4MSMS5tIjgsV3g	[Automotive, Windshield Installation & Repair, Auto Glass Services]	Phoenix	AZ	33.701546	-112.10194	5.0	0
+_tJKWq1GebP4ZRfK-aO9mA	[Health & Medical, Dentists, General Dentistry]	Phoenix	AZ	33.51	-111.988075	5.0	0
+ouBlOm6OSfVKWatic4c2lg	[Food, Cajun/Creole, Street Vendors, Food Trucks, Restaurants]	Phoenix	AZ	33.3604	-111.7497	4.5	0
+rkzTvFSQoylgVc2oYohuDg	[Mexican, Restaurants]	Phoenix	AZ	33.437027	-112.10133	3.0	0
+zJ9pWVWSSOZRaCvf0R-kkQ	[Shopping, Jewelry]	Phoenix	AZ	33.538147	-112.06606	4.5	0
+KdzEtD--s9fy3MZNOWEF1Q	[Women's Clothing, Fashion, Shopping]	Phoenix	AZ	33.678616	-111.97461	4.5	0
+YMlceIJ4lCEchaiWFZcqdw	[Department Stores, Fashion, Shopping]	Phoenix	AZ	33.5759	-112.124725	3.0	0
+19Ul92eh3bhOOdP4eXEJVg	[Videos & Video Game Rental, Books, Mags, Music & Video, Shopping, Adult, Bookstores]	Phoenix	AZ	33.494724	-112.16793	4.5	0
+89n31RPotLWYIbeR7CUHSQ	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.34589	-111.97756	3.5	0
+yLzlhJ0Yi1MvFwAjtcXVfw	[Health & Medical]	Phoenix	AZ	33.51306	-112.12612	2.0	0
+0MQ3inDAuiq43TN9hw_Rbw	[American (Traditional), Fast Food, Restaurants]	Phoenix	AZ	33.65409	-112.13241	4.0	0
+QsCCPWxWqMe-0jSfryhkXg	[Laboratory Testing, Diagnostic Services, Health & Medical]	Phoenix	AZ	33.587963	-111.97774	3.5	0
+nutVWcp-X4_5Jk2mcuVOSw	[Laboratory Testing, Diagnostic Services, Health & Medical]	Phoenix	AZ	33.46311	-112.05719	2.5	0
+U3eGHFBScT9eWWLaLa2jdA	[Cannabis Clinics, Health & Medical]	Phoenix	AZ	33.60166	-112.03769	5.0	0
+HD7nJspSF6GKr3r9g-9QZA	[Food, Coffee & Tea]	Phoenix	AZ	33.509132	-112.028305	5.0	0
+JyqLejwP2CJ4KqdG9fOxDg	[Food, Coffee & Tea]	Phoenix	AZ	33.495277	-111.98842	1.5	0
+aDJdR2lvWH1RLBIKQ_bFOA	[Arts & Entertainment, Dance Studios, Performing Arts, Fitness & Instruction, Active Life, Yoga]	Phoenix	AZ	33.5095	-112.06362	4.5	0
+Yrjj_LCy_bPD_PINGjhdng	[Fast Food, Sandwiches, Restaurants]	Phoenix	AZ	33.638405	-111.979836	3.5	0
+ZGbmoOglp4OaQ_YWuNJZJA	[Fast Food, Sandwiches, Restaurants]	Phoenix	AZ	33.536827	-112.0475	4.0	0
+vf5AdVCI7rEvXF2Falgp_w	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.64204	-112.1146	2.5	0
+o9xelj7QXJryb7pWWmgd-Q	[Barbers, Beauty & Spas]	Phoenix	AZ	33.63829	-112.06841	3.0	0
+iMyHBU0QB7MvTbpeK8tybA	[Public Services & Government]	Phoenix	AZ	33.44544	-112.075325	4.0	0
+LyDEE71t_F9hA27hy6yaAQ	[Car Wash, Automotive]	Phoenix	AZ	33.46675	-112.22026	3.5	0
+kp4h2i2wA7TWcPBqId6fkA	[Car Wash, Automotive]	Phoenix	AZ	33.42349	-112.22802	4.0	0
+7H5-0NPxTTlyBCGdgObSEw	[Local Services, Dry Cleaning & Laundry]	Phoenix	AZ	33.476124	-112.01261	3.5	0
+P9JOqvTEZfzYq7qom2Qxzw	[Food]	Phoenix	AZ	33.448376	-112.074036	4.5	0
+9KjasgCdquqIn3BuuSi9wg	[Active Life, Event Planning & Services, Party & Event Planning, Playgrounds]	Phoenix	AZ	33.86518	-112.149445	3.5	0
+CxVFP2-D1F6BY7n3IoOEXg	[Local Services, Shipping Centers]	Phoenix	AZ	33.66986	-112.03086	3.0	0
+jvkzD8D1mPB5Rpg5MVIE7Q	[Sporting Goods, Shopping, Outdoor Gear]	Phoenix	AZ	33.571342	-112.09388	5.0	0
+lUWNBK2TwadKV601jX7iOw	[Active Life, Fitness & Instruction]	Phoenix	AZ	33.612392	-112.012566	4.5	0
+iepZKNHA10OBe9XwkyE72A	[Local Services, IT Services & Computer Repair]	Phoenix	AZ	33.448376	-112.074036	5.0	0
+kUiX174Ai0KtDRR7S49R-Q	[Nutritionists, Gyms, Health & Medical, Trainers, Fitness & Instruction, Active Life]	Phoenix	AZ	33.640633	-112.024284	3.5	0
+65Y-UpbgnC2iIzMOnIxaYA	[Security Systems, Home Services]	Phoenix	AZ	33.664955	-112.11047	3.0	0
+dUwx303wshhFdVkc0SQgfg	[Barbers, Beauty & Spas]	Phoenix	AZ	33.640076	-112.00429	2.5	0
+pwvEsJjo7WjY3Gbzl5MWwQ	[Tobacco Shops, Shopping]	Phoenix	AZ	33.64048	-112.094	2.5	0
+R_HIuFdsbqHBDvIR5fzAsQ	[Department Stores, Fashion, Shopping]	Phoenix	AZ	33.551125	-112.057274	3.5	0
+3Piwg6swo1Xzxq9V1054jQ	[Local Services, Shipping Centers]	Phoenix	AZ	33.483696	-112.12625	2.5	0
+yVksC8GgZnQeC_xs-uEtsQ	[Post Offices, Public Services & Government]	Phoenix	AZ	33.453754	-112.07391	3.5	0
+pARpNmERH5UNb9Sa3XQ7vA	[Mexican, Restaurants]	Phoenix	AZ	33.449554	-112.0755	2.5	0
+puMcI6XOgAq7QOy0vGcv6A	[Thrift Stores, Shopping]	Phoenix	AZ	33.509983	-112.08354	4.5	0
+laKMP54yzbGtZTyDxb5IXQ	[Photographers, Event Planning & Services]	Phoenix	AZ	33.448376	-112.074036	5.0	0
+kBKMhXYHmxlCQubUdxShBQ	[Shopping, Home Services, Internet Service Providers, Mobile Phones, Professional Services, Electronics]	Phoenix	AZ	33.71109	-112.112274	4.0	0
+H2ii01lMuEHhVNw9V-O55g	[Veterinarians, Pets]	Phoenix	AZ	33.413494	-111.990715	3.5	0
+cSyE87g6Q0HUDUOGRAmSeQ	[Women's Clothing, Lingerie, Shopping, Fashion, Accessories]	Phoenix	AZ	33.48002	-112.22369	4.5	0
+6wKacaFIYcgsaYAZXd4Dkw	[Active Life, Sports Clubs]	Phoenix	AZ	33.4467	-111.97352	5.0	0
+m-A_VpcQEG3WGMTY2MGAkA	[Beauty & Spas, Nail Salons]	Phoenix	AZ	33.612392	-111.99405	5.0	0
+tbwZdMyjjLXgUt0l3b7kxA	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	Phoenix	AZ	33.640335	-112.07144	3.0	0
+3jbUgwZks6oMfTJslVP2Cw	[Health & Medical, Laser Eye Surgery/Lasik]	Phoenix	AZ	33.486748	-112.0716	3.5	0
+mW-_F3qROl7AXsdnh2WYIQ	[Food, Ice Cream & Frozen Yogurt, Desserts]	Phoenix	AZ	33.479065	-111.99738	4.5	0
+NhdIZvpM11d720SskLvRpA	[Burgers, Restaurants]	Phoenix	AZ	33.320393	-111.977844	3.5	0
+UeeoS5-yiL_jlsDpaNB_pQ	[Fast Food, Restaurants]	Phoenix	AZ	33.68436	-112.10834	4.0	0
+7YGV3PkjYJdFHn21-CX5Tw	[Pets, Pet Stores]	Phoenix	AZ	33.63285	-112.0135	4.5	0
+tU8wF7wVPct7i_tM31dGgw	[Bakeries, Food]	Phoenix	AZ	33.59906	-111.98197	5.0	0
+qCe5Jh8wzUJ87Gs40tzjVQ	[Electricians, Home Services]	Phoenix	AZ	33.624935	-112.1266	5.0	0
+mhiLt0dh1aS5beuIEvCFtw	[Home Cleaning, Home Services]	Phoenix	AZ	33.448376	-112.074036	1.0	0
+gEgL6yu4APc2jE5XYSuQ0A	[Auto Repair, Automotive, Tires, Oil Change Stations]	Phoenix	AZ	33.304665	-112.05598	4.5	0
+Tn_3-kg2ZHlfc6apyUFCXQ	[Food, Ice Cream & Frozen Yogurt]	Phoenix	AZ	33.843597	-112.1349	4.5	0
+_7OvxfAje3XDZuSzguF6iA	[Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.57161	-112.08134	3.5	0
+QMN_F0PIReU6QbyEuGSYhg	[Food, Desserts, Ice Cream & Frozen Yogurt]	Phoenix	AZ	33.522236	-112.0647	4.5	0
+3VKJ7cWSH38QKgCrYlG3Mg	[Greek, Mediterranean, Restaurants]	Phoenix	AZ	33.541504	-112.13432	4.0	0
+NkCGz1NSdEgOSpHtpiHyog	[Hair Removal, Tanning, Beauty & Spas]	Phoenix	AZ	33.509777	-111.995964	4.5	0
+-NOet8xJLGhX-eUzSIDc2Q	[Delis, Fast Food, Sandwiches, Restaurants]	Phoenix	AZ	33.495193	-112.019905	4.0	0
+CBfJ1gqtbDiO8n3CmO5moA	[Bakeries, Food]	Phoenix	AZ	33.523746	-112.0489	3.0	0
+vFJmFFfPVhHkC3bWOeZnNA	[Pubs, Bars, American (Traditional), Nightlife, Restaurants]	Phoenix	AZ	33.640957	-112.019516	3.5	0
+b-t3nNmRw6alKw4aSqAgPg	[Mexican, Restaurants]	Phoenix	AZ	33.509346	-112.05884	3.0	0
+cB9fdS4INRNyKkgYY6Dkog	[Keys & Locksmiths, Home Services]	Phoenix	AZ	33.52718	-112.13462	5.0	0
+lOe96udVTehPZsJW6ZeR-Q	[Active Life, Parks]	Phoenix	AZ	33.861	-112.136604	5.0	0
+tJB-8htFreI7an-_JAycsg	[Active Life, Archery]	Phoenix	AZ	33.683266	-112.08752	5.0	0
+y1A62g8hSodSS_aOzTKDig	[]	Phoenix	AZ	33.67845	-111.977516	2.0	0
+e-KY66E91S3Mscb2v5wQmw	[Hair Salons, Nail Salons, Beauty & Spas]	Phoenix	AZ	33.582043	-112.00827	5.0	0
+4MZBPKr4Kmw_5hiElostjw	[Food, Wine Bars, Bars, Nightlife, Beer, Wine & Spirits]	Phoenix	AZ	33.45887	-112.07718	5.0	0
+Z55Gf84IF1Z1QbE65KL36w	[Adult Education, Education, Preschools]	Phoenix	AZ	33.654808	-112.06404	5.0	0
+he2a6AUoGH4A6vB1kLDnLw	[Pets, Pet Stores]	Phoenix	AZ	33.610744	-112.13435	5.0	0
+WKVo9KhwDOwnR_kp3SXrVw	[Automotive, Motorcycle Dealers]	Phoenix	AZ	33.41319	-112.05238	4.0	0
+cSA2pB43cv71ffdIvaEodA	[American (New), Restaurants]	Phoenix	AZ	33.4803	-112.08079	5.0	0
+FUE9XeUVX9BD5ruo2EOPLw	[Fast Food, Restaurants]	Phoenix	AZ	33.480743	-112.119705	4.5	0
+Hy_RFiJo5rSBfFq78BvY_Q	[Chinese, Restaurants]	Phoenix	AZ	33.531326	-112.06466	4.0	0
+nci85FbeU44P9IeUP9j0nQ	[Local Services, Junk Removal & Hauling, Recycling Center]	Phoenix	AZ	33.436443	-112.065216	5.0	0
+P8R-5NtQJG2JqtUwN7AyVw	[Massage Therapy, Health & Medical, Massage, Beauty & Spas]	Phoenix	AZ	33.49505	-111.994804	5.0	0
+2Zg1CXjY0MWZrC8G2alpag	[Automotive, Windshield Installation & Repair, Auto Glass Services]	Phoenix	AZ	33.494747	-112.02705	4.0	0
+gsNmLT5qQTkcoeeXTETO3Q	[Food, Coffee & Tea, Bagels]	Phoenix	AZ	33.524593	-112.04715	5.0	0
+SzFdrvhysEx57tA7VfTLog	[Department Stores, Bridal, Fashion, Shopping]	Phoenix	AZ	33.401405	-111.99513	4.0	0
+5DEhqesLb3k3a9BQqQyq5w	[Barbers, Beauty & Spas]	Phoenix	AZ	33.51021	-112.02721	5.0	0
+ZDi6iwT0B_ddPxGzG9NTjA	[Hair Salons, Hair Stylists, Beauty & Spas]	Phoenix	AZ	33.637074	-112.07134	5.0	0
+0Tyz8wjta4Vkd1Wp-hWw9g	[Professional Services]	Phoenix	AZ	33.675472	-111.96331	5.0	0
+2a-RVYQA7eIsyxcUbnFXsA	[Auto Repair, Automotive]	Phoenix	AZ	33.538853	-112.113815	4.0	0
+CQSKT9EZWlfU_uADiMRFpg	[Auto Repair, Automotive]	Phoenix	AZ	33.640373	-112.09066	3.5	0
+vYTzbaemujdD4K4p18hNlw	[Pediatric Dentists, Health & Medical, Dentists]	Phoenix	AZ	33.305824	-111.99131	5.0	0
+uYGQIhbZ6uPLsvsQcgbFtg	[Health & Medical, Home Health Care]	Phoenix	AZ	33.544	-112.048676	4.0	0
+Xta0mTpGJWC2yi6kiQm_vg	[Burgers, Breakfast & Brunch, American (Traditional), Restaurants]	Phoenix	AZ	33.49886	-112.0835	3.0	0
+DmuvQmligwF6sJc81DoioA	[Beauty & Spas, Nail Salons]	Phoenix	AZ	33.654232	-112.02958	4.5	0
+CaXoq1nScoyiR02FfNqnaA	[Plumbing, Home Services]	Phoenix	AZ	33.44919	-112.0772	5.0	0
+YpMaznSpbMzwriglYWpURw	[Medical Centers, Health & Medical]	Phoenix	AZ	33.582596	-111.981995	5.0	0
+zK1L_k-Ux3Nofkande_Jfw	[Bakeries, Food, Desserts]	Phoenix	AZ	33.712986	-112.113014	3.0	0
+rZ0Z3pgoML7bQDXBxjLThw	[Health & Medical, Urgent Care]	Phoenix	AZ	33.625916	-112.011765	2.0	0
+W3VsNhHLMRj5ABMdMcpaUw	[Food, Specialty Food, Mediterranean, Restaurants]	Phoenix	AZ	33.622887	-111.929375	5.0	0
+5OQU8r5sWiwtBHqOIEqUdA	[Active Life, Gyms, Trainers, Fitness & Instruction]	Phoenix	AZ	33.511272	-111.98589	5.0	0
+Ju4wOAi0qJtMm9U32uBGwA	[Pizza, Restaurants]	Phoenix	AZ	33.50958	-112.06019	4.5	0
+2gyYreqtf7_1cq7xzZsBHg	[Beauty & Spas, Nail Salons]	Phoenix	AZ	33.639145	-112.150826	5.0	0
+Gly54cM3avJg9n2F0l8V-g	[Chinese, Restaurants]	Phoenix	AZ	33.494755	-112.06104	3.5	0
+lgzRgoNvdz-sNHRz29LWGA	[Pet Services, Pet Groomers, Pet Training, Pet Stores, Pets]	Phoenix	AZ	33.31861	-111.97596	3.0	0
+oUrlWqz2tkyNRcggKZWfAw	[Flowers & Gifts, Shopping, Florists]	Phoenix	AZ	33.525387	-112.06442	4.0	0
+-Al9ySAoa5iDhrYWddkL4g	[Libraries, Public Services & Government]	Phoenix	AZ	33.462917	-112.073074	4.5	0
+zkcCquv_2aCAw1nxDHSVRg	[Auto Repair, Automotive, Auto Glass Services]	Phoenix	AZ	33.479313	-112.03018	5.0	0
+w8y1dQ06MckD8_fJvP5jag	[Car Wash, Automotive]	Phoenix	AZ	33.64061	-112.02646	3.5	0
+ZWpHfKPHgead2xfCAmzUeA	[Local Services, Home Services, Carpet Cleaning, Carpeting]	Phoenix	AZ	33.538925	-112.04808	4.0	0
+dikctAGjqkRpjHusLnGMQA	[Health & Medical, Chiropractors]	Phoenix	AZ	33.44971	-112.07421	5.0	0
+5NeJJp4fiuG1IyRJWDPnKQ	[]	Phoenix	AZ	33.678616	-111.97461	3.0	0
+3L7p-DStdY7oqTy21-lekg	[Doctors, Health & Medical, Family Practice]	Phoenix	AZ	33.654114	-111.97761	3.5	0
+Yl4wqDhNB-5TNURwQXoCFQ	[Mexican, Restaurants]	Phoenix	AZ	33.494736	-112.06052	3.5	0
+fQw8n6-rEZH7FFgbijWxng	[Barbers, Beauty & Spas]	Phoenix	AZ	33.480286	-112.01156	4.5	0
+Yhbsyq_n4J3vLhw9WkXwAw	[Auto Repair, Automotive]	Phoenix	AZ	33.584137	-112.050095	4.5	0
+rfRTBch5yMEFXLn34e2R-Q	[Venues & Event Spaces, Wedding Planning, Event Planning & Services, Party & Event Planning]	Phoenix	AZ	33.377678	-112.026596	3.0	0
+zXBccg2582D3Gxjq8yJPMg	[Event Planning & Services, Caterers]	Phoenix	AZ	33.50305	-112.11605	4.0	0
+aS2aNPE861FI4dRrz1Z7Ow	[Mexican, Restaurants]	Phoenix	AZ	33.43402	-111.994545	4.0	0
+I3RnM4JmJ787ySV6rBswvw	[Food, Grocery]	Phoenix	AZ	33.639763	-112.07181	4.0	0
+pRyooCFH6aM2rQ1Y8VEZyA	[Thrift Stores, Shopping]	Phoenix	AZ	33.55803	-112.06474	3.5	0
+Iq3IjfThMZGfXxj-YbCVPA	[Food, Coffee & Tea]	Phoenix	AZ	33.480724	-112.07948	3.5	0
+ixz6fOutTInGmIE-_g8ewQ	[Health & Medical, Dentists, General Dentistry]	Phoenix	AZ	33.760597	-112.130585	4.5	0
+3TMW22UlfDK04CivHxGXOw	[Arts & Entertainment, Festivals]	Phoenix	AZ	33.49778	-112.06973	4.0	0
+0YmhW_wxTTlegzzVQZiBKg	[Shopping, Mobile Phones]	Phoenix	AZ	33.479153	-111.98702	3.0	0
+54oiNJxNvaRtP8WeDJwP8A	[Active Life, Fitness & Instruction]	Phoenix	AZ	33.678616	-111.97461	5.0	0
+i5ET3ed5pHF5XM9xpEvkhg	[Bars, Pool Halls, Hookah Bars, Nightlife]	Phoenix	AZ	33.61082	-112.15253	3.0	0
+DHF08laBedIxIWf4sb1c1g	[Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.48415	-112.07492	3.5	0
+cIk8OYlSsNE0w_elgUtqWw	[Food, Food Trucks]	Phoenix	AZ	33.448376	-112.074036	4.0	0
+Fh-seoGscrAZQv-e7gmsGg	[Automotive, Parking]	Phoenix	AZ	33.452236	-111.994225	4.5	0
+eED0rOLOWzq-kI8Rco87Xg	[Beauty & Spas, Nail Salons]	Phoenix	AZ	33.378185	-112.01061	2.5	0
+nTvdMPju3cciuizDSlOLRA	[Post Offices, Public Services & Government]	Phoenix	AZ	33.655407	-112.100784	2.0	0
+lF1917cvbCzQX7BcUvlooA	[Pizza, Restaurants]	Phoenix	AZ	33.552197	-112.09985	5.0	0
+SGtkYYPpj_JCsboF_UEmwg	[Landscaping, Home Services]	Phoenix	AZ	33.678238	-112.10129	1.5	0
+l-CgVr-7NrmG2QGAf3yRkA	[Active Life, Golf]	Phoenix	AZ	33.497997	-112.28227	2.5	0
+Mdqr92qTEz87eqZ1P5f_NA	[Banks & Credit Unions, Financial Services]	Phoenix	AZ	33.319412	-111.979675	5.0	0
+0LLaVEXjtW0aW0FzU9uRoA	[Chinese, Restaurants]	Phoenix	AZ	33.495018	-112.101006	4.5	0
+uhyfR_cgP1qAYVd_GNDn_Q	[American (Traditional), Restaurants]	Phoenix	AZ	33.306133	-112.05548	3.5	0
+EjWi22gAE_cYpGs7lBPahQ	[Greek, Restaurants]	Phoenix	AZ	33.60981	-112.119194	4.0	0
+LbcDWyqGgQdlwWfGO-whMw	[Mexican, Restaurants]	Phoenix	AZ	33.436527	-111.99899	2.5	0
+ubfD6-I73lP00v0fkx-keQ	[Restaurants, Pizza, Italian]	Phoenix	AZ	33.598633	-112.12008	4.0	0
+5XU8ys_TsulI-FJ5nzuNvg	[Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.637352	-112.06844	3.5	0
+c1R5fUSPgo1d-6N6AznOlw	[Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.52437	-112.08048	5.0	0
+IRbfSEiit5hMZ4xHzCCmsg	[Leather Goods, Fashion, Shopping]	Phoenix	AZ	33.415386	-111.99082	5.0	0
+EW-DCLsUbUF-uHA5sm9c8w	[Hotels & Travel, Transportation]	Phoenix	AZ	33.43475	-112.01077	3.0	0
+hoFJyjzKp7uktSRgxbEhSQ	[Local Services, Printing Services]	Phoenix	AZ	33.510025	-112.01542	4.0	0
+TbVPye1S8UZzLPy0E2qN_g	[Cuban, Restaurants]	Phoenix	AZ	33.583473	-112.150986	4.0	0
+cF3BfV6E_sPvn_ZuEUZMww	[Shopping, Eyewear & Opticians]	Phoenix	AZ	33.5093	-112.07334	5.0	0
+gbLPR7iykaZaHtE2spUxwA	[Food, Donuts]	Phoenix	AZ	33.509277	-112.03627	4.0	0
+vNPASoT_H9ltCGiqhtzdDg	[Food, Donuts]	Phoenix	AZ	33.479614	-112.25795	2.5	0
+PobPeV78Kkuf1JuxDz0wrA	[Skin Care, Day Spas, Massage, Beauty & Spas]	Phoenix	AZ	33.517513	-112.05784	5.0	0
+kRZy3FEMZkGaHwNvRxd2hg	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.599995	-111.9915	1.5	0
+Dp1VAj7SIb82CuwVDLah0Q	[Food, Food Delivery Services, Delis, Sandwiches, Restaurants]	Phoenix	AZ	33.678616	-111.97461	1.5	0
+Ehc4Ze59gyFjUBKARCmhcg	[Food, Food Delivery Services, Delis, Sandwiches, Restaurants]	Phoenix	AZ	33.47918	-111.98729	3.5	0
+Udupw_J-oQHLaLO0FXIQDg	[Bakeries, Food]	Phoenix	AZ	33.49572	-111.989296	4.5	0
+TGn8jvxlTAlz1JsgVPBjig	[Active Life, Gyms, Fitness & Instruction]	Phoenix	AZ	33.64036	-112.06783	3.0	0
+6feADUYMnyzZYtyqXbfdsw	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.57971	-112.117516	2.0	0
+O7-O54xA54g_tyP3A9pXZQ	[Doctors, Health & Medical]	Phoenix	AZ	33.49539	-112.015976	5.0	0
+WAOvwd8zPeS_PG0oi2IzAQ	[Property Management, Home Services, Real Estate, Apartments]	Phoenix	AZ	33.571163	-112.10655	2.0	0
+FMrpyKPa4ffQmo015b3Bmg	[Pet Groomers, Pet Services, Pet Boarding/Pet Sitting, Pets]	Phoenix	AZ	33.654858	-112.06388	3.5	0
+mhDFvJmVAH00Vxwjnre78A	[Shopping, Photography Stores & Services]	Phoenix	AZ	33.40251	-111.98766	3.0	0
+0tQ1zdnOnzLnJDZxZhJRcg	[Hotels & Travel, Travel Services, Vacation Rentals, Event Planning & Services, Hotels]	Phoenix	AZ	33.553074	-112.047485	2.5	0
+s2lCXuJ3fUWf5Itf9QnrMQ	[Bars, Sushi Bars, Nightlife, Restaurants]	Phoenix	AZ	33.494587	-111.98605	4.0	0
+USO4upm0Ex4uL57nHTplEw	[Food, Bakeries, Coffee & Tea]	Phoenix	AZ	33.51354	-112.074196	4.0	0
+m4Gw2d0_iWE3kyDhNtD0-g	[American (Traditional), Restaurants]	Phoenix	AZ	33.631573	-112.01393	4.5	0
+GYPHQGaB4Oeq9veH-p2nKA	[American (New), Restaurants]	Phoenix	AZ	33.55332	-112.05638	4.0	0
+7CTf4W-KT4h6uA_zpGZp2Q	[Restaurants, French, Italian]	Phoenix	AZ	33.510044	-112.014206	3.5	0
+pjtB4FadDdq_DeyedjDsOw	[Car Wash, Automotive]	Phoenix	AZ	33.5057	-112.03981	2.0	0
+4R8uKEIwTVzHGLa3Edub0Q	[Optometrists, Laser Eye Surgery/Lasik, Ophthalmologists, Health & Medical, Doctors]	Phoenix	AZ	33.50711	-112.03511	4.0	0
+VniR7lMqEAFj7_4LLKs-7A	[Shopping, Home & Garden, Furniture Stores]	Phoenix	AZ	33.513805	-112.07371	5.0	0
+nD_agLaHKWjbSdU7EU3XiA	[Health & Medical, Dentists, General Dentistry]	Phoenix	AZ	33.71101	-112.11428	4.5	0
+NfDiPMTRzNbZoKLdclCZSA	[Plumbing, Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.413574	-112.00235	1.5	0
+IwHGaAxRxULh7onSBMwY6w	[Auto Repair, Automotive, Tires, Auto Parts & Supplies]	Phoenix	AZ	33.59745	-112.135155	3.0	0
+Uo5CqWuJwPNfQPO9QvECgA	[Vietnamese, Restaurants]	Phoenix	AZ	33.553097	-112.135796	3.0	0
+NpU2e64iVlm1X2X1AADbuw	[Automotive, Towing]	Phoenix	AZ	33.569305	-112.10975	4.0	0
+uJPzhPtVl-68Jdcp5EIbRw	[Skin Care, Hair Salons, Hair Extensions, Makeup Artists, Beauty & Spas]	Phoenix	AZ	33.509293	-112.03627	3.5	0
+gCaccP5CxQn-j2KCNbD4gg	[Tires, Automotive, Auto Repair]	Phoenix	AZ	33.495197	-112.01466	3.5	0
+Ia0Ri_qRKDDWaGAwZ5spug	[Security Systems, Home Services]	Phoenix	AZ	33.552814	-112.05528	4.0	0
+b88bG_8zvaRyOAaKfxUCsA	[Active Life, Leisure Centers]	Phoenix	AZ	33.570198	-112.07359	4.0	0
+Fa-zUFfIMIke1QLeeWT_6g	[Italian, Pizza, Restaurants]	Phoenix	AZ	33.640556	-112.09372	3.0	0
+2tL3VT4jy84MmwhxOA96Qw	[Home Services, Real Estate, Apartments]	Phoenix	AZ	33.452106	-111.975235	3.5	0
+IbO-f15bC-xAxal97GrKww	[Food, Desserts, Bakeries]	Phoenix	AZ	33.51021	-112.02721	4.5	0
+1vl4-5il_LGtDRxUCy9ldw	[Food, Coffee & Tea, Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.4657	-112.08227	4.0	0
+7onAEqbbZChyYdB2nJoQdg	[Afghan, Mediterranean, Restaurants]	Phoenix	AZ	33.626022	-111.97876	4.0	0
+EHGuZw0qptzw2M1LF-3sXA	[Food, Food Delivery Services, Grocery]	Phoenix	AZ	33.45	-112.07	4.0	0
+SmThJ_okG7QQzOz_Wm0Ezg	[Burgers, Restaurants]	Phoenix	AZ	33.480083	-112.13332	5.0	0
+mVw-xowBq-SVmYdz4_PGuA	[Tanning, Beauty & Spas]	Phoenix	AZ	33.494896	-112.0108	3.5	0
+mqLIvIVWmV00VWo3L5pj3Q	[American (New), Restaurants]	Phoenix	AZ	33.4369	-111.99437	3.5	0
+vmj-2OhFiKfNHfY-dn0OaA	[Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.67789	-112.03449	2.5	0
+zpTGqHPUaRn36CPvOfOzzQ	[Active Life, Sporting Goods, Bikes, Shopping, Bike Rentals]	Phoenix	AZ	33.32039	-111.97981	5.0	0
+OMMzVZbM1l-sXo-LJti0eA	[Food, Specialty Food]	Phoenix	AZ	33.465824	-112.0815	5.0	0
+j_Id-xnaHfyJRV5FlciYhA	[Burgers, American (Traditional), Sandwiches, Restaurants]	Phoenix	AZ	33.377686	-112.029205	4.0	0
+9VJEwceRa2YGktZOWiCuyw	[Food, Food Delivery Services]	Phoenix	AZ	33.520565	-112.06902	5.0	0
+TAXqmwKegmqY1Jru4n5n9Q	[Food, Food Trucks]	Phoenix	AZ	33.509655	-112.07454	5.0	0
+1DgilPotZNq-0THjA7pMpA	[Midwives, Health & Medical]	Phoenix	AZ	33.481346	-112.042206	4.0	0
+RIP8nL2Gbiu0zb-nCgZnpw	[Mexican, Restaurants]	Phoenix	AZ	33.59946	-111.98134	3.0	0
+dlqQuSgAjoP_S6bqFrRsvA	[Pet Services, Pet Groomers, Pet Boarding/Pet Sitting, Pets]	Phoenix	AZ	33.62845	-112.01401	4.5	0
+pDC6ODmk4rCHW1Syeqc87Q	[Delis, Restaurants]	Phoenix	AZ	33.596775	-112.134445	3.0	0
+CUsuNP_TAOIxB-RrJtDBug	[Hotels & Travel, Event Planning & Services, Hotels]	Phoenix	AZ	33.51342	-112.04676	2.0	0
+ef9APXNJHHWDwpyxgfSqwg	[Home Services, Heating & Air Conditioning/HVAC]	Phoenix	AZ	33.551895	-112.13287	5.0	0
+cdIA7bbdzp5lifn_vXi5kA	[Active Life, Gyms, Fitness & Instruction]	Phoenix	AZ	33.510845	-112.08341	3.5	0
+8jTAfGcJMLs9VNcG4dndNQ	[Steakhouses, Restaurants]	Phoenix	AZ	33.598972	-111.98162	4.0	0
+ZA_-wDDOlLVAmLUvkfd1SQ	[Food, Food Delivery Services]	Phoenix	AZ	33.448376	-112.074036	3.5	0
+VRIlEWs6ktrdvjrvXKuwKA	[Food, Coffee & Tea]	Phoenix	AZ	33.451958	-112.0693	4.0	0
+_ywWoGKew1Tii7SNWvmU6Q	[Active Life, Landmarks & Historical Buildings, Parks, Local Flavor, Public Services & Government]	Phoenix	AZ	33.450424	-111.97142	4.5	0
+ZJQTfiVVsgv5t5kYwHlIbA	[Local Services, Mobile Phone Repair, IT Services & Computer Repair, Electronics Repair]	Phoenix	AZ	33.507885	-112.04574	4.0	0
+nZop_P6Op2B8CZhLxNU4TA	[Barbers, Beauty & Spas]	Phoenix	AZ	33.496174	-112.02056	3.5	0
+auorqdHiATGZHVd-sd79ZQ	[Pizza, Restaurants]	Phoenix	AZ	33.51241	-112.06535	3.5	0
+z-4TlEQcyzyf9t_S1DoZ0g	[Auto Repair, Automotive]	Phoenix	AZ	33.50927	-112.058624	3.5	0
+p--SeMxrQiUaCyNX44W6yw	[Local Flavor]	Phoenix	AZ	33.622887	-111.929375	5.0	0
+kc2BVXCX6GA3DVrMKERbGw	[Food, Coffee & Tea]	Phoenix	AZ	33.602085	-111.98806	4.5	0
+OYmi0Aanp2F1pPCvfe6CDw	[Delis, Restaurants]	Phoenix	AZ	33.51205	-112.10861	4.0	0
+A5MadrE5Dd_usQUEKmW5pg	[Food, Food Trucks]	Phoenix	AZ	33.448376	-112.074036	4.0	0
+XmJtUUTpgmeYQs_69uZ89Q	[Food, Coffee & Tea, Breakfast & Brunch, Restaurants]	Phoenix	AZ	33.640408	-111.99517	3.5	0
+DF-7XU1Wncxx3XqZoiIIGg	[Bakeries, Food, Delis, Sandwiches, Restaurants]	Queen Creek	AZ	33.255985	-111.64196	4.0	0
+Uq3fC7MtIbbuskoxsNM89A	[Home Services, Heating & Air Conditioning/HVAC]	Queen Creek	AZ	33.219913	-111.56391	1.5	0
+h9D494ya9sx_pD_sPUKxvA	[Burgers, Hot Dogs, Restaurants]	Queen Creek	AZ	33.17919	-111.58418	2.0	0
+Tov8bUMXgo1FGnYv1vxytw	[Mexican, Restaurants]	Queen Creek	AZ	33.19149	-111.50507	3.0	0
+yPzaRhevOvDEdv8iMCA7zg	[Tattoo, Beauty & Spas]	Queen Creek	AZ	33.23231	-111.6859	5.0	0
+mcAdK_9OmUShZ3xKT-yXng	[Beauty & Spas, Nail Salons]	Queen Creek	AZ	33.190582	-111.59984	4.5	0
+2Tb0OVDJKQLGl5jHQs7j-A	[Food, Automotive, Convenience Stores, Gas & Service Stations]	Queen Creek	AZ	33.18051	-111.585075	4.0	0
+fAGWnXuG4ejNlyx3YmGTdg	[Hair Salons, Beauty & Spas]	Queen Creek	AZ	33.25003	-111.5632	4.0	0
+ZYNbmD_F9XNLlBMOBEawlw	[Active Life, Golf]	Queen Creek	AZ	33.158764	-111.56809	3.0	0
+DRC8d7Qsbg7UI675ooXUGw	[Breakfast & Brunch, Restaurants]	Queen Creek	AZ	33.251755	-111.636986	2.5	0
+6rhvC0ADvJLFdF0azF0oWw	[Department Stores, Grocery, Fashion, Shopping, Food, Mobile Phones]	Queen Creek	AZ	33.17839	-111.5846	2.5	0
+8FGW1g153Q1tzvidVq6zPw	[Caribbean, Dominican, Restaurants]	Queen Creek	AZ	33.21167	-111.68471	4.0	0
+kGYniXt2DpCGoVyGkjkt3g	[Health & Medical]	San Tan Valley	AZ	33.20939	-111.564735	4.5	0
+7Z248o7IKlgZoQptLux_ag	[Doctors, Health & Medical, Family Practice, Urgent Care]	San Tan Valley	AZ	33.24943	-111.56258	3.0	0
+WsZK1lNa6RNwcDUXiiu1sA	[Pizza, Restaurants]	San Tan Valley	AZ	33.13732	-111.53926	3.5	0
+K7B9-RFdQ2nMNws7Ph05Zg	[Sushi Bars, Restaurants]	Scottsdale	AZ	33.619335	-111.893036	4.0	0
+xDPaJlaEVrqjQ0HjgmEk9g	[Local Services, Sewing & Alterations]	Scottsdale	AZ	33.581154	-111.92727	4.5	0
+rtnsUaubKydS5GI1TohhuA	[Food]	Scottsdale	AZ	33.62479	-111.925735	2.5	0
+v7OwbHgNgy_VQ9eP5FjvUA	[Burgers, Bars, American (New), Nightlife, Restaurants]	Scottsdale	AZ	33.491467	-111.92558	4.5	0
+lHr-aMBHh29zLpuB2ShAMQ	[Restaurants, Italian]	Scottsdale	AZ	33.625088	-111.92549	4.0	0
+IwDI3Ls5FH2FxPNRyYaffA	[Tobacco Shops, Shopping]	Scottsdale	AZ	33.61551	-111.91139	5.0	0
+hrvj4RyT-a12llLSyCaaZw	[Active Life, Parks]	Scottsdale	AZ	33.713173	-111.66742	4.5	0
+OEPjt9cO1xYl7tYCkl6A5g	[Pizza, Restaurants]	Scottsdale	AZ	33.573772	-111.90549	4.0	0
+kXlQIQMZSKBXEzxby2jDDA	[Restaurants, Italian]	Scottsdale	AZ	33.69703	-111.88899	3.0	0
+rrfmaxtcmg0h26Vyg6Eebg	[Books, Mags, Music & Video, Shopping, Bookstores]	Scottsdale	AZ	33.49369	-111.93063	4.5	0
+cKiTluWCfMQTdmFZIugoiQ	[Hotels & Travel, Taxis, Airport Shuttles, Transportation]	Scottsdale	AZ	33.50813	-111.92305	3.5	0
+Qj1KE6kxM660GjtP8jQpyg	[Beauty & Spas, Nail Salons]	Scottsdale	AZ	33.63942	-111.86404	3.5	0
+77BTvEd_YG_2JUSWeDmGwQ	[Breakfast & Brunch, Restaurants]	Scottsdale	AZ	33.4978	-111.92595	3.5	0
+5ARBXY3O_LllnjoQthUI7A	[Used, Vintage & Consignment, Fashion, Shopping]	Scottsdale	AZ	33.528927	-111.925865	3.5	0
+G149aO4XXAKBsUcksvuI7g	[Food, Juice Bars & Smoothies, Cafes, American (New), Restaurants]	Scottsdale	AZ	33.498505	-111.92628	4.0	0
+fEKZ_IjfwtIuKIcuZzUJJA	[Bars, Hookah Bars, Nightlife]	Scottsdale	AZ	33.479782	-111.935135	3.5	0
+jBb5KHHAj4s8hcXVS6QXDg	[American (Traditional), Restaurants]	Scottsdale	AZ	33.527027	-111.924545	4.0	0
+7DDRk6CozeS__8aLCJ80-A	[Cheesesteaks, Sandwiches, Restaurants]	Scottsdale	AZ	33.498505	-111.92628	2.0	0
+GeRs--cXc_CtIZDNHYvpzg	[Pet Groomers, Pet Services, Pet Training, Pet Stores, Pets]	Scottsdale	AZ	33.573845	-111.86403	4.5	0
+S5ZcvZ7_ZeXXeDxHcEPAlw	[Veterinarians, Pets]	Scottsdale	AZ	33.524094	-111.89914	5.0	0
+fWnGkLnZzv2yl3fB7xF40g	[Persian/Iranian, Middle Eastern, Restaurants]	Scottsdale	AZ	33.64178	-111.92545	4.0	0
+IckHBll6Dfe_podsCnr0tQ	[Active Life, Gyms, Trainers, Fitness & Instruction]	Scottsdale	AZ	33.614445	-111.8647	4.5	0
+Zv5doxmclMPbvw2XKF6OOg	[Nightlife, Bars, American (Traditional), Sports Bars, Restaurants]	Scottsdale	AZ	33.495667	-111.93304	4.5	0
+JqxuioXJG8OsQVPLrlGRQA	[Sporting Goods, Bikes, Shopping]	Scottsdale	AZ	33.46639	-111.91772	5.0	0
+7rZ4P3CoPiH-r5R7DuaKGw	[Mexican, Restaurants]	Scottsdale	AZ	33.580833	-111.92686	4.0	0
+iPWboYOoWBkvv3JY6frHaA	[Beauty & Spas, Nail Salons]	Scottsdale	AZ	33.58348	-111.88353	4.0	0
+Cd3uJtsQtG3vJ_WLGp7YZQ	[Asian Fusion, Restaurants]	Scottsdale	AZ	33.62979	-111.88753	3.5	0
+UKF6P02o8lYmrLdytXTKlQ	[Barbers, Beauty & Spas]	Scottsdale	AZ	33.620193	-111.89369	4.5	0
+_tYT5_N3zCwrpkdfVhqrnw	[Arts & Crafts, Shopping, Event Planning & Services, Party & Event Planning]	Scottsdale	AZ	33.496716	-111.92741	5.0	0
+nb7OvZFB1CoZCj-Yruuk-Q	[Tattoo, Beauty & Spas]	Scottsdale	AZ	33.58236	-111.92704	5.0	0
+LViwhZ9AvCimfHndTSYGfw	[Food, Bagels]	Scottsdale	AZ	33.639687	-111.891525	4.5	0
+kRKHltoiXYuNJIdOcnc_Qg	[Local Flavor]	Scottsdale	AZ	33.49558	-111.93319	4.5	0
+fv1DOiJT_uvjIc_0LlQJDg	[Local Services, Sewing & Alterations]	Scottsdale	AZ	33.496696	-111.93084	4.5	0
+8i5hB_dmf33NVbWE5SwoMQ	[Greek, Restaurants]	Scottsdale	AZ	33.58013	-111.87977	4.0	0
+jNpuJ6fUwgV23Mh_XvTaqg	[Women's Clothing, Men's Clothing, Fashion, Shopping, Accessories]	Scottsdale	AZ	33.502594	-111.92968	4.0	0
+u9YPOYxDZHiO9Z1NUuzcIA	[American (Traditional), Restaurants]	Scottsdale	AZ	33.567398	-111.92591	3.0	0
+AdtaLOWW3nI4Sa8OTiAAxA	[Local Services, Sewing & Alterations]	Scottsdale	AZ	33.4814	-111.93506	5.0	0
+86fq6mtHmd6VL8GROG4vSQ	[American (New), Restaurants]	Scottsdale	AZ	33.670555	-111.90623	3.5	0
+90FbKH7nax6RXpXpUGJMtQ	[Local Flavor]	Scottsdale	AZ	33.471634	-111.926315	5.0	0
+zPHXmaVhEr4FzfB8r-EcjQ	[Bars, American (New), Nightlife, Restaurants]	Scottsdale	AZ	33.48084	-111.90983	3.5	0
+uudctBsXXn6GvRGRUbtrEQ	[Restaurants, Italian]	Scottsdale	AZ	33.727867	-111.85376	4.0	0
+cdzLytFSVHihM_Xt9yXmow	[Shopping, Mobile Phones]	Scottsdale	AZ	33.50366	-111.92576	2.5	0
+mBxoo7EVMEMbn7tEpm7Qqg	[Tires, Automotive]	Scottsdale	AZ	33.469105	-111.92611	5.0	0
+R0GST2A7UI6FQFWltItdOw	[Health & Medical, Dentists, General Dentistry]	Scottsdale	AZ	33.62466	-111.94353	5.0	0
+U7ikf8xRzJ6Fnq_yrfiMGg	[Food]	Scottsdale	AZ	33.537678	-111.906715	3.5	0
+aG8e8tQDQXP3zorRLfY09A	[Health & Medical, Dentists, General Dentistry, Cosmetic Dentists]	Scottsdale	AZ	33.615353	-111.90646	4.5	0
+_0F9ZpDmHbH45kM7ujD9Fg	[Bridal, Shopping]	Scottsdale	AZ	33.594543	-111.88034	2.5	0
+hYooRvt98mjOun91EyKPNg	[Restaurants]	Scottsdale	AZ	33.46593	-111.92212	3.5	0
+xzhQAA73KZ0wacCQ8hpOBw	[Automotive, Gas & Service Stations]	Scottsdale	AZ	33.46625	-111.90111	1.0	0
+C3lu0gYvlSOPwEYdKF0ajA	[Home Services, Flooring]	Scottsdale	AZ	33.616364	-111.927155	5.0	0
+ki7fhvs8IctEtqltTpZTYw	[Veterinarians, Pets]	Scottsdale	AZ	33.510162	-111.911514	4.5	0
+rG44yw59jbJxJ2oDcQ3yBg	[Shopping, Drugstores]	Scottsdale	AZ	33.57395	-111.88207	4.0	0
+Hm89LBzNf5FjOBTpQO7ZAQ	[Banks & Credit Unions, Financial Services]	Scottsdale	AZ	33.61072	-111.92643	2.5	0
+h3ZBi5XkyN6lBc9-W6bDmw	[Party Supplies, Event Planning & Services]	Scottsdale	AZ	33.583405	-111.92798	5.0	0
+qfhpfE6wTj_SHlgreP6zrw	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate]	Scottsdale	AZ	33.494244	-111.926445	3.0	0
+yZYe_rgHsSYpK5azFtPSEA	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas]	Scottsdale	AZ	33.78026	-111.925766	4.5	0
+XjGFroEU-9Rct-3l7ynnHQ	[Burgers, Restaurants]	Scottsdale	AZ	33.49417	-111.92605	2.5	0
+A-zAHCowH6uRWXPETwSxJg	[Burgers, Fast Food, Restaurants]	Scottsdale	AZ	33.61276	-111.92623	2.0	0
+SeYuAfoS8yH5diYmhSJoiA	[Shopping, Drugstores]	Scottsdale	AZ	33.479977	-111.91074	3.5	0
+tiCSfhFMQDgEB_3amgpFMQ	[Party Supplies, Event Planning & Services]	Scottsdale	AZ	33.500546	-111.92644	4.5	0
+IGIF36xP-7Tis2staMvZhQ	[Food, Automotive, Convenience Stores, Gas & Service Stations]	Scottsdale	AZ	33.61179	-111.86412	2.5	0
+HB_GJUe69IvS_0c-ld7DxA	[Delis, Sandwiches, Restaurants]	Scottsdale	AZ	33.463615	-111.92381	4.5	0
+oLB3BtYs8i7cYRKizCPtYg	[Public Services & Government]	Scottsdale	AZ	33.62912	-111.91634	3.5	0
+BQo4c13UVSsLGwOwOvBmew	[Office Equipment, Shopping, Home & Garden, Furniture Stores]	Scottsdale	AZ	33.629753	-111.925735	3.5	0
+yYI_34sfBfHD3RbGrnucig	[Active Life, Golf]	Scottsdale	AZ	33.630344	-111.92369	2.5	0
+4UZMYOw3SpM64DNlPq72ig	[Health & Medical, Dentists, General Dentistry]	Scottsdale	AZ	33.79102	-111.92517	5.0	0
+Hl_3pronSnoHl7Iyyy78Qw	[Active Life, Golf, Event Planning & Services, Venues & Event Spaces, Restaurants]	Scottsdale	AZ	33.82505	-111.875534	5.0	0
+SVPtn6UKna_kxihGMdc9Mw	[Automotive, Motorcycle Repair]	Scottsdale	AZ	33.48232	-111.92338	5.0	0
+MyzPurK06Gnu9_HLBZIirQ	[Automotive, Auto Parts & Supplies, Auto Glass Services]	Scottsdale	AZ	33.619644	-111.903465	5.0	0
+tXp3vCit5Z6Nve5wUfnJzA	[Shopping, Jewelry]	Scottsdale	AZ	33.587864	-111.83839	4.5	0
+g7LC_bB1PqSW3fOP2jF1QQ	[Massage, Beauty & Spas]	Scottsdale	AZ	33.69952	-111.92332	5.0	0
+-HOzPb5_pq632tzZ1YFnng	[Hair Salons, Beauty & Spas]	Scottsdale	AZ	33.69909	-111.89253	4.5	0
+lmIXtLgu1tIoFAsqXnTpmA	[Mexican, Restaurants]	Scottsdale	AZ	33.612568	-111.864914	4.0	0
+N0uaRov08pkBwLh_wzXIRQ	[Active Life, Martial Arts, Gyms, Trainers, Fitness & Instruction]	Scottsdale	AZ	33.481243	-111.908905	5.0	0
+d4jdAzULarMwYzv8g8j_cQ	[Fashion, Shopping, Shoe Stores]	Scottsdale	AZ	33.61727	-111.926575	2.5	0
+fBgqi0Ir4LK7bob3Aeb3yQ	[Barbers, Beauty & Spas]	Scottsdale	AZ	33.585617	-111.92628	3.5	0
+SRB9h78-1Hgikr1p2XoTeQ	[Shopping, Drugstores]	Scottsdale	AZ	33.624954	-111.944565	4.5	0
+kh3N_Kpywdh8kB4YIUA5MQ	[Health Markets, Food, Specialty Food]	Scottsdale	AZ	33.629192	-111.88948	3.0	0
+9Jfeli0JuLqWN6jjacYw7g	[Electronics, Shopping]	Scottsdale	AZ	33.624638	-111.93034	2.5	0
+APDwoLz9Aq1Spr-qEb4KPw	[Local Services, Community Service/Non-Profit]	Scottsdale	AZ	33.61727	-111.926575	4.5	0
+DSvVbxq2m0AiCYQGHESTyw	[Local Services, Appliances & Repair, Home Services, Heating & Air Conditioning/HVAC]	Scottsdale	AZ	33.582935	-111.828094	5.0	0
+uUnZ15y1OUexqbcpnaZdDw	[Children's Clothing, Fashion, Shopping]	Scottsdale	AZ	33.498146	-111.926285	5.0	0
+XbIzDzo_UcOkuDMU0H2QjQ	[Elementary Schools, Middle Schools & High Schools, Education]	Scottsdale	AZ	33.62475	-111.9569	3.0	0
+IoGTYoblT4NINuet-sERAw	[Buffets, Restaurants]	Scottsdale	AZ	33.462696	-111.92662	2.0	0
+OUqxyRmkg7-U6GcKSDBXng	[Shopping, Jewelry]	Scottsdale	AZ	33.541924	-111.925255	5.0	0
+6SMz4Mr6JwLJdwUBuFMkXA	[Real Estate, Home Services, Real Estate Agents]	Scottsdale	AZ	33.553448	-111.89756	4.5	0
+WulpNsdjRe8RVniVqpZJpg	[Health & Medical, Dentists, General Dentistry]	Scottsdale	AZ	33.615368	-111.89242	2.5	0
+xFPNicZcCicp8RVqz1Ic6Q	[Massage, Beauty & Spas]	Scottsdale	AZ	33.62064	-111.93165	4.5	0
+n3xQhaN4my8kWMUzE7Fn5Q	[]	Scottsdale	AZ	33.594543	-111.88034	4.5	0
+7ujKe-xmdC1z74I8Y65RoQ	[Colleges & Universities, Specialty Schools, Education, Cooking Schools]	Scottsdale	AZ	33.50816	-111.906654	2.0	0
+Y61SoG7nL30KW6teZX9d-w	[Musical Instruments & Teachers, Shopping]	Scottsdale	AZ	33.582047	-111.93108	3.5	0
+Lg0O7vV-FEE1uWlxhN-jgQ	[Beauty & Spas, Nail Salons]	Scottsdale	AZ	33.585354	-111.92802	3.5	0
+wKSNcYb2mlDNzeci1QGRPA	[Active Life, Weight Loss Centers, Health & Medical, Fitness & Instruction]	Scottsdale	AZ	33.582554	-111.93019	5.0	0
+vWuvLRUj-RRVDGxQZf32kw	[Department Stores, Fashion, Shopping]	Scottsdale	AZ	33.633728	-111.925316	3.5	0
+Pznoxvf9tre8s8kHJcdveQ	[Local Services, Community Service/Non-Profit]	Scottsdale	AZ	33.48727	-111.92614	4.0	0
+pGeUvlGrynqzLrB6d2iQ-Q	[Massage, Beauty & Spas]	Scottsdale	AZ	33.492813	-111.93103	5.0	0
+VqwDkQOCqM2XMxug8-KCLg	[Local Services, Dry Cleaning & Laundry]	Scottsdale	AZ	33.542713	-111.906075	2.5	0
+V8baCmVNm87Xj0EKveKyAw	[Tanning, Beauty & Spas]	Scottsdale	AZ	33.58348	-111.88353	4.5	0
+eSDaZ1ozCM-aTvkObEbT5A	[Mortgage Brokers, Home Services, Real Estate]	Scottsdale	AZ	33.616722	-111.91099	1.0	0
+TW7MgAF85QkBGjmMIfvcvA	[Arts & Entertainment, Bars, Karaoke, Music Venues, Nightlife]	Scottsdale	AZ	33.457745	-111.908165	3.0	0
+AszeepGtpAo46vbL5ixEfA	[Thrift Stores, Shopping, Home & Garden, Antiques, Furniture Stores]	Scottsdale	AZ	33.480404	-111.91131	4.5	0
+TY4Kwr_x5iFVFNfaNH856Q	[Financial Services, Insurance]	Scottsdale	AZ	33.612816	-111.91914	5.0	0
+RNJ--TPEuJg_0K6MjLlnww	[Professional Services, Real Estate Law, Lawyers, Estate Planning Law, Business Law]	Scottsdale	AZ	33.621258	-111.88815	5.0	0
+fWQqaAaOon3XkFqPFYgo6Q	[American (New), Restaurants]	Scottsdale	AZ	33.548744	-111.915695	2.5	0
+thwsEaIxShTU7Uv2PNCmVg	[Art Schools, Specialty Schools, Education]	Scottsdale	AZ	33.490738	-111.92874	3.5	0
+n8xZIU1PZz3Um0QhJnCfcw	[Local Services, Dry Cleaning & Laundry]	Scottsdale	AZ	33.486103	-111.90895	3.5	0
+dqqGDOXRO8diBFTxvfnoHw	[Specialty Schools, Dance Studios, Dance Schools, Fitness & Instruction, Active Life, Education]	Scottsdale	AZ	33.574482	-111.862915	5.0	0
+3pgAHh3Dq5YHcAIF7IKq7w	[Active Life, Parks]	Scottsdale	AZ	33.695145	-111.91214	4.5	0
+t_0Wt4LcpLrPhaEoUy2jYg	[Dermatologists, Doctors, Health & Medical]	Scottsdale	AZ	33.57858	-111.88046	4.5	0
+3m57PxtZU08ReZ3Xn_el3Q	[Fast Food, Sandwiches, Restaurants]	Scottsdale	AZ	33.464348	-111.90837	4.0	0
+3qx7XDbxPBPXX53u9qdG_w	[Fast Food, Sandwiches, Restaurants]	Scottsdale	AZ	33.61819	-111.89766	3.0	0
+OWD_NJEh90_ELp2nsOmxpw	[Home Services, Real Estate, Apartments]	Scottsdale	AZ	33.488674	-111.91045	4.0	0
+NbmgE6qmxGyXpZeXFXoWjQ	[Automotive, Gas & Service Stations]	Scottsdale	AZ	33.60712	-111.92638	2.5	0
+4_czyqhmKzymIHlKxcFJ3g	[Sandwiches, Restaurants]	Scottsdale	AZ	33.798073	-111.92646	3.5	0
+g8WX8u6cM_z7zBDT9_sFBw	[Hobby Shops, Shopping, Toy Stores]	Scottsdale	AZ	33.636654	-111.92485	4.0	0
+qiQoaA3IeVBMqrmj1VpmMw	[Hotels & Travel, Event Planning & Services, Hotels]	Scottsdale	AZ	33.531277	-111.929726	4.5	0
+S1TlmscGEwSjahaXr5lkmw	[Breakfast & Brunch, Restaurants]	Scottsdale	AZ	33.70003	-111.88846	3.5	0
+eNEVVQIrSXzZDOXlttflzA	[Hotels & Travel, Event Planning & Services, Hotels]	Scottsdale	AZ	33.58351	-111.886635	3.5	0
+QOoPEqInlb0yreYosroaog	[Gardeners, Landscaping, Home Services]	Scottsdale	AZ	33.616905	-111.90073	1.0	0
+0fXMevLbCumZtlgYGb-FTA	[Window Washing, Home Services]	Scottsdale	AZ	33.568863	-111.917725	5.0	0
+bcFAcjrN9zDDJYHcL1v7Rw	[Post Offices, Public Services & Government]	Scottsdale	AZ	33.616318	-111.904625	3.0	0
+or2eZZN0KbZNGzHUJwcQYw	[Automotive, Gas & Service Stations]	Scottsdale	AZ	33.55343	-111.882164	4.5	0
+7GZbCqYdOI19tP-09u8FsA	[Food, Ice Cream & Frozen Yogurt]	Scottsdale	AZ	33.46586	-111.91374	4.5	0
+46i_TDaMP0bFiNR_YZ1TAw	[Hair Removal, Beauty & Spas]	Scottsdale	AZ	33.49056	-111.92796	5.0	0
+lV_WKixg0htlcAnQ_Av9ew	[Real Estate, Home Services, Real Estate Agents]	Scottsdale	AZ	33.622284	-111.92876	5.0	0
+Ei1iQVVjhS3REUbmjUg5Fg	[Latin American, Restaurants]	Scottsdale	AZ	33.466274	-111.900475	4.0	0
+k-I2IJrEFAikJMqfzXUl8g	[Burgers, Fast Food, American (Traditional), Restaurants]	Scottsdale	AZ	33.72682	-111.85197	4.0	0
+-2gyHPSL8pJjkSe5Ozzw6Q	[Mexican, Restaurants]	Scottsdale	AZ	33.479935	-111.92777	4.0	0
+gh3n-Lf1udKJlR-gGPK93A	[Delis, Restaurants]	Scottsdale	AZ	33.70002	-111.925285	4.0	0
+pxdysIY7-IXRnckNMSA-Gg	[Local Services, Home Cleaning, Home Services, Carpet Cleaning]	Scottsdale	AZ	33.6803	-111.83301	5.0	0
+irSdqGLFilBT3IoToz_NVQ	[Dance Schools, Specialty Schools, Education]	Scottsdale	AZ	33.495724	-111.92877	5.0	0
+-gM0FfOfNLCiOYNDAODppQ	[Barbers, Beauty & Spas]	Scottsdale	AZ	33.55778	-111.898766	5.0	0
+L02sDnppDBxksZuMLMXEew	[Health & Medical, Physical Therapy]	Scottsdale	AZ	33.637203	-111.882195	4.0	0
+hxcq2gG7nfZTkwS6XqU97g	[Local Flavor]	Scottsdale	AZ	33.49305	-111.93395	4.5	0
+zx6iPJg8nLkgzD_7p3qOnA	[Skin Care, Dermatologists, Health & Medical, Doctors, Beauty & Spas]	Scottsdale	AZ	33.502613	-111.931564	5.0	0
+NmZOBAApIRfv5RqQzFBIdA	[]	Scottsdale	AZ	33.58756	-111.838875	4.0	0
+3BoyVUmkOn8cTj1HyPTt9Q	[Massage, Beauty & Spas]	Scottsdale	AZ	33.49417	-111.92605	5.0	0
+fcY__Qwiq4crUJ3l9QMRLg	[Hair Salons, Skin Care, Tanning, Beauty & Spas]	Scottsdale	AZ	33.499374	-111.92336	5.0	0
+HvDLy0G9jx28a8tsiEcEbw	[Hair Salons, Beauty & Spas]	Scottsdale	AZ	33.587494	-111.83901	2.5	0
+b7bZPWK2jmFVk-ql7P_C5w	[Doctors, Health & Medical, Cosmetic Surgeons]	Scottsdale	AZ	33.579052	-111.88266	5.0	0
+-uhD_azwEWzZJJd5hnDYxA	[Health & Medical, Dentists]	Scottsdale	AZ	33.68517	-111.92549	3.0	0
+FIG82KLyiGkVmzHSoxeS2Q	[Doctors, Health & Medical, Family Practice]	Scottsdale	AZ	33.61093	-111.88174	5.0	0
+w4O2f6LEXwWJWn4thL-87Q	[Home Services, Real Estate, Apartments]	Scottsdale	AZ	33.530254	-111.90808	3.5	0
+IfXTt1wVYHQhzYe-6n5xbA	[Tobacco Shops, Shopping]	Scottsdale	AZ	33.46546	-111.86511	5.0	0
+El7NznSEjD0NMMIBgzC3Bw	[Dermatologists, Doctors, Health & Medical]	Scottsdale	AZ	33.68485	-111.9227	4.5	0
+XrvX9Stvl5Nbd0vXU_Vtcw	[Health & Medical, Chiropractors]	Scottsdale	AZ	33.487488	-111.917915	5.0	0
+-4kZWIPq6f5HHQP6GTZccQ	[Bridal, Shopping]	Scottsdale	AZ	33.624462	-111.931	5.0	0
+dIDocPgkwnYt1aE41LUqCQ	[Skin Care, Hair Removal, Beauty & Spas]	Scottsdale	AZ	33.486378	-111.917015	5.0	0
+EaQ5sGpc9XlHcHql-ZkkBg	[]	Scottsdale	AZ	33.621826	-111.91621	3.0	0
+JM6LomVcFiSt_agY4dVGZA	[Restaurants, Italian]	Scottsdale	AZ	33.573734	-111.86252	5.0	0
+tC8UW4AyEg56Wn5iNVvhvw	[Mortgage Brokers, Home Services, Real Estate]	Scottsdale	AZ	33.621037	-111.88938	5.0	0
+_JG_kjfu3npEWIvy2HhZ9w	[Fashion, Shopping, Home Decor, Used, Vintage & Consignment, Home & Garden, Furniture Stores]	Scottsdale	AZ	33.626595	-111.91815	4.0	0
+UQMTRyqq1c_l-fEHsLnPKQ	[Local Services, Shipping Centers, Printing Services]	Scottsdale	AZ	33.62216	-111.87416	4.0	0
+NP8vRlJSVWYrFQqCoe-YFQ	[Local Services, Community Service/Non-Profit]	Scottsdale	AZ	33.62308	-111.904396	4.5	0
+h-WHXV5IAHW8gjrijcy6ZA	[Health & Medical, Dentists]	Scottsdale	AZ	33.500324	-111.92163	4.5	0
+9suHzzx6upZhQ_qnhVjsgg	[Women's Clothing, Men's Clothing, Fashion, Shopping, Accessories]	Scottsdale	AZ	33.623913	-111.92513	3.0	0
+y1AphLCaPqxFxpCjc5gwFQ	[Doctors, Fertility, Health & Medical, Obstetricians & Gynecologists]	Scottsdale	AZ	33.575607	-111.87506	4.0	0
+Mso7DPGFe81NdusmEvjFLw	[Doctors, Health & Medical, Obstetricians & Gynecologists]	Scottsdale	AZ	33.486088	-111.918755	4.0	0
+xYjlf3pudcIn7gX9p6idVg	[Arts & Entertainment, Performing Arts]	Scottsdale	AZ	33.65611	-111.92315	5.0	0
+vSC7ncSsitgSpKpMYbzi0w	[Auto Repair, Automotive, Body Shops]	Scottsdale	AZ	33.61959	-111.904594	2.0	0
+1qqGjQ2PhLSuDi3FwPSZdg	[Skin Care, Day Spas, Massage, Beauty & Spas]	Scottsdale	AZ	33.52509	-111.92533	4.5	0
+1EznjRSmTFjPeY80ybyyqA	[Dermatologists, Doctors, Health & Medical]	Scottsdale	AZ	33.502304	-111.936615	4.5	0
+Zhjx5_PW-T7vsNo3lRNnqQ	[Home Cleaning, Home Services]	Scottsdale	AZ	33.465637	-111.92825	3.0	0
+GEmr1DnMw7GsXTK8eTrA0Q	[Shopping, Jewelry, Pawn Shops]	Scottsdale	AZ	33.58236	-111.92704	4.0	0
+gKh7V9YKQruApSvaWUnSRw	[Pediatric Dentists, Health & Medical, Dentists]	Scottsdale	AZ	33.61543	-111.89272	4.0	0
+HVb4bIgw9DObuFM0EgA-Jw	[Medical Centers, Health & Medical, Urgent Care]	Scottsdale	AZ	33.583164	-111.93101	3.0	0
+6X6jz7svmw4n_bWvuA9FRA	[Auto Repair, Automotive, Car Dealers]	Scottsdale	AZ	33.4653	-111.9345	4.0	0
+npCJORbqu9MUVCb1zzeeqA	[Food, Coffee & Tea]	Scottsdale	AZ	33.63014	-111.88871	3.5	0
+nCPNksp20VThapB_sovNPw	[Food, Coffee & Tea, Cafes, Sandwiches, Restaurants]	Scottsdale	AZ	33.458523	-111.90856	4.5	0
+XlDKKtFbMGr27d89EDhTtQ	[Tanning, Beauty & Spas]	Scottsdale	AZ	33.494576	-111.91377	5.0	0
+h_WtRK_umSU8LCCmAeqbFA	[Comfort Food, Sandwiches, Restaurants]	Scottsdale	AZ	33.48124	-111.90979	4.0	0
+U97cOaXPSOGmVhKEomPjlg	[Bars, Tapas/Small Plates, Wine Bars, Nightlife, Italian, Restaurants]	Scottsdale	AZ	33.53101	-111.92584	4.0	0
+O2v3n4EHhME9IbLEUBLtng	[Active Life, Barre Classes, Pilates, Fitness & Instruction]	Scottsdale	AZ	33.653294	-111.88569	5.0	0
+qZCtzJCdt29_DdYD8US9FQ	[Italian, Pizza, Restaurants]	Scottsdale	AZ	33.619514	-111.874245	2.5	0
+GU3GGuECUTbHG8NPHXG9mQ	[American (New), Restaurants]	Scottsdale	AZ	33.502613	-111.931564	4.0	0
+MK5A7jNYnCEfgd_L7exBJg	[Hair Salons, Beauty & Spas]	Scottsdale	AZ	33.58489	-111.92439	5.0	0
+9NoaYpTbEG2qn34kq7W3ww	[Cafes, American (New), Restaurants]	Scottsdale	AZ	33.568756	-111.88644	4.5	0
+jGs5D_QUwDp_dNzj6YKEbA	[Soup, Sandwiches, Salad, Restaurants]	Scottsdale	AZ	33.628872	-111.886986	4.5	0
+xJoquhJYPujB3S6hDa3jqQ	[Food, Mexican, Butcher, Restaurants]	Scottsdale	AZ	33.486916	-111.91033	4.5	0
+59VVVF8Y9UD1tEpXD5PghQ	[Hotels & Travel, Event Planning & Services, Hotels]	Scottsdale	AZ	33.46483	-111.9142	3.5	0
+rzWSBntfsHM0IvmrAToPdw	[Acupuncture, Health & Medical]	Scottsdale	AZ	33.614277	-111.90921	5.0	0
+8y9153CYG-MSVOUBdCnJPA	[Photographers, Event Planning & Services]	Scottsdale	AZ	33.626385	-111.92038	4.0	0
+A8kJ7nzK2FU_IPkqKbjd1g	[Pet Groomers, Pet Services, Pets, Pet Stores]	Scottsdale	AZ	33.62082	-111.90017	4.0	0
+MlLFIBq_ZlagZ26f4Jwunw	[American (Traditional), Restaurants]	Scottsdale	AZ	33.507435	-111.92858	3.0	0
+bCl7ADl_WmWSbmUf8__reA	[Tobacco Shops, Shopping]	Scottsdale	AZ	33.450665	-111.90842	4.5	0
+VEjZUzGe813qQ4cIddwQBA	[Auto Repair, Automotive]	Scottsdale	AZ	33.482857	-111.92629	4.5	0
+HELt9itN1_A23pKxAZ2UAQ	[Hair Salons, Nail Salons, Beauty & Spas]	Scottsdale	AZ	33.49774	-111.92453	4.0	0
+2LZdhuiDH4RkDHQnHAOcnw	[American (Traditional), Comfort Food, Gluten-Free, Restaurants]	Scottsdale	AZ	33.81574	-111.78416	3.5	0
+vtGraRCZzG5q1lpipR030A	[Professional Sports Teams, Arts & Entertainment, Stadiums & Arenas]	Scottsdale	AZ	33.640636	-111.9086	4.5	0
+GSxkH_GCTuySl3KHSdroQw	[Fast Food, Restaurants]	Sun City West	AZ	33.6542	-112.355064	2.5	0
+CLn_HtdsNKwJ99qrXznk_A	[Active Life, Golf, Event Planning & Services, Venues & Event Spaces]	Sun City West	AZ	33.66482	-112.34882	2.5	0
+2DdG2iIe8kg3Fk-UakiXLg	[Shopping, Watches]	Sun City	AZ	33.637814	-112.27191	2.5	0
+_0DaDbjr4iKxqWoN7EvNzA	[Auto Repair, Automotive]	Sun City	AZ	33.61875	-112.29074	5.0	0
+gJ0EC555EYYqFKbEUzEbog	[Food, Coffee & Tea]	Surprise	AZ	33.63872	-112.35222	3.0	0
+wFwlPrQhXadRIHwxIl5VFQ	[Food, Specialty Food, Candy Stores]	Surprise	AZ	33.608192	-112.35591	4.5	0
+_K5cfCM7-zQZ1hXdbsc2fQ	[Thai, Restaurants]	Surprise	AZ	33.641495	-112.355965	3.5	0
+AWLrBBkovnoJxhOglCygXw	[Chinese, Restaurants]	Surprise	AZ	33.639664	-112.35794	3.0	0
+GrVYU7eSBrjruL_ScqI28w	[Bars, Restaurants, American (Traditional), Sports Bars, Nightlife]	Surprise	AZ	33.608498	-112.35911	3.0	0
+eYjP4j-hfjhKlBcmsycGtw	[Food, Grocery]	Surprise	AZ	33.63825	-112.39468	2.5	0
+6FWYAmoy4IIoif-d2hqyyw	[Active Life, Playgrounds]	Surprise	AZ	33.594852	-112.37837	3.5	0
+eB7jr6YI5EZvSiGLPspyZg	[Optometrists, Health & Medical]	Surprise	AZ	33.639996	-112.42395	4.0	0
+sympcuPtnBHM-0keSZ9aYQ	[Local Services, Carpet Cleaning]	Surprise	AZ	33.618755	-112.43732	4.5	0
+1X8duKkbZmyfB4r_yWwLoQ	[Veterinarians, Pets]	Surprise	AZ	33.638584	-112.35546	3.0	0
+BDXKnMfbY1vraCXAKx0j7Q	[Fast Food, Restaurants]	Surprise	AZ	33.62411	-112.394485	4.0	0
+WbWtrs4o-DSsSrlU2MrFZA	[Pet Groomers, Pet Services, Pets]	Surprise	AZ	33.63505	-112.42673	3.5	0
+FPYrUmhC-KDPQNPFr4yLpA	[Fast Food, Restaurants]	Surprise	AZ	33.61047	-112.35966	4.0	0
+RuaId_J-IffTGT57y5M3mQ	[Sandwiches, Restaurants]	Surprise	AZ	33.609776	-112.39335	4.0	0
+1WZ-rmm7WFajdd4wm_bZvQ	[Automotive, Gas & Service Stations]	Surprise	AZ	33.654396	-112.370735	5.0	0
+GQwcQomY11SPfjYpAwO9ww	[Hotels & Travel, Tours, Vacation Rental Agents]	Surprise	AZ	33.647797	-112.450195	4.5	0
+ZVzfwkgKOVCDXuqiuFLAcw	[Shopping, Cosmetics & Beauty Supply, Beauty & Spas]	Surprise	AZ	33.63858	-112.35168	3.5	0
+D1U7G52PXUYfyrER01b_Vw	[Department Stores, Grocery, Fashion, Shopping, Food, Mobile Phones]	Surprise	AZ	33.610542	-112.41986	4.0	0
+UYGhLm3yZEI6LePTWwx74w	[Tires, Automotive, Fashion, Shopping, Department Stores]	Surprise	AZ	33.64256	-112.35771	2.5	0
+EVc3mv-_1buaBaOkhu6hYw	[Shopping, Drugstores, Beauty & Spas, Food, Convenience Stores, Cosmetics & Beauty Supply]	Surprise	AZ	33.639427	-112.42609	3.5	0
+0NK4kC0drp660PZgtfFBYg	[Food, Ice Cream & Frozen Yogurt]	Surprise	AZ	33.608376	-112.35911	2.0	0
+acdn11LI1OgNSSOJoZ5uUA	[Home Services, Heating & Air Conditioning/HVAC]	Surprise	AZ	33.64285	-112.37487	4.0	0
+uWG5aqClFp-240jCBZQHZQ	[Arts & Entertainment, Cinema]	Surprise	AZ	33.60816	-112.359085	2.5	0
+2mzgdkSCNIGr0LYAr8i3Yw	[Restaurants]	Surprise	AZ	33.65787	-112.375206	2.5	0
+Xim18B8YrruZ56GQGY-3eA	[Hotels & Travel, Event Planning & Services, Hotels]	Surprise	AZ	33.633408	-112.37683	5.0	0
+eAuZtSnA6cgwR7Um7eA2rg	[Hotels & Travel, Event Planning & Services, Hotels]	Surprise	AZ	33.63735	-112.330925	5.0	0
+mlec25bZnG3yHj50BZfjSg	[Women's Clothing, Men's Clothing, Fashion, Shopping, Shoe Stores]	Surprise	AZ	33.59501	-112.3906	5.0	0
+6VsKUNttbfmkWwz3S3SX_g	[American (New), Restaurants]	Surprise	AZ	33.609188	-112.36165	4.0	0
+0kj_VTrKrYhRNBfRL0_aZA	[Accountants, Professional Services, Tax Services, Financial Services]	Surprise	AZ	33.592785	-112.37778	5.0	0
+OTk0L8MrVPbfaySoG-XvGw	[Hair Salons, Beauty & Spas]	Tempe	AZ	33.407436	-111.90971	4.5	0
+tVS-UesWidRGd_CW1b6G_g	[Food, Coffee & Tea]	Tempe	AZ	33.36276	-111.93534	3.5	0
+jsMv_hb1tzP9Olssu1xAcA	[Gluten-Free, Pizza, Salad, Restaurants]	Tempe	AZ	33.335052	-111.94457	4.0	0
+MPyxaNVuWlAQqJ0iKV5rQw	[Restaurants, Buffets, Italian]	Tempe	AZ	33.34826	-111.90884	4.0	0
+jmdipeXp57xW6MrQ_ZAQFw	[Beauty & Spas, Nail Salons]	Tempe	AZ	33.379375	-111.92842	3.5	0
+zENkQ3CGMkANafH0jwIn_A	[Pubs, Bars, Nightlife, Sports Bars]	Tempe	AZ	33.3783	-111.906525	3.5	0
+86AZbqcHrIGOCh1MG0cMAg	[Pet Services, Pet Stores, Pets]	Tempe	AZ	33.429863	-111.90432	3.0	0
+m58lhWlKFYYITEB8rMJ_sA	[Greek, Restaurants]	Tempe	AZ	33.42168	-111.90849	4.0	0
+IhZyrWFgE_qUEFCxuXAj8Q	[Active Life, Gyms, Fitness & Instruction]	Tempe	AZ	33.421303	-111.91697	4.0	0
+C8nx9teRYXgnucLKMk29Kg	[Food, Food Delivery Services, Italian, Pizza, Restaurants]	Tempe	AZ	33.425617	-111.939804	3.0	0
+UOLoBdnMv0Nsxdxe8xKbYQ	[Pubs, Bars, Sports Bars, Karaoke, Nightlife]	Tempe	AZ	33.41431	-111.924484	4.0	0
+2GY8GQU8KH_TOrobCZ3xSg	[Beauty & Spas, Nail Salons]	Tempe	AZ	33.445747	-111.92696	4.0	0
+YvZBcO7DyrL_0OZVQ1kZpw	[Car Wash, Automotive]	Tempe	AZ	33.421997	-111.90634	5.0	0
+NHy-HT-FI305jqgyeIWPCQ	[Arts & Entertainment, Music Venues, Bars, Dive Bars, Nightlife, American (New), Restaurants]	Tempe	AZ	33.41484	-111.908424	3.5	0
+z2_1nAf0YQJOvfrt59-Z8g	[Active Life, Martial Arts, Fitness & Instruction]	Tempe	AZ	33.421864	-111.94306	5.0	0
+u86-QTjdgN5bi71J0v10Og	[Active Life, Diving]	Tempe	AZ	33.33502	-111.92708	4.0	0
+vDftL4Exl7ZcMVx2aPY8mQ	[Allergists, Doctors, Health & Medical]	Tempe	AZ	33.3639	-111.9263	1.5	0
+HRW6X5wKb9lxTFhAA0BW_Q	[Local Services, Professional Services, Printing Services, Graphic Design]	Tempe	AZ	33.34935	-111.94811	4.0	0
+IhJqX5pstVfETIIarEy9TQ	[Home Services, Heating & Air Conditioning/HVAC]	Tempe	AZ	33.398003	-111.948326	2.5	0
+QMTaC3-LNXgLHjCK01Zw5w	[Food, Donuts, Coffee & Tea, Bubble Tea]	Tempe	AZ	33.407665	-111.95493	4.5	0
+U_TAK6G9PB8JYcfZKn16EA	[Used, Vintage & Consignment, Fashion, Shopping]	Tempe	AZ	33.349117	-111.92669	4.0	0
+a005dmIuruMPjki2s1euWw	[Veterinarians, Pets]	Tempe	AZ	33.429863	-111.90432	3.5	0
+rEOgvyGzAZjysWcbDXupcg	[Banks & Credit Unions, Financial Services, Mortgage Brokers, Home Services, Real Estate]	Tempe	AZ	33.392506	-111.908585	2.5	0
+xhMJ6Qgs5OVBpSKy5QhTng	[Sporting Goods, Shopping]	Tempe	AZ	33.392944	-111.92368	3.5	0
+ihBjJvt1m03V4WkcB0oHHA	[Local Services, Sewing & Alterations]	Tempe	AZ	33.350338	-111.912285	3.5	0
+kctHb_sEIkeH47ldwqDxww	[Automotive, Car Dealers]	Tempe	AZ	33.345783	-111.96959	5.0	0
+QQFryeavbo5GHivAzyjeDA	[Food, Specialty Food, Grocery, Meat Shops]	Tempe	AZ	33.415016	-111.88647	5.0	0
+ejoJ5vER20gKtKZoRoTk-A	[Active Life, Martial Arts, Fitness & Instruction]	Tempe	AZ	33.36429	-111.895294	2.0	0
+CUnBNwqtkEHbmJwl0oaKqg	[Auto Repair, Automotive, Body Shops]	Tempe	AZ	33.427055	-111.896545	5.0	0
+G_viytTGQ1x-9hHGdBx4SA	[Veterinarians, Pets]	Tempe	AZ	33.334633	-111.91302	5.0	0
+f7n_QA1A_hvfyVPvNNQ6Yw	[Banks & Credit Unions, Financial Services]	Tempe	AZ	33.425617	-111.939804	2.5	0
+qZBZ0B_Wl05LP4eQnEuQTg	[Banks & Credit Unions, Financial Services]	Tempe	AZ	33.34875	-111.911	3.0	0
+eyXh7zyeeP2J4jsBAIsP0g	[Furniture Stores, Shopping, Home & Garden, Office Equipment]	Tempe	AZ	33.393154	-111.88893	3.0	0
+vgBUz7_014hKJDjd5lDAPQ	[Massage, Beauty & Spas]	Tempe	AZ	33.370796	-111.9282	3.5	0
+0zp6iCXDwn5uSoy5JeirHA	[Barbers, Beauty & Spas]	Tempe	AZ	33.34923	-111.9521	4.0	0
+Yy3FukzeyEjp5Aem6GhvsA	[Shopping, Drugstores]	Tempe	AZ	33.39234	-111.92589	3.0	0
+WSpyF97ml2SUqmoDDpyXHw	[Car Wash, Automotive]	Tempe	AZ	33.320553	-111.961266	1.5	0
+zjpDEGgsfGxYurHiN1FPRw	[Food, Farmers Market]	Tempe	AZ	33.436665	-111.94032	4.5	0
+RQoNtBrqETFLK9L2ANxUvg	[Department Stores, Fashion, Shopping]	Tempe	AZ	33.363777	-111.908585	4.0	0
+EzISXh3nXkWnlnQPmb023Q	[]	Tempe	AZ	33.349297	-111.958565	2.5	0
+imi2DfoBrS4iNVxXBnwdIg	[Beauty & Spas, Health & Medical, Medical Spas]	Tempe	AZ	33.393044	-111.931335	5.0	0
+A5we80yH1jA1jD1EvUt3pA	[Medical Centers, Health & Medical]	Tempe	AZ	33.424282	-111.92409	1.0	0
+204_6ZlNOdPEYzSzZtoG4Q	[Massage Therapy, Reflexology, Health & Medical, Massage, Beauty & Spas]	Tempe	AZ	33.334686	-111.912315	4.5	0
+dPcHjcihgttBkBurohn60g	[Hair Salons, Beauty & Spas]	Tempe	AZ	33.395912	-111.93965	3.5	0
+uexzjtrZerK-zxuexAZMkA	[Hair Salons, Beauty & Spas]	Tempe	AZ	33.33517	-111.91278	5.0	0
+sJv-r6o7hxcs3pCKgbuUAw	[Food, Grocery]	Tempe	AZ	33.3916	-111.93996	4.5	0
+Bukwck4PsLHF8ZFju8X13Q	[Local Services, Sewing & Alterations]	Tempe	AZ	33.334686	-111.912315	4.5	0
+LVan8aRMDNzaOwW1mFsH1g	[Lingerie, Shopping, Fashion, Adult]	Tempe	AZ	33.379864	-111.927795	4.0	0
+MlQQC-K8rg4cuRPXcZjFvA	[Professional Services]	Tempe	AZ	33.332134	-111.96976	4.5	0
+sLrdo14R2HdSp3PmnJ3oKA	[Doctors, Health & Medical]	Tempe	AZ	33.364815	-111.91063	3.5	0
+bqTyEM4IdEfXx4Q_xXIejA	[Automotive, Auto Parts & Supplies]	Tempe	AZ	33.39286	-111.93825	4.5	0
+RfJcKElXpXUQ9zJePuPhQw	[Automotive, Gas & Service Stations]	Tempe	AZ	33.42154	-111.97021	4.0	0
+ZOzY--xBNSs-QSukzLn5kA	[Automotive, Gas & Service Stations]	Tempe	AZ	33.39284	-111.89231	4.5	0
+6FPggy0qMHdZOUyxRP03tA	[Shopping, Home & Garden, Furniture Stores]	Tempe	AZ	33.385284	-111.96456	1.5	0
+ygaVyUOaLbTqaqXK0DU1ng	[Massage Therapy, Health & Medical]	Tempe	AZ	33.395187	-111.92654	5.0	0
+yv8qiwqR4Y0a8qiHeGOefA	[Pubs, Bars, Dance Clubs, Nightlife, Lounges]	Tempe	AZ	33.42534	-111.93985	3.5	0
+ARsdp6eSkfPnKlPaHcv-Lg	[Home Services, Real Estate, Apartments]	Tempe	AZ	33.355686	-111.94993	2.5	0
+83RLRT-MsvXQJrmIanqVYA	[Bars, Food, Beer, Wine & Spirits, Pubs, Nightlife, American (New), Restaurants]	Tempe	AZ	33.393013	-111.91462	4.0	0
+CsYj-3uhV5c4jDue8Dp9FA	[Hair Salons, Hair Extensions, Beauty & Spas]	Tempe	AZ	33.36373	-111.93059	5.0	0
+sJOsbi3EsaWIG_D_Ok526w	[Hair Salons, Beauty & Spas]	Tempe	AZ	33.332397	-111.91189	5.0	0
+_Oaj1X0vAlOu5bAX6ingzA	[Mexican, Restaurants]	Tempe	AZ	33.332733	-111.94697	3.5	0
+a_C0E1D4bCIaoVMdCryDfw	[Veterinarians, Pets]	Tempe	AZ	33.392265	-111.94504	3.5	0
+FV5YseV_tryaycL__heerg	[]	Tempe	AZ	33.421913	-111.92524	2.5	0
+B8-4H_dkfqA1HWWfkW7hfA	[Doctors, Health & Medical, Family Practice]	Tempe	AZ	33.393974	-111.924904	5.0	0
+GGbxoT6GbnGEdwPe2bchWQ	[Auto Repair, Automotive]	Tempe	AZ	33.44026	-111.92147	5.0	0
+dGaYFqOXo9V6IjdA3RH-0A	[Real Estate Services, Property Management, Home Services, Real Estate]	Tempe	AZ	33.40672	-111.88901	1.0	0
+6Wc1QJGEN92EPfZRDb-WVg	[Music & DVDs, Books, Mags, Music & Video, Shopping]	Tempe	AZ	33.385284	-111.96456	4.5	0
+JcFL-gXzP7kDsCzCg_4JLA	[Colleges & Universities, Education]	Tempe	AZ	33.416225	-111.93661	5.0	0
+7mNPyQJYtIR26Y4KQa2g1Q	[Burgers, Fast Food, Restaurants]	Tempe	AZ	33.333687	-111.948135	2.5	0
+QNueeDJ9pWC7lRm-F8ohJg	[Active Life, Boating, Sporting Goods, Shopping, Outdoor Gear]	Tempe	AZ	33.392998	-111.91276	2.5	0
+jgHNa2VHgeCANh8bgFDjjQ	[Japanese, Restaurants]	Tempe	AZ	33.43414	-111.90221	3.5	0
+JDVe1R7kdC0qD2ECczFuEA	[Sporting Goods, Fashion, Shopping, Shoe Stores, Sports Wear]	Tempe	AZ	33.33502	-111.92708	5.0	0
+WupCl5odiu_3F2lBrzDpsg	[Pizza, Sandwiches, Restaurants]	Tempe	AZ	33.445053	-111.926956	3.5	0
+wtGArpfNEvvYDSn6UVKibQ	[Restaurants, Pizza, Italian]	Tempe	AZ	33.32107	-111.92966	3.5	0
+Z_AF7hMunongLQ0XZPNaRg	[Chinese, Restaurants]	Tempe	AZ	33.42234	-111.94661	3.0	0
+6w_k3NCXF_p8UTWDxpOF5w	[Event Planning & Services, Caterers]	Tempe	AZ	33.349583	-111.91068	4.0	0
+MgeTOUgrR_j3bkGfcuKSfg	[Real Estate Services, Home Services, Real Estate]	Tempe	AZ	33.3816	-111.92414	5.0	0
+QMvT_O0Y8U_ULBZmenh_EA	[Food, Breweries]	Tempe	AZ	33.402504	-111.94413	5.0	0
+hwDtxNFuSiOOsMp6Z08qiA	[Hotels & Travel, Event Planning & Services, Hotels]	Tempe	AZ	33.37714	-111.96521	3.5	0
+cMhZBZ2pnnsOtgXlzXpDLQ	[Local Services, Notaries]	Tempe	AZ	33.392998	-111.91276	5.0	0
+YYusFRV0DRDl-4ph-is-Pw	[Doctors, Health & Medical]	Tempe	AZ	33.379093	-111.90212	3.0	0
+9HNjFCipcQ4RQhuCGcXhfw	[Auto Repair, Automotive, Car Dealers]	Tempe	AZ	33.34305	-111.967766	1.0	0
+bseKVnOu_Zjor8Dgukb1eQ	[Active Life, Dance Studios, Fitness & Instruction]	Tempe	AZ	33.450882	-111.92723	5.0	0
+aQ7lQnZZGUhh60Ex983OCg	[Sporting Goods, Shopping]	Tempe	AZ	33.42918	-111.909035	3.5	0
+RlmWDB0zxcwMJX55nalSAQ	[Auto Repair, Automotive]	Tempe	AZ	33.421482	-111.94705	3.0	0
+uVnDZWkfGsm5wsPOpAYLWw	[Shopping, Home & Garden, Furniture Stores]	Tempe	AZ	33.338867	-111.96936	1.0	0
+vO-qXdgvzoeLoSgRtOCwlA	[Shopping, Office Equipment]	Tempe	AZ	33.394066	-111.90912	3.0	0
+XAyt_8k2gWoKkhf6tYmu4g	[Auto Repair, Automotive, Oil Change Stations]	Tempe	AZ	33.43996	-111.91423	5.0	0
+ApEvXLmsPMWsUVEfPkrmfg	[Bakeries, Food, Breakfast & Brunch, Restaurants]	Tempe	AZ	33.35013	-111.928696	3.0	0
+z7ET7L-Sumvmcz1L4DQMgQ	[Local Services, Carpet Cleaning]	Tempe	AZ	33.37938	-111.89346	2.0	0
+eYnmTkEV3l7A1tB7NPAsuA	[Financial Services]	Tempe	AZ	33.384544	-111.926384	5.0	0
+8yPb3f8MI5GvKs8gd793PA	[Italian, Pizza, Restaurants]	Tempe	AZ	33.415035	-111.91847	3.5	0
+pFrReGMpBRpM97nABzjH6Q	[Financial Services, Insurance]	Tempe	AZ	33.33636	-111.96269	5.0	0
+4tq0iigx84e1TfmqTgCKnA	[Beauty & Spas, Nail Salons]	Tempe	AZ	33.391922	-111.89203	4.0	0
+tI5I_H-9DwDTm0EUvbVLcg	[Active Life]	Tempe	AZ	33.4301	-111.94076	3.5	0
+Setor6vWoeVq0-ejdlq1aw	[Automotive]	Tempe	AZ	33.35424	-111.96367	5.0	0
+Wa9nN637fEBbcAafbn2c8A	[Beauty & Spas, Nail Salons]	Tempe	AZ	33.43228	-111.902336	4.0	0
+JTuTbztTMwJ4rpbO9Q-hCQ	[Auto Repair, Automotive, Body Shops]	Tempe	AZ	33.398518	-111.95235	5.0	0
+emKCDGxYpL-hsLDQiULBdQ	[Middle Eastern, Lebanese, Mediterranean, Restaurants]	Tempe	AZ	33.442635	-111.926575	3.5	0
+Pv7gAD0aITESHP4EIiueEQ	[Shopping, Optometrists, Health & Medical, Eyewear & Opticians]	Tempe	AZ	33.392696	-111.93467	2.0	0
+HRwqeCdIH5joMnirnqrV3A	[Bars, Vietnamese, Nightlife, Restaurants]	Tempe	AZ	33.43699	-111.92698	4.0	0
+Qd12-z8Ss4pdqQim0yetKw	[Food, Farmers Market]	Tempe	AZ	33.393173	-111.91083	2.5	0
+A8dOA00FGNoJ46CDo6cTvQ	[]	Tempe	AZ	33.436665	-111.94032	2.0	0
+-_LReJW6VV2RBIPS_TaZWQ	[Women's Clothing, Department Stores, Fashion, Shopping, Baby Gear & Furniture]	Tempe	AZ	33.429863	-111.90432	4.5	0
+xfZhTtsYzY95B4IG0FHXSA	[Food, Live/Raw Food, Juice Bars & Smoothies, Vegan, Restaurants]	Tempe	AZ	33.394047	-111.91069	4.5	0
+svx5Gw-FJ6ZU9hb58aXgLg	[Middle Eastern, Lebanese, Mediterranean, Moroccan, Restaurants]	Tempe	AZ	33.407803	-111.95375	4.5	0
+POUFBdmzTqxZQVY4qcd0fQ	[Department Stores, Fashion, Shopping, Drugstores]	Tolleson	AZ	33.464134	-112.24752	2.0	0
+9Eh58iyLI4cv6Fsnm6z5ow	[Food, Coffee & Tea]	Tolleson	AZ	33.42277	-112.27228	4.0	0
+7xnzVnCLsbBwfoRemL4NMQ	[Burgers, Restaurants]	Wickenburg	AZ	33.96392	-112.75274	4.0	0
+GsdTYgE4GqHYTTnA9v9J0Q	[Arts & Entertainment]	Wickenburg	AZ	33.954052	-112.77807	4.5	0
+lx__YjGOYxuIeK2VsTUfEg	[Active Life]	Wickenburg	AZ	33.933014	-112.6903	4.5	0
+RrI7eg0TZtdwCpXBWHTo3A	[Pizza, Restaurants]	Wickenburg	AZ	33.968933	-112.72093	3.5	0
