@@ -11,6 +11,8 @@ import java.util.ArrayList;
  */
 class Features {
 
+    //TODO: Make all members private, create modifier and accesor methods, do error checking on modifiers
+    //Get rid of unnecessary fields
     public int starRating;
     public ArrayList<Integer> nounPhrases;
     public int totalNounPhrases;
