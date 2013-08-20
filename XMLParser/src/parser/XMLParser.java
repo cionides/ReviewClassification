@@ -1,3 +1,5 @@
+package parser;
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -14,22 +16,40 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map.Entry;
 
+/**
+ * This class is used to parse out the noun phrases from the XML formatted Review text.
+ * The text has been tagged with POS tags using the Stanford Core NLP POS tagger. 
+ * 
+ * @author cionides
+ */
 public class XMLParser {
 
+    /**
+     * This holds the noun phrases extracted from all tagged Review text.
+     * The key is the noun phrase and the value is the count-i.e the number of times
+     * that noun phrase appears in all review text.
+     */
     public static HashMap<String, Integer> nounPhraseMap = new HashMap<String, Integer>();
+    /**
+     * This value determines the order that a hash map will e sorted.
+     */
     public static boolean DESC = false;
+    /**
+     * This arraylist holds the tagged string.
+     */
     public static ArrayList<String> taggedString = new ArrayList<String>();
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //read in all xml files
         for (int i = 1; i < 100; i++) {
             String fileName = "xml_output/review_part" + i + ".txt.xml";
             readXML(fileName);
         }
+       
         printParsedXML(taggedString);
-
         processNounPhrases();
 
         //remove plurals(when singular exists) and remove singulars (when plural already exists)
@@ -38,6 +58,12 @@ public class XMLParser {
         printNounPhraseMap(nounPhraseMap);
     }
 
+    /**
+     * Combines the singular and plural versions of noun phrases.
+     * 
+     * @param npm is the noun phrase map
+     * @return a map of noun phrases and their count without plurals.
+     */
     public static HashMap<String, Integer> removePlurals(HashMap<String, Integer> npm) {
         ArrayList<String> toRemove = new ArrayList<String>();
         HashMap<String, Integer> toAddFreq = new HashMap<String, Integer>();
@@ -73,6 +99,12 @@ public class XMLParser {
         return npm;
     }
 
+    /**
+     * For each XML file, this method is called and any tagged noun phrases are
+     * read in and added to the class level var "taggedString".
+     * 
+     * @param fileName is the name of the XML file to be read in.
+     */
     public static void readXML(String fileName) {
 
         try {
@@ -89,17 +121,21 @@ public class XMLParser {
 
                     ArrayList<String> tags = getNestedTags(line);
                     for (String t : tags) {
-
                         taggedString.add(t);
                     }
                 }
-
             }
             in.close();
         } catch (Exception e) {
         }
     }
 
+    /**
+     * This parses out the nested tags(the noun phrases within noun phrases).
+     * 
+     * @param s is the tagged string to be parsed 
+     * @return the ArrayList with ALL tags.
+     */
     public static ArrayList<String> getNestedTags(String s) {
 
         ArrayList<String> tags = new ArrayList<String>();
@@ -139,6 +175,11 @@ public class XMLParser {
         return tags;
     }
 
+    /**
+     * Prints the noun phrase map, the noun phrases and their respective counts.
+     * 
+     * @param npm is the map of noun phrases and their counts. 
+     */
     public static void printNounPhraseMap(HashMap<String, Integer> npm) {
         try {
             File file = new File("nounPhraseMap.txt");
@@ -149,20 +190,25 @@ public class XMLParser {
             FileWriter fw = new FileWriter(file.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
 
-
             for (String np : npm.keySet()) {
                 bw.write(np + " " + "Freq: " + " " + npm.get(np));
                 bw.newLine();
-
             }
 
             bw.close();
-
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
+    /**
+     * Sorts a hashmap by the value, so in this case the noun phrase map
+     * will be sorted in ascending order.
+     * 
+     * @param unsortMap the unsorted hash map of noun phrases and their counts
+     * @param order the order it is to be sorted in
+     * @return a sorted hash map of noun phrases and their counts
+     */
     private static HashMap<String, Integer> sortByComparator(HashMap<String, Integer> unsortMap, final boolean order) {
 
         List<Entry<String, Integer>> list = new LinkedList<Entry<String, Integer>>(unsortMap.entrySet());
@@ -175,7 +221,6 @@ public class XMLParser {
                     return o1.getValue().compareTo(o2.getValue());
                 } else {
                     return o2.getValue().compareTo(o1.getValue());
-
                 }
             }
         });
@@ -189,6 +234,11 @@ public class XMLParser {
         return sortedMap;
     }
 
+    /**
+     * prints the parsed xml, so the noun phrases.
+     * 
+     * @param taggedSentences the sentences that were tagged as noun phrases
+     */
     public static void printParsedXML(ArrayList<String> taggedSentences) {
         try {
             File file = new File("tagged_review_sentences.txt");
@@ -204,7 +254,6 @@ public class XMLParser {
 
                 bw.write(review);
                 bw.newLine();
-
             }
             bw.close();
 
@@ -213,6 +262,12 @@ public class XMLParser {
         }
     }
 
+    /**
+     * TODO: Break this method into multiple methods, create util method for reading files in
+     * Once the tagged text has been pulled from the XML files, the punctuation is stripped
+     * everything is lower case, and all stopwords are discounted. lastly, the remaining noun phrases
+     * are added to the map.
+     */
     public static void processNounPhrases() {
         //have an array list of all tags
         ArrayList<String> posTags = new ArrayList<String>();
@@ -254,7 +309,6 @@ public class XMLParser {
             }
         }
         for (String nounPhrase : preProcessedNPs) {
-
             //remove parens           
             if (nounPhrase.contains("(")) {
                 nounPhrase = nounPhrase.replace("(", "");
@@ -262,7 +316,6 @@ public class XMLParser {
             if (nounPhrase.contains(")")) {
                 nounPhrase = nounPhrase.replace(")", "");
             }
-
             for (String pt : posTags) {
                 if (nounPhrase.equals(pt)) {
                     nounPhrase = nounPhrase.replace(pt, "");
@@ -299,10 +352,15 @@ public class XMLParser {
             } else {
                 nounPhraseMap.put(p, 1);
             }
-
         }
     }
 
+    /**
+     * Method to strip all punctuation from a noun phrase.
+     * 
+     * @param s the string to remove punctuation from.
+     * @return the cleaned string.
+     */
     public static String stripPunctuation(String s) {
 
         StringBuffer sb = new StringBuffer();
