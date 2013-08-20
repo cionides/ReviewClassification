@@ -17,4 +17,8 @@ The whole process of classifying was a combination of programs and tools.  The o
 * Prediction--with RapidMiner
 
 __RESOURES/DATA SETS:__ The data was obtained from the Kaggle Yelp Recruiting Competition, and can be viewed
-at: http://www.kaggle.com/c/yelp-recruiting/data.
+at: http://www.kaggle.com/c/yelp-recruiting/data. I DID NOT include the data sets OR  the xml files due to size, but all instances where they would 
+be needed or used should be noted in comments or the projects README file.
+
+__NOTE:__ Please see the report.pdf for a full description of the project and the reasoning behind some of the decisions I made.
+Each of the five project directories contains a README file explaining how it works, what it needs to run, etc.
