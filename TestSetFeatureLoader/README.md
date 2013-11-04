@@ -17,18 +17,11 @@ _ yelp_training_set/
 ⁃ Empty before running*
 
 __GENERATED/OUTPUT FILES:__
-* user_object.txt
-* A file of all user objects from training data
-* review_object.txt
-* A file of all review object from training data
-* business_object.txt
-* A file of all business objects from training data
-* review_content.txt
-* The text from all the selected review objects
-* uvMap.txt
-* The mapping of Useful Vote counts and the number of reviews with
+* user_object.txt- A file of all user objects from training data
+* review_object.txt- A file of all review object from training data
+* business_object.txt- A file of all business objects from training data
+* review_content.txt- The text from all the selected review objects
+* uvMap.txt- The mapping of Useful Vote counts and the number of reviews with
 that count
-* batch_files/
-* contains 500 txt files of the format: "review_partN.txt"
-* These files are later used as input to the stanford core nlp tool, and
+* batch_files- contains 500 txt files of the format: "review_partN.txt".  These files are later used as input to the stanford core nlp tool, and
 500 xml files of the tagged text are generated.
