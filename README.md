@@ -16,7 +16,7 @@ The whole process of classifying was a combination of programs and tools.  The o
 * TestSetFeatureLoader
 * Prediction--with RapidMiner
 
-__RESOURES/DATA SETS:__ The data was obtained from the Kaggle Yelp Recruiting Competition, and can be viewed
+__RESOURCES/DATA SETS:__ The data was obtained from the Kaggle Yelp Recruiting Competition, and can be viewed
 at: http://www.kaggle.com/c/yelp-recruiting/data. I DID NOT include the data sets OR  the xml files due to size, but all instances where they would 
 be needed or used should be noted in comments or the projects README file.
 
